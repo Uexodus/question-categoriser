@@ -1,0 +1,175 @@
+\title{
+1. Evaluate
+}
+
+\[
+2 \frac{3}{8} \div \frac{5}{16}
+\]
+
+2. Multiply out the brackets and collect like terms
+
+\[
+(2 x+3)\left(x^{2}-4 x+1\right)
+\]
+
+3. Two forces acting on a rocket are represented by vectors \(\mathbf{u}\) and \(\mathbf{v}\).
+
+\[
+\mathbf{u}=\left(\begin{array}{r}
+2 \\
+-5 \\
+-3
+\end{array}\right) \text { and } \mathbf{v}=\left(\begin{array}{r}
+7 \\
+4 \\
+-1
+\end{array}\right)
+\]
+
+Calculate \(|\mathbf{u}+\mathbf{v}|\), the magnitude of the resultant force.
+
+Express your answer as a surd in its simplest form. 4. Solve the equation
+
+\[
+2 x^{2}+7 x-15=0
+\]
+
+5. Express \(\frac{4}{\sqrt{6}}\) with a rational denominator in its simplest form. 6. Teams in a quiz answer questions on film and sport.
+
+This scattergraph shows the scores of some of the teams.
+
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-03.jpg?height=708&width=965&top_left_y=403&top_left_x=517)
+
+A line of best fit is drawn as shown.
+
+(a) Find the equation of this straight line.
+
+(b) Use this equation to estimate the sports score for a team with a film score of 8. 7. (a) Multiply out the brackets and simplify:
+
+\[
+x^{\frac{1}{2}}\left(x^{-\frac{3}{2}}+x^{-\frac{1}{2}}\right) .
+\]
+
+(b) Find the exact value of this expression when \(x=6\).
+
+8. Change the subject of the formula \(p=\frac{m v^{2}}{2}\) to \(v\). 9. A parabola has equation \(y=x^{2}-8 x+19\).
+
+(a) Write the equation in the form \(y=(x-p)^{2}+q\).
+
+(b) Sketch the graph of \(y=x^{2}-8 x+19\), showing the coordinates of the turning point and the point of intersection with the \(y\)-axis. 10. Brian and Bob visit a ski resort. Brian buys 3 full passes and 4 restricted passes. The total cost of his passes is \(£ 185\).
+
+(a) Write down an equation to illustrate this information.
+
+(b) Bob buys 2 full passes and 3 restricted passes.
+
+The total cost of his passes is \(£ 130\).
+
+Write down an equation to illustrate this information.
+
+(c) Find the cost of a restricted pass and the cost of a full pass.
+
+11. Express
+
+\[
+\frac{4}{x+2}-\frac{3}{x-4}, \quad x \neq-2, x \neq 4
+\]
+
+as a single fraction in its simplest form. 12. A cylindrical pipe has water in it as shown.
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-07.jpg?height=522&width=904&top_left_y=333&top_left_x=474)
+
+The depth of the water at the deepest point is 5 centimetres.
+
+The width of the water surface, \(A B\), is 18 centimetres.
+
+The radius of the pipe is \(r\) centimetres.
+
+The distance from the centre, 0 , of the pipe to the water surface is \(x\) centimetres.
+
+(a) Write down an expression for \(x\) in terms of \(r\).
+
+(b) Calculate \(r\), the radius of the pipe. 1. Beth normally cycles a total distance of 56 miles per week.
+
+She increases her distance by \(15 \%\) each week for the next three weeks.
+
+How many miles will she cycle in the third week?
+
+2. There are \(3 \times 10^{5}\) platelets per millilitre of blood.
+
+On average, a person has \(5.5\) litres of blood.
+
+On average, how many platelets does a person have in their blood?
+
+Give your answer in scientific notation. 3. In the diagram, OABCDE is a regular hexagon with centre \(M\).
+
+Vectors \(\mathbf{a}\) and \(\mathbf{b}\) are represented by \(\overrightarrow{\mathrm{OA}}\) and \(\overrightarrow{\mathrm{OB}}\) respectively.
+
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-09.jpg?height=645&width=714&top_left_y=414&top_left_x=617)
+
+(a) Express \(\overrightarrow{\mathrm{AB}}\) in terms of \(\mathbf{a}\) and \(\mathbf{b}\).
+
+(b) Express \(\overrightarrow{\mathrm{OC}}\) in terms of \(\mathbf{a}\) and \(\mathbf{b}\). 4. The graph with equation \(y=k x^{2}\) is shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-10.jpg?height=525&width=526&top_left_y=354&top_left_x=662)
+
+The point \((2,-16)\) lies on the graph.
+
+Determine the value of \(k\).
+
+5. In triangle \(P Q R, P Q=8\) centimetres, \(Q R=3\) centimetres and angle \(P Q R=120^{\circ}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-10.jpg?height=382&width=988&top_left_y=1548&top_left_x=480)
+
+Calculate the length of PR. 6. A child's toy is in the shape of a hemisphere with a cone on top, as shown in the diagram.
+
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-11.jpg?height=617&width=534&top_left_y=377&top_left_x=635)
+
+The toy is 12 centimetres wide and 17 centimetres high.
+
+Calculate the volume of the toy.
+
+Give your answer correct to 2 significant figures. 7. This year Adèle paid \(£ 465\) for her car insurance.
+
+This is an increase of \(20 \%\) on last year's payment.
+
+How much did Adèle pay last year?
+
+8. A frozen food company uses machines to pack sprouts into bags.
+
+A sample of six bags is taken from Machine \(A\) and the number of sprouts in each bag is counted.
+
+The results are shown below.
+
+\(\begin{array}{llllll}23 & 19 & 21 & 20 & 19 & 24\end{array}\)
+
+(a) Calculate the mean and standard deviation of this sample.
+
+(b) Another sample of six bags is taken from Machine B.
+
+This sample has a mean of 19 and a standard deviation of \(2 \cdot 3\).
+
+Write down two valid comparisons between the samples. 9. Screenwash is available in two different sized bottles, 'Mini' and 'Maxi'. The bottles are mathematically similar.
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-13.jpg?height=502&width=870&top_left_y=407&top_left_x=542)
+
+Calculate the volume of the 'Maxi' bottle. 10. Part of the graph of \(y=a \cos x^{\circ}+b\) is shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-14.jpg?height=683&width=1431&top_left_y=361&top_left_x=221)
+
+(a) Explain how you can tell from the graph that \(a=3\) and \(b=-1\).
+
+(b) Calculate the \(x\)-coordinates of the points where the graph cuts the \(x\)-axis. 11. A cone is formed from a paper circle with a sector removed as shown. The radius of the paper circle is 40 centimetres.
+
+Angle \(A O B\) is \(110^{\circ}\).
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-15.jpg?height=564&width=1184&top_left_y=474&top_left_x=378)
+
+(a) Calculate the area of the sector removed from the circle.
+
+(b) Calculate the circumference of the base of the cone. 12. Find the range of values of \(p\) such that the equation \(p x^{2}-2 x+3=0, p \neq 0\), has no real roots. 13. A yacht sails from a harbour \(H\) to a point \(C\), then to a point \(D\) as show below.
+![](https://cdn.mathpix.com/cropped/2023_01_18_b6c77bfab4bfa4974e76g-17.jpg?height=614&width=1158&top_left_y=344&top_left_x=346)
+
+C is 50 kilometres due east of \(\mathrm{H}\).
+
+\(D\) is on a bearing of \(040^{\circ}\) from \(C\) and is 79 kilometres from \(\mathrm{H}\).
+
+(a) Calculate the size of angle \(\mathrm{CDH}\).
+
+(b) Hence, calculate the bearing on which the yacht must sail to return directly to the harbour.

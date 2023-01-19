@@ -1,0 +1,251 @@
+\title{
+Total marks - 50 \\ Attempt ALL questions
+}
+
+1. Calculate \(|\mathbf{d}|\), the magnitude of vector \(\mathbf{d}=\left(\begin{array}{c}1 \\ -4 \\ 8\end{array}\right)\).
+
+2. Evaluate \(5 \frac{1}{2}-1 \frac{2}{7}\). 3. Expand and simplify \((6 x-5)(x+3)+2 x(4-x)\).
+
+4. In the diagram shown below
+
+- \(\quad \mathrm{PM}\) is a tangent to the circle, centre \(\mathrm{O}\)
+
+- \(\mathrm{PN}\) is a straight line
+
+- angle OPM is \(14^{\circ}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-02.jpg?height=1159&width=734&top_left_y=1008&top_left_x=707)
+
+Calculate the size of shaded angle ONM. 5. The number of absentees at Applegrove High School was recorded each day over a four-week period.
+
+The results are shown below.
+
+\(\begin{array}{cccccccccc}7 & 8 & 8 & 11 & 12 & 14 & 14 & 15 & 17 & 17 \\ 18 & 20 & 20 & 21 & 23 & 24 & 25 & 26 & 27 & 29\end{array}\)
+
+Find the semi-interquartile range of this data.
+
+6. The diagram below shows part of the graph of \(y=k x^{2}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-03.jpg?height=554&width=591&top_left_y=1448&top_left_x=664)
+
+Find the value of \(k\). 7. Solve, algebraically, the system of equations
+
+\[
+\begin{aligned}
+& 5 c+2 d=4 \\
+& 4 c-3 d=17
+\end{aligned}
+\]
+
+8. Determine the nature of the roots of the function \(f(x)=x^{2}+4 x-7\).
+
+9. Express \(\sqrt{50}+\sqrt{45}-\sqrt{2}\) in its simplest form. 10. David works in a shop, and is paid weekly.
+
+His wage is made up of a basic wage plus commission on his sales.
+
+The graph shows his wage, \(W\) pounds, against his sales, \(S\) pounds.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-06.jpg?height=428&width=648&top_left_y=483&top_left_x=630)
+
+Point A represents sales of \(£ 6000\) and a wage of \(£ 450\).
+
+Point \(B\) represents sales of \(£ 7200\) and a wage of \(£ 510\).
+
+(a) Find the equation of the line in terms of \(W\) and \(S\).
+
+Give the equation in its simplest form. 10. (continued)
+
+(b) Calculate David's wage in a week when his sales are \(£ 1000\).
+
+11. Solve, algebraically, the inequation \(1-(x+4)>2 x\). 12. A band sold 2400 tickets for their gig in Edinburgh.
+
+This was \(75 \%\) of the number of tickets sold for their gig in Glasgow.
+
+Calculate the number of tickets sold for their gig in Glasgow.
+
+13. The graph of \(y=a \cos x^{\circ}+b, 0 \leq x \leq 360\), is shown.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-08.jpg?height=806&width=988&top_left_y=1259&top_left_x=457)
+
+State the values of \(a\) and \(b\). 14. The diagram shows a hemisphere relative to the coordinate axes.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-09.jpg?height=768&width=877&top_left_y=347&top_left_x=515)
+
+- \(A\) is the point \((6,0,0)\)
+
+- \(\quad \mathrm{C}\) is the midpoint of diameter \(\mathrm{OA}\)
+
+- \(B\) is vertically below \(C\)
+
+(a) State the coordinates of B.
+
+(b) Calculate the volume of the hemisphere.
+
+Give your answer in its simplest form in terms of \(\pi\). 15. Evaluate \(16^{\frac{3}{2}}\)
+
+16. The function \(f(x)\) is defined by \(f(x)=4 \sin 3 x^{\circ}\). Evaluate \(f(90)\) 17. Sketch the graph of \(y=2(x-1)^{2}+4\).
+
+On your sketch, show clearly the coordinates of the turning point and the point of intersection with the \(y\)-axis. 18. The diagram below shows a design for a memory stick.
+
+The design consists of a rectangle, RSTU and part of a circle, centre \(\mathrm{C}\).
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-12.jpg?height=1016&width=1196&top_left_y=408&top_left_x=366)
+
+- \(\quad \mathrm{RS}=\mathrm{UT}=12\) millimetres
+
+- \(\mathrm{RU}=\mathrm{ST}=30\) millimetres
+
+- The diameter of the circle is 20 millimetres
+
+- UT is a chord of the circle
+
+Calculate the length of the memory stick. 19. Solve the equation by factorising
+
+\[
+6 x^{2}+13 x-5=0
+\]
+
+
+
+\section{Total marks - 60 \\ Attempt ALL questions}
+
+1. A housing development is being built.
+
+The price of a house built in 2020 is \(£ 250000\).
+
+This price is expected to increase by \(4 \%\) each year.
+
+Calculate the expected price of a house built in 2022.
+
+2. Light travels at \(3 \times 10^{8}\) metres per second.
+
+A star is \(4 \cdot 2 \times 10^{17}\) metres away from Earth.
+
+Calculate the number of seconds it takes for light from this star to reach Earth.
+
+Give your answer in scientific notation. 3. Factorise fully \(3 a^{2}-75\).
+
+4. In triangle \(\mathrm{PQR}\)
+
+- \(\quad \mathrm{PR}=11 \cdot 3\) metres
+
+- \(\quad \mathrm{QR}=9.8\) metres
+
+- \(\quad\) angle \(\mathrm{QPR}=54^{\circ}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-15.jpg?height=462&width=614&top_left_y=1174&top_left_x=858)
+
+Calculate the size of acute angle \(P Q R\). 5. The vectors \(\mathbf{u}\) and \(\mathbf{v}\) are shown in the diagram below.
+
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|}
+\hline & & & & & & & & & & & & \\
+\hline & & & & & & & & & & & & \\
+\hline & & & & & & & & & & & & \\
+\hline & & & & & & & & & & & & \\
+\hline
+\end{tabular}
+
+Find the resultant vector \(\mathbf{u}-\mathbf{v}\).
+
+Express your answer in component form. 6. A company operates a bus route from the city centre to the airport.
+
+The number of passengers on six of its buses on a Monday was
+
+\section{\(\begin{array}{llllll}32 & 27 & 34 & 29 & 31 & 33 .\end{array}\)}
+
+(a) Calculate the mean and standard deviation of the number of passengers.
+
+(b) The mean number of passengers the following Saturday was 28 and the standard deviation was \(3 \cdot 2\).
+
+Make two valid comments comparing the number of passengers on each bus on Monday and Saturday. 7. A fishing boat and a yacht left a harbour at the point \(\mathrm{H}\).
+
+The fishing boat travelled \(3.4\) kilometres on a bearing of \(047^{\circ}\) to the point \(F\).
+
+The yacht travelled \(5.7\) kilometres on a bearing of \(115^{\circ}\) to the point \(Y\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-18.jpg?height=785&width=805&top_left_y=481&top_left_x=563)
+
+Calculate the distance between the fishing boat at \(\mathrm{F}\) and the yacht at \(\mathrm{Y}\). 8. The diagram shows a sector of a circle, with centre \(\mathrm{C}\) and radius 14 centimetres.
+
+Angle ACB is \(110^{\circ}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-19.jpg?height=431&width=694&top_left_y=458&top_left_x=612)
+
+\(A B\) splits the sector into the shaded segment and triangle \(A B C\).
+
+Find the area of the shaded segment. 9. A straight line has equation \(3 x+4 y-8=0\).
+
+(a) Find the gradient of the line.
+
+(b) State the coordinates of the point where the line crosses the \(y\)-axis.
+
+10. Change the subject of the formula \(d=\sqrt{\frac{3 h}{2}}\) to \(h\). 11. The base of an ice cream cone has centre 0 and radius 4 centimetres. The length of \(A B\) is \(14.5\) centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-21.jpg?height=849&width=526&top_left_y=415&top_left_x=708)
+
+Calculate the volume of the cone.
+
+Give your answer correct to 2 significant figures. 12. Express
+
+\[
+\frac{6 x}{y} \div \frac{2 x^{2}}{y+5}, x \neq 0, y \neq 0, y \neq-5
+\]
+
+as a single fraction in its simplest form. 13. The two photographs shown are mathematically similar.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-23.jpg?height=243&width=340&top_left_y=347&top_left_x=344)
+
+\(12 \mathrm{~cm}\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-23.jpg?height=551&width=807&top_left_y=344&top_left_x=776)
+
+width
+
+The small photograph has an area of 80 square centimetres, and is 12 centimetres wide.
+
+The large photograph has an area of 500 square centimetres.
+
+Calculate the width of the large photograph. 14. The diagram shows the part of the blade of a circular saw above a workbench.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-24.jpg?height=519&width=1233&top_left_y=346&top_left_x=343)
+
+As the blade rotates, the height, \(h\) millimetres, of point \(\mathrm{T}\) above the workbench is given by
+
+\[
+h=57-85 \cos x^{\circ}
+\]
+
+where \(x\) is the angle the blade has turned anti-clockwise from a starting position.
+
+(a) Calculate the value of \(x\) when point \(\mathrm{T}\) is first at a height of 115 millimetres above the workbench.
+
+(b) Calculate the value of \(x\) when point \(\mathrm{T}\) is next at this height. 15. The diagram shows a rectangle with breadth \(x\) centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-25.jpg?height=412&width=922&top_left_y=348&top_left_x=493)
+
+The length of the rectangle is 5 centimetres more than its breadth.
+
+(a) Write down an expression for its length in terms of \(x\).
+
+The rectangle has an area of 20 square centimetres.
+
+(b) Show that \(x^{2}+5 x-20=0\). 15. (continued)
+
+(c) Calculate \(x\), the breadth of the rectangle.
+
+Give your answer correct to one decimal place. 16. Expand and simplify
+
+\[
+\cos x^{\circ}\left(\tan x^{\circ}+1\right)
+\]
+
+Show your working. 17. The triangle \(A B C\) is shown below
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-28.jpg?height=488&width=671&top_left_y=344&top_left_x=630)
+
+\(\overrightarrow{A B}=\mathbf{u}\) and \(\overrightarrow{A C}=\mathbf{t}\)
+
+\(G\) is the point such that \(C G=\frac{1}{3} C B\).
+
+Express \(\overrightarrow{A G}\) in terms of \(\mathbf{u}\) and \(\mathbf{t}\).
+
+Give your answer in simplest form.

@@ -1,0 +1,1827 @@
+{
+    "mathematics": {
+        
+        "fractions": [
+            {
+                "content": "Evaluate \\(2 \\frac{1}{3}+\\frac{4}{5}\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Evaluate \\(2 \\frac{1}{3}+\\frac{4}{5}\\)."
+            },
+            {
+                "content": "Evaluate \\(\\frac{3}{8} \\times 1 \\frac{5}{7}\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Evaluate \\(\\frac{3}{8} \\times 1 \\frac{5}{7}\\).\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Evaluate \\(1 \\frac{5}{6} \\div \\frac{3}{4}\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "Evaluate \\(1 \\frac{5}{6} \\div \\frac{3}{4}\\).\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Evaluate \\(\\frac{3}{4}\\left(\\frac{1}{3}+\\frac{2}{7}\\right)\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Evaluate \\(\\frac{3}{4}\\left(\\frac{1}{3}+\\frac{2}{7}\\right)\\).\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Evaluate \\(6 \\frac{1}{5}-2 \\frac{1}{3}\\).",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Evaluate \\(6 \\frac{1}{5}-2 \\frac{1}{3}\\)."
+            },
+            {
+                "content": "Evaluate \\(\\frac{5}{12} \\times 2 \\frac{2}{9}\\).\n\nGive the answer in simplest form.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Evaluate \\(\\frac{5}{12} \\times 2 \\frac{2}{9}\\).\n\nGive the answer in simplest form."
+            },
+            {
+                "content": "Evaluate\n\n\\[\n\\frac{2}{3}\\left(\\frac{1}{5}+\\frac{3}{4}\\right) .\n\\]\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Evaluate\n\n\\[\n\\frac{2}{3}\\left(\\frac{1}{5}+\\frac{3}{4}\\right) .\n\\]\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Evaluate \\(5 \\frac{1}{2}-1 \\frac{2}{7}\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Evaluate \\(5 \\frac{1}{2}-1 \\frac{2}{7}\\)."
+            }
+        ],
+        "expanding brackets": [
+            {
+                "content": "Expand and simplify \\((3 x+1)(x-1)+2\\left(x^{2}-5\\right)\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Expand and simplify \\((3 x+1)(x-1)+2\\left(x^{2}-5\\right)\\)."
+            },
+            {
+                "content": "Expand and simplify \\((x+5)\\left(2 x^{2}-7 x-3\\right)\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "Expand and simplify \\((x+5)\\left(2 x^{2}-7 x-3\\right)\\)."
+            },
+            {
+                "content": "Expand and simplify \\((2 x+3)\\left(x^{2}-4 x+1\\right)\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "Expand and simplify \\((2 x+3)\\left(x^{2}-4 x+1\\right)\\)."
+            },
+            {
+                "content": "Multiply out the brackets and collect like terms\n\n\\[\n(x-4)\\left(x^{2}+x-2\\right)\n\\]",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "Multiply out the brackets and collect like terms\n\n\\[\n(x-4)\\left(x^{2}+x-2\\right)\n\\]"
+            },
+            {
+                "content": "Multiply out the brackets and collect like terms: \\((2 x-5)(3 x+1)\\)",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Multiply out the brackets and collect like terms: \\((2 x-5)(3 x+1)\\)"
+            },
+            {
+                "content": "Expand and simplify \\((3 x-2)\\left(2 x^{2}+5 x-1\\right)\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "Expand and simplify \\((3 x-2)\\left(2 x^{2}+5 x-1\\right)\\)."
+            },
+            {
+                "content": "Expand and simplify \\((6 x-5)(x+3)+2 x(4-x)\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "Expand and simplify \\((6 x-5)(x+3)+2 x(4-x)\\)."
+            }
+        ],
+        "simultaneous equations": [
+            {
+                "content": "Solve, algebraically, the system of equations\n\n\\[\n\\begin{aligned}\n& 4 x+5 y=-3 \\\\\n& 6 x-2 y=5\n\\end{aligned}\n\\]",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "Solve, algebraically, the system of equations\n\n\\[\n\\begin{aligned}\n& 4 x+5 y=-3 \\\\\n& 6 x-2 y=5\n\\end{aligned}\n\\]"
+            },
+            {
+                "content": "John bought 7 bags of cement and 3 bags of gravel.\n\nThe total weight of these bags was 215 kilograms.\n\nWrite down an equation to illustrate this information.\n\nShona bought 5 bags of cement and 4 bags of gravel.\n\nThe total weight of her bags was 200 kilograms.\n\nWrite down an equation to illustrate this information.\n\nCalculate the weight of one bag of cement and the weight of one bag of gravel.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "John bought 7 bags of cement and 3 bags of gravel.\n\nThe total weight of these bags was 215 kilograms.\n\n(a) Write down an equation to illustrate this information.\n\nShona bought 5 bags of cement and 4 bags of gravel.\n\nThe total weight of her bags was 200 kilograms.\n\n(b) Write down an equation to illustrate this information.\n\n(c) Calculate the weight of one bag of cement and the weight of one bag of gravel."
+            },
+            {
+                "content": "Charlie is making costumes for a school show.\n\nOne day he made 2 cloaks and 3 dresses.\n\nThe total amount of material he used was \\(9.6\\) square metres.\n\nWrite down an equation to illustrate this information.\n\nThe following day Charlie made 3 cloaks and 4 dresses.\n\nThe total amount of material he used was \\(13 \\cdot 3\\) square metres.\n\nWrite down an equation to illustrate this information.\n\nCalculate the amount of material required to make one cloak and the amount of material required to make one dress.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "Charlie is making costumes for a school show.\n\nOne day he made 2 cloaks and 3 dresses.\n\nThe total amount of material he used was \\(9.6\\) square metres.\n\n(a) Write down an equation to illustrate this information.\n\n(b) The following day Charlie made 3 cloaks and 4 dresses.\n\nThe total amount of material he used was \\(13 \\cdot 3\\) square metres.\n\nWrite down an equation to illustrate this information.\n\n(c) Calculate the amount of material required to make one cloak and the amount of material required to make one dress."
+            },
+            {
+                "content": "Solve algebraically the system of equations\n\n\\[\n\\begin{aligned}\n& 3 x+2 y=17 \\\\\n& 2 x+5 y=4\n\\end{aligned}\n\\]",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Solve algebraically the system of equations\n\n\\[\n\\begin{aligned}\n& 3 x+2 y=17 \\\\\n& 2 x+5 y=4\n\\end{aligned}\n\\]"
+            },
+            {
+                "content": "Two groups of people go to a theatre.\n\nBill buys tickets for 5 adults and 3 children.\n\nThe total cost of his tickets is \\(\u00c2\u00a3 158 \\cdot 25\\).\n\nWrite down an equation to illustrate this information.\n\nBen buys tickets for 3 adults and 2 children.\n\nThe total cost of his tickets is \\(\u00c2\u00a3 98\\).\n\nWrite down an equation to illustrate this information.\n\nCalculate the cost of a ticket for an adult and the cost of a ticket for a child.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "Two groups of people go to a theatre.\n\nBill buys tickets for 5 adults and 3 children.\n\nThe total cost of his tickets is \\(\u00c2\u00a3 158 \\cdot 25\\).\n\n(a) Write down an equation to illustrate this information.\n\n(b) Ben buys tickets for 3 adults and 2 children.\n\nThe total cost of his tickets is \\(\u00c2\u00a3 98\\).\n\nWrite down an equation to illustrate this information.\n\n(c) Calculate the cost of a ticket for an adult and the cost of a ticket for a child."
+            },
+            {
+                "content": "Moira buys 4 mangoes and 3 apples at a fruit shop.\n\nThe total cost is \\(\u00c2\u00a3 4.25\\).\n\nWrite down an equation to illustrate this information.\n\nSami buys 5 mangoes and 2 apples in the same fruit shop.\n\nThe total cost is \\(\u00c2\u00a3 4.70\\).\n\nWrite down an equation to illustrate this information.\n\nCalculate, algebraically, the cost of a mango and the cost of an apple.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "Moira buys 4 mangoes and 3 apples at a fruit shop.\n\nThe total cost is \\(\u00c2\u00a3 4.25\\).\n\n(a) Write down an equation to illustrate this information.\n\nSami buys 5 mangoes and 2 apples in the same fruit shop.\n\nThe total cost is \\(\u00c2\u00a3 4.70\\).\n\n(b) Write down an equation to illustrate this information.\n\n(c) Calculate, algebraically, the cost of a mango and the cost of an apple."
+            },
+            {
+                "content": "Solve, algebraically, the system of equations\n\n\\[\n\\begin{aligned}\n& 5 c+2 d=4 \\\\\n& 4 c-3 d=17\n\\end{aligned}\n\\]",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "Solve, algebraically, the system of equations\n\n\\[\n\\begin{aligned}\n& 5 c+2 d=4 \\\\\n& 4 c-3 d=17\n\\end{aligned}\n\\]"
+            }
+        ],
+        "vectors": [
+            {
+                "content": "Two vectors are given by \\(\\mathbf{u}=\\left(\\begin{array}{l}1 \\\\ 5 \\\\ 1\\end{array}\\right)\\) and \\(\\mathbf{u}+\\mathbf{v}=\\left(\\begin{array}{r}6 \\\\ -4 \\\\ 3\\end{array}\\right)\\).\n\nFind vector \\(\\mathbf{v}\\).\n\nExpress your answer in component form.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "Two vectors are given by \\(\\mathbf{u}=\\left(\\begin{array}{l}1 \\\\ 5 \\\\ 1\\end{array}\\right)\\) and \\(\\mathbf{u}+\\mathbf{v}=\\left(\\begin{array}{r}6 \\\\ -4 \\\\ 3\\end{array}\\right)\\).\n\nFind vector \\(\\mathbf{v}\\).\n\nExpress your answer in component form."
+            },
+            {
+                "content": "Find \\(|\\mathbf{r}|\\), the magnitude of vector \\(\\mathbf{r}=\\left(\\begin{array}{c}24 \\\\ -12 \\\\ 8\\end{array}\\right)\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "Find \\(|\\mathbf{r}|\\), the magnitude of vector \\(\\mathbf{r}=\\left(\\begin{array}{c}24 \\\\ -12 \\\\ 8\\end{array}\\right)\\)."
+            },
+            {
+                "content": "In the diagram below, \\(\\overrightarrow{A B}\\) and \\(\\overrightarrow{E A}\\) represent the vectors \\(\\mathbf{u}\\) and \\(\\mathbf{w}\\) respectively.\n\n- \\(\\overrightarrow{\\mathrm{ED}}=2 \\overrightarrow{\\mathrm{AB}}\\)\n\n- \\(\\overrightarrow{E A}=2 \\overrightarrow{D C}\\)\n\nExpress \\(\\overrightarrow{B C}\\) in terms of \\(\\mathbf{u}\\) and \\(\\mathbf{w}\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "In the diagram below, \\(\\overrightarrow{A B}\\) and \\(\\overrightarrow{E A}\\) represent the vectors \\(\\mathbf{u}\\) and \\(\\mathbf{w}\\) respectively.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-24.jpg?height=288&width=854&top_left_y=393&top_left_x=541)\n\n- \\(\\overrightarrow{\\mathrm{ED}}=2 \\overrightarrow{\\mathrm{AB}}\\)\n\n- \\(\\overrightarrow{E A}=2 \\overrightarrow{D C}\\)\n\nExpress \\(\\overrightarrow{B C}\\) in terms of \\(\\mathbf{u}\\) and \\(\\mathbf{w}\\).\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "In triangle \\(\\mathrm{PQR}, \\overrightarrow{\\mathrm{PR}}=\\left(\\begin{array}{r}6 \\\\ -4\\end{array}\\right)\\) and \\(\\overrightarrow{R Q}=\\left(\\begin{array}{r}-1 \\\\ 8\\end{array}\\right)\\).\n\nExpress \\(\\overrightarrow{P Q}\\) in component form.\n\n\\(M\\) is the midpoint of \\(P R\\).\n\nExpress \\(\\overrightarrow{M Q}\\) in component form.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "In triangle \\(\\mathrm{PQR}, \\overrightarrow{\\mathrm{PR}}=\\left(\\begin{array}{r}6 \\\\ -4\\end{array}\\right)\\) and \\(\\overrightarrow{R Q}=\\left(\\begin{array}{r}-1 \\\\ 8\\end{array}\\right)\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-08.jpg?height=454&width=386&top_left_y=367&top_left_x=938)\n\n(a) Express \\(\\overrightarrow{P Q}\\) in component form.\n\n\\(M\\) is the midpoint of \\(P R\\).\n\n(b) Express \\(\\overrightarrow{M Q}\\) in component form."
+            },
+            {
+                "content": "Find \\(|\\mathbf{p}|\\), the magnitude of vector \\(\\mathbf{p}=\\left(\\begin{array}{r}6 \\\\ 27 \\\\ -18\\end{array}\\right)\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "Find \\(|\\mathbf{p}|\\), the magnitude of vector \\(\\mathbf{p}=\\left(\\begin{array}{r}6 \\\\ 27 \\\\ -18\\end{array}\\right)\\)."
+            },
+            {
+                "content": "Find \\(|\\mathbf{v}|\\), the magnitude of vector \\(\\mathbf{v}=\\left(\\begin{array}{r}18 \\\\ -14 \\\\ 3\\end{array}\\right)\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "Find \\(|\\mathbf{v}|\\), the magnitude of vector \\(\\mathbf{v}=\\left(\\begin{array}{r}18 \\\\ -14 \\\\ 3\\end{array}\\right)\\)."
+            },
+            {
+                "content": "In the diagram below, \\(\\overrightarrow{R Q}\\) and \\(\\overrightarrow{P Q}\\) represent the vectors \\(\\mathbf{c}\\) and \\(\\mathbf{d}\\) respectively.\n\nExpress \\(\\overrightarrow{\\mathrm{PR}}\\) in terms of \\(\\mathbf{c}\\) and \\(\\mathbf{d}\\).\n\nThe line \\(Q P\\) is extended to \\(T\\).\n\n- \\(\\mathrm{TP}=\\mathrm{PQ}\\)\n\n- \\(V\\) is the midpoint of \\(P R\\)\n\nExpress \\(\\overrightarrow{T V}\\) in terms of \\(\\mathbf{c}\\) and \\(\\mathbf{d}\\).\n\nGive your answer in simplest form.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "In the diagram below, \\(\\overrightarrow{R Q}\\) and \\(\\overrightarrow{P Q}\\) represent the vectors \\(\\mathbf{c}\\) and \\(\\mathbf{d}\\) respectively.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-18.jpg?height=326&width=688&top_left_y=391&top_left_x=570)\n\n(a) Express \\(\\overrightarrow{\\mathrm{PR}}\\) in terms of \\(\\mathbf{c}\\) and \\(\\mathbf{d}\\).\n\nThe line \\(Q P\\) is extended to \\(T\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-18.jpg?height=314&width=1148&top_left_y=1428&top_left_x=343)\n\n- \\(\\mathrm{TP}=\\mathrm{PQ}\\)\n\n- \\(V\\) is the midpoint of \\(P R\\)\n\n(b) Express \\(\\overrightarrow{T V}\\) in terms of \\(\\mathbf{c}\\) and \\(\\mathbf{d}\\).\n\nGive your answer in simplest form."
+            },
+            {
+                "content": "Given \\(\\mathbf{p}=\\left(\\begin{array}{r}4 \\\\ -6\\end{array}\\right)\\) and \\(\\mathbf{q}=\\left(\\begin{array}{r}-5 \\\\ -1\\end{array}\\right)\\).\n\nFind the resultant vector \\(\\frac{1}{2} \\mathbf{p}+\\mathbf{q}\\).\n\nExpress your answer in component form.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Given \\(\\mathbf{p}=\\left(\\begin{array}{r}4 \\\\ -6\\end{array}\\right)\\) and \\(\\mathbf{q}=\\left(\\begin{array}{r}-5 \\\\ -1\\end{array}\\right)\\).\n\nFind the resultant vector \\(\\frac{1}{2} \\mathbf{p}+\\mathbf{q}\\).\n\nExpress your answer in component form."
+            },
+            {
+                "content": "The diagram below shows parallelogram \\(A B C D\\).\n\n\\(\\overrightarrow{A B}\\) represents vector \\(\\mathbf{u}\\) and \\(\\overrightarrow{B C}\\) represents vector \\(\\mathbf{v}\\).\n\nExpress \\(\\overrightarrow{B D}\\) in terms of \\(\\mathbf{u}\\) and \\(\\mathbf{v}\\).",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "The diagram below shows parallelogram \\(A B C D\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-13.jpg?height=372&width=690&top_left_y=348&top_left_x=569)\n\n\\(\\overrightarrow{A B}\\) represents vector \\(\\mathbf{u}\\) and \\(\\overrightarrow{B C}\\) represents vector \\(\\mathbf{v}\\).\n\nExpress \\(\\overrightarrow{B D}\\) in terms of \\(\\mathbf{u}\\) and \\(\\mathbf{v}\\)."
+            },
+            {
+                "content": "Find \\(|\\mathbf{u}|\\), the magnitude of vector \\(\\mathbf{u}=\\left(\\begin{array}{r}6 \\\\ -13 \\\\ 18\\end{array}\\right)\\).\n\n[Turn over",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "Find \\(|\\mathbf{u}|\\), the magnitude of vector \\(\\mathbf{u}=\\left(\\begin{array}{r}6 \\\\ -13 \\\\ 18\\end{array}\\right)\\).\n\n[Turn over"
+            },
+            {
+                "content": "The vectors \\(\\mathbf{p}\\) and \\(\\mathbf{q}\\) are shown in the diagram below.\n\nFind the resultant vector \\(\\mathbf{p}+\\mathbf{q}\\).\n\nExpress your answer in component form.\n\n\\begin{tabular}{|l|l|l|l|l|l|l|l|l|}\n\\hline & & & & & & & & \\\\\n\\hline & & & & & & & & \\\\\n\\hline\n\\end{tabular}",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "The vectors \\(\\mathbf{p}\\) and \\(\\mathbf{q}\\) are shown in the diagram below.\n\nFind the resultant vector \\(\\mathbf{p}+\\mathbf{q}\\).\n\nExpress your answer in component form.\n\n\\begin{tabular}{|l|l|l|l|l|l|l|l|l|}\n\\hline & & & & & & & & \\\\\n\\hline & & & & & & & & \\\\\n\\hline\n\\end{tabular}"
+            },
+            {
+                "content": "Find the resultant vector \\(2 u-v\\) when \\(\\boldsymbol{u}=\\left(\\begin{array}{r}-2 \\\\ 3 \\\\ 5\\end{array}\\right)\\) and \\(\\boldsymbol{v}=\\left(\\begin{array}{r}0 \\\\ -4 \\\\ 7\\end{array}\\right)\\).\n\nExpress your answer in component form.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "Find the resultant vector \\(2 u-v\\) when \\(\\boldsymbol{u}=\\left(\\begin{array}{r}-2 \\\\ 3 \\\\ 5\\end{array}\\right)\\) and \\(\\boldsymbol{v}=\\left(\\begin{array}{r}0 \\\\ -4 \\\\ 7\\end{array}\\right)\\).\n\nExpress your answer in component form."
+            },
+            {
+                "content": "Calculate \\(|\\mathbf{d}|\\), the magnitude of vector \\(\\mathbf{d}=\\left(\\begin{array}{c}1 \\\\ -4 \\\\ 8\\end{array}\\right)\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Calculate \\(|\\mathbf{d}|\\), the magnitude of vector \\(\\mathbf{d}=\\left(\\begin{array}{c}1 \\\\ -4 \\\\ 8\\end{array}\\right)\\)."
+            },
+            {
+                "content": "The vectors \\(\\mathbf{u}\\) and \\(\\mathbf{v}\\) are shown in the diagram below.\n\n\\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|}\n\\hline & & & & & & & & & & & & \\\\\n\\hline & & & & & & & & & & & & \\\\\n\\hline & & & & & & & & & & & & \\\\\n\\hline & & & & & & & & & & & & \\\\\n\\hline\n\\end{tabular}\n\nFind the resultant vector \\(\\mathbf{u}-\\mathbf{v}\\).\n\nExpress your answer in component form.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "The vectors \\(\\mathbf{u}\\) and \\(\\mathbf{v}\\) are shown in the diagram below.\n\n\\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|l|l|l|}\n\\hline & & & & & & & & & & & & \\\\\n\\hline & & & & & & & & & & & & \\\\\n\\hline & & & & & & & & & & & & \\\\\n\\hline & & & & & & & & & & & & \\\\\n\\hline\n\\end{tabular}\n\nFind the resultant vector \\(\\mathbf{u}-\\mathbf{v}\\).\n\nExpress your answer in component form."
+            },
+            {
+                "content": "The triangle \\(A B C\\) is shown below\n\n\\(\\overrightarrow{A B}=\\mathbf{u}\\) and \\(\\overrightarrow{A C}=\\mathbf{t}\\)\n\n\\(G\\) is the point such that \\(C G=\\frac{1}{3} C B\\).\n\nExpress \\(\\overrightarrow{A G}\\) in terms of \\(\\mathbf{u}\\) and \\(\\mathbf{t}\\).\n\nGive your answer in simplest form.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 17,
+                "paper_number": 2,
+                "raw": "The triangle \\(A B C\\) is shown below\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-28.jpg?height=488&width=671&top_left_y=344&top_left_x=630)\n\n\\(\\overrightarrow{A B}=\\mathbf{u}\\) and \\(\\overrightarrow{A C}=\\mathbf{t}\\)\n\n\\(G\\) is the point such that \\(C G=\\frac{1}{3} C B\\).\n\nExpress \\(\\overrightarrow{A G}\\) in terms of \\(\\mathbf{u}\\) and \\(\\mathbf{t}\\).\n\nGive your answer in simplest form."
+            }
+        ],
+        "quadratic equations": [
+            {
+                "content": "Solve\n\n\\[\nx^{2}-11 x+24=0 .\n\\]",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "Solve\n\n\\[\nx^{2}-11 x+24=0 .\n\\]"
+            },
+            {
+                "content": "A ball is kicked from a clifftop.\n\nThe height, \\(h\\) metres, of the ball relative to the clifftop after \\(t\\) seconds is given by \\(h=12 t-5 t^{2}\\).\n\n\nThe graph below represents the height, \\(h\\) metres, of the ball relative to the clifftop after \\(t\\) seconds.\n\nThe sea is 17 metres below the clifftop.\n\nAfter how many seconds will the ball hit the sea? \n\n",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 15,
+                "paper_number": 1,
+                "raw": "A ball is kicked from a clifftop.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-12.jpg?height=551&width=694&top_left_y=347&top_left_x=567)\n\nThe height, \\(h\\) metres, of the ball relative to the clifftop after \\(t\\) seconds is given by \\(h=12 t-5 t^{2}\\).\n\n\nThe graph below represents the height, \\(h\\) metres, of the ball relative to the clifftop after \\(t\\) seconds.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-13.jpg?height=688&width=548&top_left_y=501&top_left_x=640)\n\nThe sea is 17 metres below the clifftop.\n\n(b) After how many seconds will the ball hit the sea? \n\n"
+            },
+            {
+                "content": "Solve the equation \\(3 x^{2}+9 x-2=0\\).\n\nGive your answers correct to 1 decimal place.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(3 x^{2}+9 x-2=0\\).\n\nGive your answers correct to 1 decimal place."
+            },
+            {
+                "content": "Solve the equation \\(2 x^{2}+5 x-4=0\\).\n\nGive your answers correct to one decimal place.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(2 x^{2}+5 x-4=0\\).\n\nGive your answers correct to one decimal place."
+            },
+            {
+                "content": "The diagrams below show a rectangle and a triangle.\n\nAll measurements are in centimetres.\nFind an expression for the area of the rectangle.\n\n\nHence find, algebraically, the length and breadth of the rectangle.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "The diagrams below show a rectangle and a triangle.\n\nAll measurements are in centimetres.\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-10.jpg?height=408&width=1286&top_left_y=418&top_left_x=317)\n\n(a) Find an expression for the area of the rectangle.\n\n\n(c) Hence find, algebraically, the length and breadth of the rectangle."
+            },
+            {
+                "content": "A rectangular picture measuring 9 centimetres by 13 centimetres is placed on a rectangular piece of card.\n\nThe area of the card is 270 square centimetres.\n\nThere is a border \\(x\\) centimetres wide on all sides of the picture.\nWrite down an expression for the length of the card in terms of \\(x\\).\n\n\nCalculate \\(x\\), the width of the border.\n\nGive your answer correct to one decimal place.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "A rectangular picture measuring 9 centimetres by 13 centimetres is placed on a rectangular piece of card.\n\nThe area of the card is 270 square centimetres.\n\nThere is a border \\(x\\) centimetres wide on all sides of the picture.\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-22.jpg?height=696&width=1264&top_left_y=523&top_left_x=288)\n\n(a) (i) Write down an expression for the length of the card in terms of \\(x\\).\n\n\n(b) Calculate \\(x\\), the width of the border.\n\nGive your answer correct to one decimal place."
+            },
+            {
+                "content": "A triangle and rectangle are shown in the diagram.\nGiven that the area of the triangle is equal to the area of the rectangle, find algebraically the value of \\(x\\). Total marks - 50\n\nAttempt ALL questions",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 15,
+                "paper_number": 1,
+                "raw": "A triangle and rectangle are shown in the diagram.\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-10.jpg?height=864&width=942&top_left_y=356&top_left_x=541)\n\n\n(b) Given that the area of the triangle is equal to the area of the rectangle, find algebraically the value of \\(x\\). Total marks - 50\n\nAttempt ALL questions"
+            },
+            {
+                "content": "Solve the equation \\(4 x^{2}+2 x-7=0\\).\n\nGive your answers correct to 2 significant figures.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(4 x^{2}+2 x-7=0\\).\n\nGive your answers correct to 2 significant figures."
+            },
+            {
+                "content": "Solve the equation by factorising\n\n\\[\n6 x^{2}+13 x-5=0\n\\]",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 19,
+                "paper_number": 1,
+                "raw": "Solve the equation by factorising\n\n\\[\n6 x^{2}+13 x-5=0\n\\]"
+            },
+            {
+                "content": "The diagram shows a rectangle with breadth \\(x\\) centimetres.\n\nThe length of the rectangle is 5 centimetres more than its breadth.\n\nWrite down an expression for its length in terms of \\(x\\).\n\nThe rectangle has an area of 20 square centimetres.\n\n\nCalculate \\(x\\), the breadth of the rectangle.\n\nGive your answer correct to one decimal place.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 15,
+                "paper_number": 2,
+                "raw": "The diagram shows a rectangle with breadth \\(x\\) centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-25.jpg?height=412&width=922&top_left_y=348&top_left_x=493)\n\nThe length of the rectangle is 5 centimetres more than its breadth.\n\n(a) Write down an expression for its length in terms of \\(x\\).\n\nThe rectangle has an area of 20 square centimetres.\n\n\n(c) Calculate \\(x\\), the breadth of the rectangle.\n\nGive your answer correct to one decimal place."
+            }
+        ],
+        "trigonometric graphs": [
+            {
+                "content": "Part of the graph of \\(y=a \\cos b x^{\\circ}\\) is shown in the diagram.\n\n\nState the values of \\(a\\) and \\(b\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "Part of the graph of \\(y=a \\cos b x^{\\circ}\\) is shown in the diagram.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-03.jpg?height=551&width=760&top_left_y=1249&top_left_x=571)\n\nState the values of \\(a\\) and \\(b\\)."
+            },
+            {
+                "content": "Part of the graph of \\(y=3 \\cos (x+45)^{\\circ}\\) is shown in the diagram.\n\nThe graph has a minimum turning point at \\(A\\).\n\nState the coordinates of \\(A\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "Part of the graph of \\(y=3 \\cos (x+45)^{\\circ}\\) is shown in the diagram.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-10.jpg?height=531&width=809&top_left_y=1465&top_left_x=515)\n\nThe graph has a minimum turning point at \\(A\\).\n\nState the coordinates of \\(A\\)."
+            },
+            {
+                "content": "Part of the graph of \\(y=a \\sin b x^{\\circ}\\) is shown in the diagram.\n\nState the values of \\(a\\) and \\(b\\).",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "Part of the graph of \\(y=a \\sin b x^{\\circ}\\) is shown in the diagram.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-04.jpg?height=808&width=1248&top_left_y=350&top_left_x=290)\n\nState the values of \\(a\\) and \\(b\\)."
+            },
+            {
+                "content": "The graph of \\(y=a \\sin (x+b)^{\\circ}, 0 \\leq x \\leq 360\\), is shown below.\n\nWrite down the values of \\(a\\) and \\(b\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "The graph of \\(y=a \\sin (x+b)^{\\circ}, 0 \\leq x \\leq 360\\), is shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-08.jpg?height=1177&width=1236&top_left_y=351&top_left_x=296)\n\nWrite down the values of \\(a\\) and \\(b\\)."
+            },
+            {
+                "content": "Part of the graph of \\(y=a \\sin b x^{\\circ}\\) is shown in the diagram.\n\nState the value of \\(a\\).\n\nState the value of \\(b\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Part of the graph of \\(y=a \\sin b x^{\\circ}\\) is shown in the diagram.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-05.jpg?height=557&width=731&top_left_y=1423&top_left_x=640)\n\n(a) State the value of \\(a\\).\n\n(b) State the value of \\(b\\)."
+            },
+            {
+                "content": "The graph of \\(y=a \\cos x^{\\circ}+b, 0 \\leq x \\leq 360\\), is shown.\n\nState the values of \\(a\\) and \\(b\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "The graph of \\(y=a \\cos x^{\\circ}+b, 0 \\leq x \\leq 360\\), is shown.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-08.jpg?height=806&width=988&top_left_y=1259&top_left_x=457)\n\nState the values of \\(a\\) and \\(b\\)."
+            }
+        ],
+        "straight lines": [
+            {
+                "content": "The cost of a journey with Tom's Taxis depends on the distance travelled.\n\nThe graph below shows the cost, \\(P\\) pounds, of a journey with Tom's Taxis against the distance travelled, \\(d\\) miles.\n\n\nPoint A represents a journey of 8 miles which costs \\(\u00c2\u00a3 14\\).\n\nPoint \\(B\\) represents a journey of 12 miles which costs \\(\u00c2\u00a3 20\\).\n\nFind the equation of the line in terms of \\(P\\) and \\(d\\).\n\nGive the equation in its simplest form. \n\n\nCalculate the cost of a journey of 5 miles.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "The cost of a journey with Tom's Taxis depends on the distance travelled.\n\nThe graph below shows the cost, \\(P\\) pounds, of a journey with Tom's Taxis against the distance travelled, \\(d\\) miles.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-04.jpg?height=500&width=674&top_left_y=481&top_left_x=614)\n\nPoint A represents a journey of 8 miles which costs \\(\u00c2\u00a3 14\\).\n\nPoint \\(B\\) represents a journey of 12 miles which costs \\(\u00c2\u00a3 20\\).\n\n(a) Find the equation of the line in terms of \\(P\\) and \\(d\\).\n\nGive the equation in its simplest form. \n\n\n(b) Calculate the cost of a journey of 5 miles."
+            },
+            {
+                "content": "A straight line has equation \\(2 x-5 y=20\\).\n\nFind the coordinates of the point where this line crosses the \\(y\\)-axis.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "A straight line has equation \\(2 x-5 y=20\\).\n\nFind the coordinates of the point where this line crosses the \\(y\\)-axis."
+            },
+            {
+                "content": "The fuel consumption of a group of cars is recorded.\n\nThe scattergraph shows the relationship between the fuel consumption, \\(F\\) kilometres per litre, and the engine size, \\(E\\) litres, of the cars.\n\nA line of best fit has been drawn.\n\nFind the equation of the line of best fit in terms of \\(F\\) and \\(E\\). Give the equation in its simplest form. \n\n\nAmaar's car has an engine size of \\(1 \\cdot 1\\) litres.\n\nUse your equation from part to estimate how many kilometres per litre he should expect to get.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "The fuel consumption of a group of cars is recorded.\n\nThe scattergraph shows the relationship between the fuel consumption, \\(F\\) kilometres per litre, and the engine size, \\(E\\) litres, of the cars.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-04.jpg?height=831&width=1037&top_left_y=455&top_left_x=404)\n\nA line of best fit has been drawn.\n\n(a) Find the equation of the line of best fit in terms of \\(F\\) and \\(E\\). Give the equation in its simplest form. \n\n\nAmaar's car has an engine size of \\(1 \\cdot 1\\) litres.\n\n(b) Use your equation from part (a) to estimate how many kilometres per litre he should expect to get."
+            },
+            {
+                "content": "Find an expression for the gradient of the line joining point \\(A(6,9)\\) to point \\(\\mathrm{B}\\left(4 p, 4 p^{2}\\right)\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "Find an expression for the gradient of the line joining point \\(A(6,9)\\) to point \\(\\mathrm{B}\\left(4 p, 4 p^{2}\\right)\\).\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "The diagram below shows the straight line joining points \\(A\\) and \\(B\\).\n\nFind the equation of the line \\(A B\\).\n\nGive the equation in its simplest form.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "The diagram below shows the straight line joining points \\(A\\) and \\(B\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-04.jpg?height=474&width=557&top_left_y=357&top_left_x=641)\n\nFind the equation of the line \\(A B\\).\n\nGive the equation in its simplest form."
+            },
+            {
+                "content": "The graph below shows two straight lines with the equations:\n\n- \\(3 x-y=2\\)\n\n- \\(x+3 y=19\\)\n\nThe lines intersect at the point \\(P\\).\n\nFind, algebraically, the coordinates of \\(P\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "The graph below shows two straight lines with the equations:\n\n- \\(3 x-y=2\\)\n\n- \\(x+3 y=19\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-10.jpg?height=529&width=1105&top_left_y=495&top_left_x=361)\n\nThe lines intersect at the point \\(P\\).\n\nFind, algebraically, the coordinates of \\(P\\)."
+            },
+            {
+                "content": "A straight line has equation \\(3 x-5 y-10=0\\).\n\nFind the gradient of this line.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "A straight line has equation \\(3 x-5 y-10=0\\).\n\nFind the gradient of this line."
+            },
+            {
+                "content": "A cattle farmer records the weight of some of his calves.\n\nThe scattergraph shows the relationship between the age, \\(A\\) months, and the weight, \\(W\\) kilograms, of the calves.\n\nA line of best fit is drawn.\n\nPoint D represents a 3 month old calf which weighs 100 kilograms.\n\nPoint E represents a 15 month old calf which weighs 340 kilograms.\n\nFind the equation of the line of best fit in terms of \\(A\\) and \\(W\\).\n\nGive the equation in its simplest form. \n\n\nUse your equation from part to estimate the weight of a one year old calf.\n\nShow your working.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "A cattle farmer records the weight of some of his calves.\n\nThe scattergraph shows the relationship between the age, \\(A\\) months, and the weight, \\(W\\) kilograms, of the calves.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-04.jpg?height=669&width=831&top_left_y=505&top_left_x=493)\n\nA line of best fit is drawn.\n\nPoint D represents a 3 month old calf which weighs 100 kilograms.\n\nPoint E represents a 15 month old calf which weighs 340 kilograms.\n\n(a) Find the equation of the line of best fit in terms of \\(A\\) and \\(W\\).\n\nGive the equation in its simplest form. \n\n\n(b) Use your equation from part (a) to estimate the weight of a one year old calf.\n\nShow your working."
+            },
+            {
+                "content": "Find the equation of the line joining the points \\((-2,5)\\) and \\((3,15)\\).\n\nGive the equation in its simplest form.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Find the equation of the line joining the points \\((-2,5)\\) and \\((3,15)\\).\n\nGive the equation in its simplest form."
+            },
+            {
+                "content": "McGregor's Burgers sells fast food.\n\nThe graph shows the relationship between the amount of fat, \\(F\\) grams, and the number of calories, \\(C\\), in some of their sandwiches.\n\n\nA line of best fit has been drawn.\n\nPoint A represents a sandwich which has 5 grams of fat and 200 calories.\n\nPoint \\(B\\) represents a sandwich which has 25 grams of fat and 500 calories. \n\n\nFind the equation of the line of best fit in terms of \\(F\\) and \\(C\\).\n\nA Super Deluxe sandwich contains 40 grams of fat.\n\nUse your answer to part to estimate the number of calories this sandwich contains.\n\nShow your working.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "McGregor's Burgers sells fast food.\n\nThe graph shows the relationship between the amount of fat, \\(F\\) grams, and the number of calories, \\(C\\), in some of their sandwiches.\n\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-04.jpg?height=1034&width=713&top_left_y=445&top_left_x=503)\n\nA line of best fit has been drawn.\n\nPoint A represents a sandwich which has 5 grams of fat and 200 calories.\n\nPoint \\(B\\) represents a sandwich which has 25 grams of fat and 500 calories. \n\n\n(a) Find the equation of the line of best fit in terms of \\(F\\) and \\(C\\).\n\n(b) A Super Deluxe sandwich contains 40 grams of fat.\n\nUse your answer to part (a) to estimate the number of calories this sandwich contains.\n\nShow your working."
+            },
+            {
+                "content": "A straight line has equation \\(4 x+3 y=12\\).\n\nFind the gradient of this line.\n\nFind the coordinates of the point where this line crosses the \\(x\\)-axis.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "(a) A straight line has equation \\(4 x+3 y=12\\).\n\nFind the gradient of this line.\n\n(b) Find the coordinates of the point where this line crosses the \\(x\\)-axis."
+            },
+            {
+                "content": "Find the equation of the line passing through the points \\((-3,-1)\\) and \\((-5,7)\\). Give the equation in its simplest form.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "Find the equation of the line passing through the points \\((-3,-1)\\) and \\((-5,7)\\). Give the equation in its simplest form."
+            },
+            {
+                "content": "David works in a shop, and is paid weekly.\n\nHis wage is made up of a basic wage plus commission on his sales.\n\nThe graph shows his wage, \\(W\\) pounds, against his sales, \\(S\\) pounds.\n\nPoint A represents sales of \\(\u00c2\u00a3 6000\\) and a wage of \\(\u00c2\u00a3 450\\).\n\nPoint \\(B\\) represents sales of \\(\u00c2\u00a3 7200\\) and a wage of \\(\u00c2\u00a3 510\\).\n\nFind the equation of the line in terms of \\(W\\) and \\(S\\).\n\n\nCalculate David's wage in a week when his sales are \\(\u00c2\u00a3 1000\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "David works in a shop, and is paid weekly.\n\nHis wage is made up of a basic wage plus commission on his sales.\n\nThe graph shows his wage, \\(W\\) pounds, against his sales, \\(S\\) pounds.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-06.jpg?height=428&width=648&top_left_y=483&top_left_x=630)\n\nPoint A represents sales of \\(\u00c2\u00a3 6000\\) and a wage of \\(\u00c2\u00a3 450\\).\n\nPoint \\(B\\) represents sales of \\(\u00c2\u00a3 7200\\) and a wage of \\(\u00c2\u00a3 510\\).\n\n(a) Find the equation of the line in terms of \\(W\\) and \\(S\\).\n\n\n(b) Calculate David's wage in a week when his sales are \\(\u00c2\u00a3 1000\\)."
+            },
+            {
+                "content": "A straight line has equation \\(3 x+4 y-8=0\\).\n\nFind the gradient of the line.\n\nState the coordinates of the point where the line crosses the \\(y\\)-axis.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "A straight line has equation \\(3 x+4 y-8=0\\).\n\n(a) Find the gradient of the line.\n\n(b) State the coordinates of the point where the line crosses the \\(y\\)-axis."
+            }
+        ],
+        "nature of the roots": [
+            {
+                "content": "Determine the nature of the roots of the function \\(f(x)=2 x^{2}+4 x+5\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Determine the nature of the roots of the function \\(f(x)=2 x^{2}+4 x+5\\)."
+            },
+            {
+                "content": "Determine the nature of the roots of the function \\(f(x)=7 x^{2}+5 x-1\\).",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "Determine the nature of the roots of the function \\(f(x)=7 x^{2}+5 x-1\\)."
+            },
+            {
+                "content": "Determine the nature of the roots of the function \\(f(x)=x^{2}+4 x-7\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Determine the nature of the roots of the function \\(f(x)=x^{2}+4 x-7\\)."
+            }
+        ],
+        "angles": [
+            {
+                "content": "In the diagram shown below, ABCDEFGHJK is a regular decagon.\n\n- Angle \\(\\mathrm{KLJ}\\) is \\(17^{\\circ}\\).\n\n- AKL is a straight line.\n\n\nCalculate the size of shaded angle KJL.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "In the diagram shown below, ABCDEFGHJK is a regular decagon.\n\n- Angle \\(\\mathrm{KLJ}\\) is \\(17^{\\circ}\\).\n\n- AKL is a straight line.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-06.jpg?height=817&width=1356&top_left_y=491&top_left_x=287)\n\nCalculate the size of shaded angle KJL."
+            },
+            {
+                "content": "Pam is designing a company logo.\n\nShe starts by drawing a regular pentagon \\(A B C D E\\).\n\nThe vertices of the pentagon lie on the circumference of a circle with centre 0 .\n\nShe then adds to the design as shown in the diagram below.\n\nAF is a diameter of the circle.\n\nCalculate the size of angle OFB.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Pam is designing a company logo.\n\nShe starts by drawing a regular pentagon \\(A B C D E\\).\n\nThe vertices of the pentagon lie on the circumference of a circle with centre 0 .\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-09.jpg?height=651&width=648&top_left_y=477&top_left_x=590)\n\nShe then adds to the design as shown in the diagram below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-09.jpg?height=794&width=740&top_left_y=1282&top_left_x=544)\n\nAF is a diameter of the circle.\n\nCalculate the size of angle OFB."
+            },
+            {
+                "content": "In the diagram shown below:\n\n- \\(\\quad \\mathrm{ABE}\\) is a tangent to the circle centre 0\n\n- Angle DBE is \\(58^{\\circ}\\)\n\nCalculate the size of angle CAB.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "In the diagram shown below:\n\n- \\(\\quad \\mathrm{ABE}\\) is a tangent to the circle centre 0\n\n- Angle DBE is \\(58^{\\circ}\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-07.jpg?height=1008&width=1083&top_left_y=495&top_left_x=378)\n\nCalculate the size of angle CAB."
+            },
+            {
+                "content": "The diagram below shows a circle, centre 0 .\n\n- \\(\\quad \\mathrm{AB}\\) and \\(\\mathrm{CB}\\) are tangents to the circle.\n\n- \\(\\quad \\mathrm{AC}\\) and ED are parallel.\n\n- Angle AOD is \\(143^{\\circ}\\).\n\nCalculate the size of angle \\(\\mathrm{ABC}\\).",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "The diagram below shows a circle, centre 0 .\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-14.jpg?height=934&width=1079&top_left_y=390&top_left_x=366)\n\n- \\(\\quad \\mathrm{AB}\\) and \\(\\mathrm{CB}\\) are tangents to the circle.\n\n- \\(\\quad \\mathrm{AC}\\) and ED are parallel.\n\n- Angle AOD is \\(143^{\\circ}\\).\n\nCalculate the size of angle \\(\\mathrm{ABC}\\)."
+            },
+            {
+                "content": "AC is a tangent to the circle, centre 0 , with point of contact \\(B\\).\n\n\\(\\mathrm{DE}\\) is a diameter of the circle and \\(\\mathrm{F}\\) is a point on the circumference.\n\nAngle \\(A B D\\) is \\(77^{\\circ}\\) and angle \\(D E F\\) is \\(64^{\\circ}\\).\n\nCalculate the size of angle BDF.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-02.jpg?height=483&width=534&top_left_y=238&top_left_x=550)\n\nAC is a tangent to the circle, centre 0 , with point of contact \\(B\\).\n\n\\(\\mathrm{DE}\\) is a diameter of the circle and \\(\\mathrm{F}\\) is a point on the circumference.\n\nAngle \\(A B D\\) is \\(77^{\\circ}\\) and angle \\(D E F\\) is \\(64^{\\circ}\\).\n\nCalculate the size of angle BDF."
+            },
+            {
+                "content": "The diagram below shows a circle with centre 0 .\n\n\\(A B\\) is a tangent to the circle at the point \\(C\\).\n\n\\(C D\\) is a diameter of the circle.\n\nAngle EOD is \\(68^{\\circ}\\).\n\nCalculate the size of angle ACE.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "The diagram below shows a circle with centre 0 .\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-03.jpg?height=1059&width=1105&top_left_y=350&top_left_x=453)\n\n\\(A B\\) is a tangent to the circle at the point \\(C\\).\n\n\\(C D\\) is a diameter of the circle.\n\nAngle EOD is \\(68^{\\circ}\\).\n\nCalculate the size of angle ACE."
+            },
+            {
+                "content": "In the diagram shown below\n\n- \\(\\quad \\mathrm{PM}\\) is a tangent to the circle, centre \\(\\mathrm{O}\\)\n\n- \\(\\mathrm{PN}\\) is a straight line\n\n- angle OPM is \\(14^{\\circ}\\).\n\nCalculate the size of shaded angle ONM.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "In the diagram shown below\n\n- \\(\\quad \\mathrm{PM}\\) is a tangent to the circle, centre \\(\\mathrm{O}\\)\n\n- \\(\\mathrm{PN}\\) is a straight line\n\n- angle OPM is \\(14^{\\circ}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-02.jpg?height=1159&width=734&top_left_y=1008&top_left_x=707)\n\nCalculate the size of shaded angle ONM."
+            }
+        ],
+        "cosine rule": [
+            {
+                "content": "In triangle \\(X Y Z\\) :\n\n- \\(\\mathrm{XZ}=10\\) centimetres\n\n- \\(\\mathrm{YZ}=8\\) centimetres\n\n- \\(\\quad \\cos Z=\\frac{1}{8}\\).\n\nCalculate the length of \\(X Y\\).\n\n",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "In triangle \\(X Y Z\\) :\n\n- \\(\\mathrm{XZ}=10\\) centimetres\n\n- \\(\\mathrm{YZ}=8\\) centimetres\n\n- \\(\\quad \\cos Z=\\frac{1}{8}\\).\n\nCalculate the length of \\(X Y\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-07.jpg?height=451&width=713&top_left_y=251&top_left_x=800)"
+            },
+            {
+                "content": "Triangle \\(X Y Z\\) is shown below.\n\nCalculate the size of the smallest angle in triangle \\(X Y Z\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "Triangle \\(X Y Z\\) is shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-18.jpg?height=514&width=828&top_left_y=343&top_left_x=500)\n\nCalculate the size of the smallest angle in triangle \\(X Y Z\\)."
+            },
+            {
+                "content": "A piece of land is in the shape of a triangle as shown.\n\n- \\(\\mathrm{PQ}=250\\) metres\n\n- \\(\\mathrm{PR}=180\\) metres\n\n- angle \\(\\mathrm{QPR}=147^{\\circ}\\)\n\nThe owner wishes to build a fence along the side QR.\n\nCalculate the length of the fence.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "A piece of land is in the shape of a triangle as shown.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-14.jpg?height=369&width=922&top_left_y=358&top_left_x=453)\n\n- \\(\\mathrm{PQ}=250\\) metres\n\n- \\(\\mathrm{PR}=180\\) metres\n\n- angle \\(\\mathrm{QPR}=147^{\\circ}\\)\n\nThe owner wishes to build a fence along the side QR.\n\nCalculate the length of the fence."
+            },
+            {
+                "content": "In the diagram below:\n\n- DE is perpendicular to AC.\n\n- \\(\\quad A D=4\\) centimetres.\n\n- \\(\\mathrm{DB}=6\\) centimetres.\n\n- \\(\\mathrm{AE}=\\mathrm{EC}=3\\) centimetres.\n\nCalculate the length of BC.\n\nGive your answer correct to one decimal place.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 16,
+                "paper_number": 2,
+                "raw": "In the diagram below:\n\n- DE is perpendicular to AC.\n\n- \\(\\quad A D=4\\) centimetres.\n\n- \\(\\mathrm{DB}=6\\) centimetres.\n\n- \\(\\mathrm{AE}=\\mathrm{EC}=3\\) centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-23.jpg?height=494&width=739&top_left_y=638&top_left_x=547)\n\nCalculate the length of BC.\n\nGive your answer correct to one decimal place."
+            },
+            {
+                "content": "Triangle \\(A B C\\) is shown below.\n\nCalculate the length of \\(A B\\).",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "Triangle \\(A B C\\) is shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-12.jpg?height=331&width=599&top_left_y=320&top_left_x=660)\n\nCalculate the length of \\(A B\\)."
+            },
+            {
+                "content": "The diagram shows triangle \\(A B C\\).\n\n- \\(\\mathrm{AB}=7\\) centimetres\n\n- \\(\\quad \\mathrm{BC}=3\\) centimetres\n\n- \\(\\quad \\mathrm{AC}=5\\) centimetres\n\nCalculate the value of \\(\\cos B\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "The diagram shows triangle \\(A B C\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-06.jpg?height=531&width=628&top_left_y=354&top_left_x=700)\n\n- \\(\\mathrm{AB}=7\\) centimetres\n\n- \\(\\quad \\mathrm{BC}=3\\) centimetres\n\n- \\(\\quad \\mathrm{AC}=5\\) centimetres\n\nCalculate the value of \\(\\cos B\\).\n\nGive your answer in its simplest form."
+            }
+        ],
+        "surds": [
+            {
+                "content": "Express \\(\\frac{9}{\\sqrt{6}}\\) with a rational denominator.\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Express \\(\\frac{9}{\\sqrt{6}}\\) with a rational denominator.\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Express \\(\\frac{\\sqrt{2}}{\\sqrt{40}}\\) as a fraction with a rational denominator.\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "Express \\(\\frac{\\sqrt{2}}{\\sqrt{40}}\\) as a fraction with a rational denominator.\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "The function \\(f(x)\\) is defined by \\(f(x)=\\frac{2}{\\sqrt{x}}, \\quad x>0\\).\n\nExpress \\(f(5)\\) as a fraction with a rational denominator.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "The function \\(f(x)\\) is defined by \\(f(x)=\\frac{2}{\\sqrt{x}}, \\quad x>0\\).\n\nExpress \\(f(5)\\) as a fraction with a rational denominator."
+            },
+            {
+                "content": "Express \\(\\frac{4}{\\sqrt{8}}\\) with a rational denominator.\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "Express \\(\\frac{4}{\\sqrt{8}}\\) with a rational denominator.\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Express \\(\\sqrt{40}+4 \\sqrt{10}+\\sqrt{90}\\) as a surd in its simplest form.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Express \\(\\sqrt{40}+4 \\sqrt{10}+\\sqrt{90}\\) as a surd in its simplest form."
+            },
+            {
+                "content": "Expand and simplify \\(\\sqrt{10}(\\sqrt{10}-\\sqrt{2})+8 \\sqrt{5}\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "Expand and simplify \\(\\sqrt{10}(\\sqrt{10}-\\sqrt{2})+8 \\sqrt{5}\\)."
+            },
+            {
+                "content": "Express \\(\\sqrt{50}+\\sqrt{45}-\\sqrt{2}\\) in its simplest form.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "Express \\(\\sqrt{50}+\\sqrt{45}-\\sqrt{2}\\) in its simplest form."
+            }
+        ],
+        "trigonometric equations": [
+            {
+                "content": "Given that \\(\\cos 60^{\\circ}=0 \\cdot 5\\), state the value of \\(\\cos 240^{\\circ}\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "Given that \\(\\cos 60^{\\circ}=0 \\cdot 5\\), state the value of \\(\\cos 240^{\\circ}\\)."
+            },
+            {
+                "content": "Solve the equation \\(7 \\sin x^{\\circ}+2=3\\), for \\(0 \\leq x<360\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(7 \\sin x^{\\circ}+2=3\\), for \\(0 \\leq x<360\\)."
+            },
+            {
+                "content": "Solve the equation \\(5 \\cos x^{\\circ}+2=1, \\quad 0 \\leq x<360\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(5 \\cos x^{\\circ}+2=1, \\quad 0 \\leq x<360\\)."
+            },
+            {
+                "content": "A wind turbine has three blades as shown below.\n\nThe height, \\(h\\) metres, of the tip of blade A above the ground in each rotation is given by\n\n\\[\nh=40+23 \\cos x^{\\circ}, \\quad 0 \\leq x<360\n\\]\n\nwhere \\(x\\) is the angle blade A has turned clockwise from its vertical position.\n\n\nFind the minimum height of the tip of blade \\(\\mathrm{A}\\) above the ground.\n\nCalculate the values of \\(x\\) for which the tip of blade \\(\\mathrm{A}\\) is 61 metres above the ground.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 15,
+                "paper_number": 2,
+                "raw": "A wind turbine has three blades as shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-24.jpg?height=1036&width=679&top_left_y=356&top_left_x=583)\n\nThe height, \\(h\\) metres, of the tip of blade A above the ground in each rotation is given by\n\n\\[\nh=40+23 \\cos x^{\\circ}, \\quad 0 \\leq x<360\n\\]\n\nwhere \\(x\\) is the angle blade A has turned clockwise from its vertical position.\n\n\n(b) Find the minimum height of the tip of blade \\(\\mathrm{A}\\) above the ground.\n\n(c) Calculate the values of \\(x\\) for which the tip of blade \\(\\mathrm{A}\\) is 61 metres above the ground."
+            },
+            {
+                "content": "Solve the equation \\(2 \\tan x^{\\circ}+5=-4\\), for \\(0 \\leq x \\leq 360\\).\n\n[Turn over",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(2 \\tan x^{\\circ}+5=-4\\), for \\(0 \\leq x \\leq 360\\).\n\n[Turn over"
+            },
+            {
+                "content": "Write the following in order of size starting with the smallest.\n\n\\[\n\\cos 90^{\\circ} \\quad \\cos 100^{\\circ} \\quad \\cos 300^{\\circ}\n\\]\n\nJustify your answer.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "Write the following in order of size starting with the smallest.\n\n\\[\n\\cos 90^{\\circ} \\quad \\cos 100^{\\circ} \\quad \\cos 300^{\\circ}\n\\]\n\nJustify your answer."
+            },
+            {
+                "content": "Solve the equation \\(11 \\cos x^{\\circ}-2=3\\), for \\(0 \\leq x \\leq 360\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(11 \\cos x^{\\circ}-2=3\\), for \\(0 \\leq x \\leq 360\\)."
+            },
+            {
+                "content": "Solve the equation \\(3 \\sin x^{\\circ}+4=6\\), for \\(0 \\leq x \\leq 360\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "Solve the equation \\(3 \\sin x^{\\circ}+4=6\\), for \\(0 \\leq x \\leq 360\\)."
+            },
+            {
+                "content": "The function \\(f(x)\\) is defined by \\(f(x)=4 \\sin 3 x^{\\circ}\\). Evaluate \\(f(90)\\)",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 16,
+                "paper_number": 1,
+                "raw": "The function \\(f(x)\\) is defined by \\(f(x)=4 \\sin 3 x^{\\circ}\\). Evaluate \\(f(90)\\)"
+            },
+            {
+                "content": "The diagram shows the part of the blade of a circular saw above a workbench.\n\nAs the blade rotates, the height, \\(h\\) millimetres, of point \\(\\mathrm{T}\\) above the workbench is given by\n\n\\[\nh=57-85 \\cos x^{\\circ}\n\\]\n\nwhere \\(x\\) is the angle the blade has turned anti-clockwise from a starting position.\n\nCalculate the value of \\(x\\) when point \\(\\mathrm{T}\\) is first at a height of 115 millimetres above the workbench.\n\nCalculate the value of \\(x\\) when point \\(\\mathrm{T}\\) is next at this height.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "The diagram shows the part of the blade of a circular saw above a workbench.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-24.jpg?height=519&width=1233&top_left_y=346&top_left_x=343)\n\nAs the blade rotates, the height, \\(h\\) millimetres, of point \\(\\mathrm{T}\\) above the workbench is given by\n\n\\[\nh=57-85 \\cos x^{\\circ}\n\\]\n\nwhere \\(x\\) is the angle the blade has turned anti-clockwise from a starting position.\n\n(a) Calculate the value of \\(x\\) when point \\(\\mathrm{T}\\) is first at a height of 115 millimetres above the workbench.\n\n(b) Calculate the value of \\(x\\) when point \\(\\mathrm{T}\\) is next at this height."
+            }
+        ],
+        "3d coordinates": [
+            {
+                "content": "The diagram shows a triangular prism, \\(A B C D E F\\), relative to the coordinate axes.\n\n- \\(\\mathrm{AD}=\\mathrm{AE}\\).\n\n- \\(\\quad \\mathrm{DC}=8\\) units.\n\n- Edges \\(\\mathrm{EF}, \\mathrm{DC}\\) and \\(\\mathrm{AB}\\) are parallel to the \\(y\\)-axis.\n\nWrite down the coordinates of \\(B\\) and \\(C\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "The diagram shows a triangular prism, \\(A B C D E F\\), relative to the coordinate axes.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-09.jpg?height=871&width=1356&top_left_y=401&top_left_x=287)\n\n- \\(\\mathrm{AD}=\\mathrm{AE}\\).\n\n- \\(\\quad \\mathrm{DC}=8\\) units.\n\n- Edges \\(\\mathrm{EF}, \\mathrm{DC}\\) and \\(\\mathrm{AB}\\) are parallel to the \\(y\\)-axis.\n\nWrite down the coordinates of \\(B\\) and \\(C\\)."
+            },
+            {
+                "content": "The diagram shows a cone with diameter 6 units and height 8 units.\n\n- The \\(x\\)-axis and the \\(y\\)-axis are tangents to the base\n\n- \\(\\mathrm{A}\\) is the point of contact between the base and the \\(x\\)-axis\n\n- \\(\\quad \\mathrm{B}\\) is directly above the centre of the base\n\nWrite down the coordinates of \\(A\\) and \\(B\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "The diagram shows a cone with diameter 6 units and height 8 units.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-16.jpg?height=808&width=691&top_left_y=353&top_left_x=585)\n\n- The \\(x\\)-axis and the \\(y\\)-axis are tangents to the base\n\n- \\(\\mathrm{A}\\) is the point of contact between the base and the \\(x\\)-axis\n\n- \\(\\quad \\mathrm{B}\\) is directly above the centre of the base\n\nWrite down the coordinates of \\(A\\) and \\(B\\)."
+            },
+            {
+                "content": "The diagram shows a square-based pyramid placed on top of a cube, relative to the coordinate axes.\n\nThe height of the pyramid is half of the height of the cube.\n\n\\(A\\) is the point \\((6,0,0)\\).\n\nThe point \\(\\mathrm{C}\\) is directly above the centre of the base.\n\nWrite down the coordinates of \\(B\\) and \\(C\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "The diagram shows a square-based pyramid placed on top of a cube, relative to the coordinate axes.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-03.jpg?height=899&width=831&top_left_y=387&top_left_x=501)\n\nThe height of the pyramid is half of the height of the cube.\n\n\\(A\\) is the point \\((6,0,0)\\).\n\nThe point \\(\\mathrm{C}\\) is directly above the centre of the base.\n\nWrite down the coordinates of \\(B\\) and \\(C\\)."
+            },
+            {
+                "content": "The diagram shows a rectangular based pyramid, relative to the coordinate axes.\n\n- \\(\\mathrm{A}\\) is the point \\((2,0,0)\\).\n\n- \\(\\quad \\vee\\) is the point \\((5,2,6)\\).\n\nWrite down the coordinates of \\(\\mathrm{B}\\).\n\nCalculate the length of edge \\(\\mathrm{AV}\\) of the pyramid.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "The diagram shows a rectangular based pyramid, relative to the coordinate axes.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-06.jpg?height=762&width=854&top_left_y=390&top_left_x=475)\n\n- \\(\\mathrm{A}\\) is the point \\((2,0,0)\\).\n\n- \\(\\quad \\vee\\) is the point \\((5,2,6)\\).\n\n(a) Write down the coordinates of \\(\\mathrm{B}\\).\n\n(b) Calculate the length of edge \\(\\mathrm{AV}\\) of the pyramid."
+            },
+            {
+                "content": "The diagram shows a cube placed on top of a cuboid, relative to the coordinate axes.\n\n\\(A\\) is the point \\((8,4,6)\\).\n\nWrite down the coordinates of \\(B\\) and \\(C\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "The diagram shows a cube placed on top of a cuboid, relative to the coordinate axes.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-13.jpg?height=685&width=828&top_left_y=374&top_left_x=548)\n\n\\(A\\) is the point \\((8,4,6)\\).\n\nWrite down the coordinates of \\(B\\) and \\(C\\)."
+            },
+            {
+                "content": "The diagram shows a hemisphere relative to the coordinate axes.\n\n- \\(A\\) is the point \\((6,0,0)\\)\n\n- \\(\\quad \\mathrm{C}\\) is the midpoint of diameter \\(\\mathrm{OA}\\)\n\n- \\(B\\) is vertically below \\(C\\)\n\nState the coordinates of B.\n\nCalculate the volume of the hemisphere.\n\nGive your answer in its simplest form in terms of \\(\\pi\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 14,
+                "paper_number": 1,
+                "raw": "The diagram shows a hemisphere relative to the coordinate axes.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-09.jpg?height=768&width=877&top_left_y=347&top_left_x=515)\n\n- \\(A\\) is the point \\((6,0,0)\\)\n\n- \\(\\quad \\mathrm{C}\\) is the midpoint of diameter \\(\\mathrm{OA}\\)\n\n- \\(B\\) is vertically below \\(C\\)\n\n(a) State the coordinates of B.\n\n(b) Calculate the volume of the hemisphere.\n\nGive your answer in its simplest form in terms of \\(\\pi\\)."
+            }
+        ],
+        "changing the subject": [
+            {
+                "content": "Change the subject of the formula \\(y=g \\sqrt{x}+h\\) to \\(x\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 14,
+                "paper_number": 1,
+                "raw": "Change the subject of the formula \\(y=g \\sqrt{x}+h\\) to \\(x\\)."
+            },
+            {
+                "content": "The area of a trapezium is given by the formula\n\n\\[\nA=\\frac{1}{2} h(x+y) .\n\\]\n\nMake \\(x\\) the subject of the formula.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "The area of a trapezium is given by the formula\n\n\\[\nA=\\frac{1}{2} h(x+y) .\n\\]\n\nMake \\(x\\) the subject of the formula."
+            },
+            {
+                "content": "Change the subject of the formula \\(F=\\frac{t^{2}+4 b}{c}\\) to \\(b\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "Change the subject of the formula \\(F=\\frac{t^{2}+4 b}{c}\\) to \\(b\\)."
+            },
+            {
+                "content": "Change the subject of the formula \\(L=\\sqrt{4 k t-p}\\) to \\(k\\).",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "Change the subject of the formula \\(L=\\sqrt{4 k t-p}\\) to \\(k\\)."
+            },
+            {
+                "content": "Change the subject of the formula \\(s=u t+\\frac{1}{2} a t^{2}\\) to \\(a\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "Change the subject of the formula \\(s=u t+\\frac{1}{2} a t^{2}\\) to \\(a\\)."
+            },
+            {
+                "content": "Change the subject of the formula \\(D=\\frac{B+4}{C^{2}}\\) to \\(B\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "Change the subject of the formula \\(D=\\frac{B+4}{C^{2}}\\) to \\(B\\)."
+            },
+            {
+                "content": "Change the subject of the formula \\(d=\\sqrt{\\frac{3 h}{2}}\\) to \\(h\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "Change the subject of the formula \\(d=\\sqrt{\\frac{3 h}{2}}\\) to \\(h\\)."
+            }
+        ],
+        "indices": [
+            {
+                "content": "Remove the brackets and simplify \\(\\left(\\frac{2}{3} p^{4}\\right)^{2}\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 15,
+                "paper_number": 1,
+                "raw": "Remove the brackets and simplify \\(\\left(\\frac{2}{3} p^{4}\\right)^{2}\\)."
+            },
+            {
+                "content": "Simplify \\(\\frac{a^{4} \\times 3 a}{\\sqrt{a}}\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 16,
+                "paper_number": 2,
+                "raw": "Simplify \\(\\frac{a^{4} \\times 3 a}{\\sqrt{a}}\\)."
+            },
+            {
+                "content": "Express \\(\\frac{1}{\\sqrt[3]{x}}\\) in the form \\(x^{n}\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "Express \\(\\frac{1}{\\sqrt[3]{x}}\\) in the form \\(x^{n}\\)."
+            },
+            {
+                "content": "Simplify \\(\\left(n^{2}\\right)^{3} \\times n^{-10}\\).\n\nGive your answer with a positive power.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "Simplify \\(\\left(n^{2}\\right)^{3} \\times n^{-10}\\).\n\nGive your answer with a positive power."
+            },
+            {
+                "content": "Evaluate \\(8^{\\frac{5}{3}}\\).",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 14,
+                "paper_number": 1,
+                "raw": "Evaluate \\(8^{\\frac{5}{3}}\\)."
+            },
+            {
+                "content": "Simplify \\(\\frac{n^{5} \\times 10 n}{2 n^{2}}\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "Simplify \\(\\frac{n^{5} \\times 10 n}{2 n^{2}}\\)."
+            },
+            {
+                "content": "Simplify \\(\\left(m^{-2}\\right)^{4} \\times m^{-5}\\).\n\nGive your answer with a positive power.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Simplify \\(\\left(m^{-2}\\right)^{4} \\times m^{-5}\\).\n\nGive your answer with a positive power."
+            },
+            {
+                "content": "Evaluate \\(16^{\\frac{3}{2}}\\)",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 15,
+                "paper_number": 1,
+                "raw": "Evaluate \\(16^{\\frac{3}{2}}\\)"
+            }
+        ],
+        "sketching quadratics": [
+            {
+                "content": "Sketch the graph of \\(y=(x-6)(x+4)\\).\n\nOn your sketch, show clearly the points of intersection with the \\(x\\)-axis and the \\(y\\)-axis, and the coordinates of the turning point.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 16,
+                "paper_number": 1,
+                "raw": "Sketch the graph of \\(y=(x-6)(x+4)\\).\n\nOn your sketch, show clearly the points of intersection with the \\(x\\)-axis and the \\(y\\)-axis, and the coordinates of the turning point."
+            },
+            {
+                "content": "The graph shows a parabola.\n\nThe maximum turning point has coordinates \\((4,20)\\) as shown in the diagram.\n\nWrite down the equation of the axis of symmetry of the graph.\n\nThe equation of the parabola is of the form \\(y=b-(x+a)^{2}\\).\n\nState the values of\n\n\\(a\\)\n\n(ii) \\(b\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "The graph shows a parabola.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-07.jpg?height=497&width=557&top_left_y=343&top_left_x=635)\n\nThe maximum turning point has coordinates \\((4,20)\\) as shown in the diagram.\n\n(a) Write down the equation of the axis of symmetry of the graph.\n\nThe equation of the parabola is of the form \\(y=b-(x+a)^{2}\\).\n\n(b) State the values of\n\n(i) \\(a\\)\n\n(ii) \\(b\\)."
+            },
+            {
+                "content": "The graph below shows a parabola with equation of the form \\(y=(x+a)^{2}+b\\).\n\nThe equation of the axis of symmetry of the parabola is \\(x=-5\\).\n\nState the value of \\(a\\).\n\nThe point \\((-3,8)\\) lies on the parabola.\n\nCalculate the value of \\(b\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 14,
+                "paper_number": 1,
+                "raw": "The graph below shows a parabola with equation of the form \\(y=(x+a)^{2}+b\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-11.jpg?height=822&width=968&top_left_y=377&top_left_x=433)\n\nThe equation of the axis of symmetry of the parabola is \\(x=-5\\).\n\n(a) State the value of \\(a\\).\n\nThe point \\((-3,8)\\) lies on the parabola.\n\n(b) Calculate the value of \\(b\\)."
+            },
+            {
+                "content": "Sketch the graph of \\(y=(x-3)^{2}+1\\).\n\nOn your sketch, show clearly the coordinates of the turning point and the point of intersection with the \\(y\\)-axis.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "Sketch the graph of \\(y=(x-3)^{2}+1\\).\n\nOn your sketch, show clearly the coordinates of the turning point and the point of intersection with the \\(y\\)-axis."
+            },
+            {
+                "content": "The graph below shows part of the parabola with equation of the form\n\n\\[\ny=(x+a)^{2}+b\n\\]\n\nThe minimum turning point \\((2,-4)\\) is shown in the diagram.\n\nState the values of\n\n\\(a\\)\n\n(ii) \\(b\\).\n\nWrite down the equation of the axis of symmetry of the graph.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "The graph below shows part of the parabola with equation of the form\n\n\\[\ny=(x+a)^{2}+b\n\\]\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-05.jpg?height=660&width=557&top_left_y=441&top_left_x=652)\n\nThe minimum turning point \\((2,-4)\\) is shown in the diagram.\n\n(a) State the values of\n\n(i) \\(a\\)\n\n(ii) \\(b\\).\n\n(b) Write down the equation of the axis of symmetry of the graph."
+            },
+            {
+                "content": "The diagram below shows part of the graph of \\(y=a x^{2}\\)\n\nFind the value of \\(a\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "The diagram below shows part of the graph of \\(y=a x^{2}\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-06.jpg?height=746&width=850&top_left_y=358&top_left_x=503)\n\nFind the value of \\(a\\)."
+            },
+            {
+                "content": "Sketch the graph of \\(y=(x+1)(x-3)\\) using the axes provided below.\n\nOn your sketch, show clearly the points of intersection with the \\(x\\)-axis and the \\(y\\)-axis, and the coordinates of the turning point.\n\n(Additional axes, if required, can be found on page 14.)\n\n",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 14,
+                "paper_number": 1,
+                "raw": "Sketch the graph of \\(y=(x+1)(x-3)\\) using the axes provided below.\n\nOn your sketch, show clearly the points of intersection with the \\(x\\)-axis and the \\(y\\)-axis, and the coordinates of the turning point.\n\n(Additional axes, if required, can be found on page 14.)\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-09.jpg?height=1022&width=1017&top_left_y=994&top_left_x=491)"
+            },
+            {
+                "content": "The diagram below shows part of the graph of \\(y=k x^{2}\\).\n\nFind the value of \\(k\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 6,
+                "paper_number": 1,
+                "raw": "The diagram below shows part of the graph of \\(y=k x^{2}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-03.jpg?height=554&width=591&top_left_y=1448&top_left_x=664)\n\nFind the value of \\(k\\)."
+            },
+            {
+                "content": "Sketch the graph of \\(y=2(x-1)^{2}+4\\).\n\nOn your sketch, show clearly the coordinates of the turning point and the point of intersection with the \\(y\\)-axis.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 17,
+                "paper_number": 1,
+                "raw": "Sketch the graph of \\(y=2(x-1)^{2}+4\\).\n\nOn your sketch, show clearly the coordinates of the turning point and the point of intersection with the \\(y\\)-axis."
+            }
+        ],
+        "volume": [
+            {
+                "content": "A square based pyramid is shown in the diagram below.\n\nThe square base has length 6 centimetres.\n\nThe volume is 138 cubic centimetres.\n\nCalculate the height of the pyramid.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 17,
+                "paper_number": 1,
+                "raw": "A square based pyramid is shown in the diagram below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-12.jpg?height=545&width=528&top_left_y=356&top_left_x=707)\n\nThe square base has length 6 centimetres.\n\nThe volume is 138 cubic centimetres.\n\nCalculate the height of the pyramid."
+            },
+            {
+                "content": "A toy company makes juggling balls in the shape of a sphere with a diameter of \\(6.4\\) centimetres.\n\nCalculate the volume of one juggling ball.\n\nGive your answer correct to 2 significant figures.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "A toy company makes juggling balls in the shape of a sphere with a diameter of \\(6.4\\) centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-21.jpg?height=685&width=580&top_left_y=397&top_left_x=675)\n\nCalculate the volume of one juggling ball.\n\nGive your answer correct to 2 significant figures."
+            },
+            {
+                "content": "A traffic bollard is in the shape of a cylinder with a hemisphere on top.\n\nThe bollard has\n\n- diameter 24 centimetres\n\n- height 70 centimetres.\n\nCalculate the volume of the bollard.\n\nGive your answer correct to 3 significant figures.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "A traffic bollard is in the shape of a cylinder with a hemisphere on top.\n\nThe bollard has\n\n- diameter 24 centimetres\n\n- height 70 centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-19.jpg?height=753&width=411&top_left_y=326&top_left_x=1234)\n\nCalculate the volume of the bollard.\n\nGive your answer correct to 3 significant figures."
+            },
+            {
+                "content": "A spherical sweet is made by coating a caramel sphere evenly with chocolate. A cross-section of the sweet is shown below.\nThe diameter of the sweet is 24 millimetres and the thickness of the chocolate coating is 3 millimetres.\n\nCalculate the volume of the chocolate coating.\n\nGive your answer correct to 3 significant figures.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "A spherical sweet is made by coating a caramel sphere evenly with chocolate. A cross-section of the sweet is shown below.\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-16.jpg?height=460&width=918&top_left_y=418&top_left_x=470)\n\nThe diameter of the sweet is 24 millimetres and the thickness of the chocolate coating is 3 millimetres.\n\nCalculate the volume of the chocolate coating.\n\nGive your answer correct to 3 significant figures."
+            },
+            {
+                "content": "A carton is in the shape of a large cone with a small cone removed.\n\nThe large cone has diameter of \\(32 \\mathrm{~cm}\\) and height \\(24 \\mathrm{~cm}\\).\n\nThe small cone has diameter of \\(18 \\mathrm{~cm}\\) and height \\(13.5 \\mathrm{~cm}\\).\n\nCalculate the volume of the carton.\n\nGive your answer correct to 2 significant figures.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "A carton is in the shape of a large cone with a small cone removed.\n\nThe large cone has diameter of \\(32 \\mathrm{~cm}\\) and height \\(24 \\mathrm{~cm}\\).\n\nThe small cone has diameter of \\(18 \\mathrm{~cm}\\) and height \\(13.5 \\mathrm{~cm}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-16.jpg?height=486&width=783&top_left_y=485&top_left_x=525)\n\nCalculate the volume of the carton.\n\nGive your answer correct to 2 significant figures."
+            },
+            {
+                "content": "The Earth is approximately spherical with a radius of 6400 kilometres. Calculate the volume of the Earth giving your answer in scientific notation, correct to 2 significant figures.\n\nThe approximate volume of the Moon is \\(2 \\cdot 2 \\times 10^{10}\\) cubic kilometres.\n\nCalculate how many times the Earth's volume is greater than the Moon's.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "(a) The Earth is approximately spherical with a radius of 6400 kilometres. Calculate the volume of the Earth giving your answer in scientific notation, correct to 2 significant figures.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-15.jpg?height=292&width=289&top_left_y=459&top_left_x=772)\n\n(b) The approximate volume of the Moon is \\(2 \\cdot 2 \\times 10^{10}\\) cubic kilometres.\n\nCalculate how many times the Earth's volume is greater than the Moon's."
+            },
+            {
+                "content": "An ornament is in the shape of a cone with diameter 8 centimetres and height 15 centimetres.\n\nThe bottom contains a hemisphere made of copper with diameter \\(7 \\cdot 4\\) centimetres. The rest is made of glass, as shown in the diagram below.\n\nCalculate the volume of the glass part of the ornament.\n\nGive your answer correct to 2 significant figures.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "An ornament is in the shape of a cone with diameter 8 centimetres and height 15 centimetres.\n\nThe bottom contains a hemisphere made of copper with diameter \\(7 \\cdot 4\\) centimetres. The rest is made of glass, as shown in the diagram below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-19.jpg?height=819&width=600&top_left_y=493&top_left_x=631)\n\nCalculate the volume of the glass part of the ornament.\n\nGive your answer correct to 2 significant figures."
+            },
+            {
+                "content": "The diagram below shows a cone with diameter 20 centimetres and height 60 centimetres.\n\nCalculate the volume of the cone.\n\nTake \\(\\pi=3.14\\)",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "The diagram below shows a cone with diameter 20 centimetres and height 60 centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-02.jpg?height=1054&width=511&top_left_y=404&top_left_x=750)\n\nCalculate the volume of the cone.\n\nTake \\(\\pi=3.14\\)"
+            },
+            {
+                "content": "A concrete gatepost is made in the shape of a cuboid with a sphere on top.\n\nThe sphere has diameter \\(0.4\\) metres.\n\nThe cuboid has a square base of length \\(0.48\\) metres.\n\nThe total height of the gatepost is \\(2.4\\) metres.\n\nCalculate the volume of concrete needed to make a gatepost.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "A concrete gatepost is made in the shape of a cuboid with a sphere on top.\n\nThe sphere has diameter \\(0.4\\) metres.\n\nThe cuboid has a square base of length \\(0.48\\) metres.\n\nThe total height of the gatepost is \\(2.4\\) metres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-13.jpg?height=899&width=546&top_left_y=356&top_left_x=1189)\n\nCalculate the volume of concrete needed to make a gatepost."
+            },
+            {
+                "content": "The base of an ice cream cone has centre 0 and radius 4 centimetres. The length of \\(A B\\) is \\(14.5\\) centimetres.\n\nCalculate the volume of the cone.\n\nGive your answer correct to 2 significant figures.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "The base of an ice cream cone has centre 0 and radius 4 centimetres. The length of \\(A B\\) is \\(14.5\\) centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-21.jpg?height=849&width=526&top_left_y=415&top_left_x=708)\n\nCalculate the volume of the cone.\n\nGive your answer correct to 2 significant figures."
+            }
+        ],
+        "trigonometric identity": [
+            {
+                "content": "Express \\(\\sin x^{\\circ} \\cos x^{\\circ} \\tan x^{\\circ}\\) in its simplest form.\n\nShow your working.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 18,
+                "paper_number": 1,
+                "raw": "Express \\(\\sin x^{\\circ} \\cos x^{\\circ} \\tan x^{\\circ}\\) in its simplest form.\n\nShow your working."
+            },
+            {
+                "content": "Expand and simplify\n\n\\[\n\\left(\\sin x^{\\circ}+\\cos x^{\\circ}\\right)^{2}\n\\]\n\nShow your working.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 17,
+                "paper_number": 2,
+                "raw": "Expand and simplify\n\n\\[\n\\left(\\sin x^{\\circ}+\\cos x^{\\circ}\\right)^{2}\n\\]\n\nShow your working."
+            },
+            {
+                "content": "Simplify\n\n\\[\n\\tan ^{2} x^{\\circ} \\cos ^{2} x^{\\circ} .\n\\]\n\nShow your working.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Simplify\n\n\\[\n\\tan ^{2} x^{\\circ} \\cos ^{2} x^{\\circ} .\n\\]\n\nShow your working."
+            },
+            {
+                "content": "Simplify \\(\\frac{\\sin x^{\\circ}+2 \\cos x^{\\circ}}{\\cos x^{\\circ}}\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "Simplify \\(\\frac{\\sin x^{\\circ}+2 \\cos x^{\\circ}}{\\cos x^{\\circ}}\\)."
+            },
+            {
+                "content": "Expand and simplify\n\n\\[\n\\cos x^{\\circ}\\left(\\tan x^{\\circ}+1\\right)\n\\]\n\nShow your working.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 16,
+                "paper_number": 2,
+                "raw": "Expand and simplify\n\n\\[\n\\cos x^{\\circ}\\left(\\tan x^{\\circ}+1\\right)\n\\]\n\nShow your working."
+            }
+        ],
+        "completing the square": [
+            {
+                "content": "Express \\(x^{2}-6 x-81\\) in the form \\((x-p)^{2}+q\\).\n\n\nThe roots of the equation \\(x^{2}-6 x-81=0\\) can be expressed in the form \\(x=d \\pm d \\sqrt{e}\\)\n\nFind, algebraically, the values of \\(d\\) and \\(e\\). \n\n",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 19,
+                "paper_number": 1,
+                "raw": "(a) (i) Express \\(x^{2}-6 x-81\\) in the form \\((x-p)^{2}+q\\).\n\n\n(b) The roots of the equation \\(x^{2}-6 x-81=0\\) can be expressed in the form \\(x=d \\pm d \\sqrt{e}\\)\n\nFind, algebraically, the values of \\(d\\) and \\(e\\). \n\n"
+            },
+            {
+                "content": "Express \\(x^{2}+10 x-15\\) in the form \\((x+p)^{2}+q\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "Express \\(x^{2}+10 x-15\\) in the form \\((x+p)^{2}+q\\)."
+            },
+            {
+                "content": "Express \\(x^{2}+8 x-7\\) in the form \\((x+a)^{2}+b\\).",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "Express \\(x^{2}+8 x-7\\) in the form \\((x+a)^{2}+b\\)."
+            },
+            {
+                "content": "Express \\(x^{2}-14 x+44\\) in the form \\((x-a)^{2}+b\\).",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "Express \\(x^{2}-14 x+44\\) in the form \\((x-a)^{2}+b\\)."
+            },
+            {
+                "content": "Express \\(x^{2}+8 x+15\\) in the form \\((x+a)^{2}+b\\).\n\nHence, or otherwise, state the coordinates of the turning point of the graph of \\(f(x)=x^{2}+8 x+15\\)",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "(a) Express \\(x^{2}+8 x+15\\) in the form \\((x+a)^{2}+b\\).\n\n(b) Hence, or otherwise, state the coordinates of the turning point of the graph of \\(f(x)=x^{2}+8 x+15\\)"
+            }
+        ],
+        "compound percentages": [
+            {
+                "content": "Households in a city produced a total of 125000 tonnes of waste in 2017. The total amount of waste is expected to fall by \\(2 \\%\\) each year.\n\nCalculate the total amount of waste these households are expected to produce in 2020.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "Households in a city produced a total of 125000 tonnes of waste in 2017. The total amount of waste is expected to fall by \\(2 \\%\\) each year.\n\nCalculate the total amount of waste these households are expected to produce in 2020."
+            },
+            {
+                "content": "A charity distributed 80000 emergency packages during 2018.\n\nThis number is expected to increase by \\(15 \\%\\) each year.\n\nCalculate how many emergency packages the charity expects to distribute in 2021.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "A charity distributed 80000 emergency packages during 2018.\n\nThis number is expected to increase by \\(15 \\%\\) each year.\n\nCalculate how many emergency packages the charity expects to distribute in 2021."
+            },
+            {
+                "content": "A necklace is valued at \\(\u00c2\u00a3 1200\\).\n\nIts value is expected to increase by \\(4 \\cdot 5 \\%\\) per year over the next 3 years.\n\nCalculate the expected value of the necklace after this time.\n\nGive your answer to the nearest pound.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "A necklace is valued at \\(\u00c2\u00a3 1200\\).\n\nIts value is expected to increase by \\(4 \\cdot 5 \\%\\) per year over the next 3 years.\n\nCalculate the expected value of the necklace after this time.\n\nGive your answer to the nearest pound."
+            },
+            {
+                "content": "A drinks manufacturer is reducing the sugar content of one of their fizzy drinks by \\(8 \\%\\) per year over the next 3 years.\n\nThe sugar content of a standard can is currently 35 grams.\n\nCalculate the sugar content of a standard can after 3 years.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "A drinks manufacturer is reducing the sugar content of one of their fizzy drinks by \\(8 \\%\\) per year over the next 3 years.\n\nThe sugar content of a standard can is currently 35 grams.\n\nCalculate the sugar content of a standard can after 3 years."
+            },
+            {
+                "content": "A house is valued at \\(\u00c2\u00a3 240000\\).\n\nIts value is predicted to rise by \\(2 \\cdot 8 \\%\\) per annum.\n\nCalculate its predicted value after 2 years.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "A house is valued at \\(\u00c2\u00a3 240000\\).\n\nIts value is predicted to rise by \\(2 \\cdot 8 \\%\\) per annum.\n\nCalculate its predicted value after 2 years."
+            },
+            {
+                "content": "There are 964 pupils on the roll of Aberleven High School. It is forecast that the roll will decrease by \\(15 \\%\\) per year.\n\nWhat will be the expected roll after 3 years?\n\nGive your answer to the nearest ten.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "There are 964 pupils on the roll of Aberleven High School. It is forecast that the roll will decrease by \\(15 \\%\\) per year.\n\nWhat will be the expected roll after 3 years?\n\nGive your answer to the nearest ten."
+            },
+            {
+                "content": "A company's annual profit at the end of 2021 was \\(\u00c2\u00a3 215,000\\).\n\nThe profit is expected to increase by \\(3 \\%\\) each year.\n\nCalculate the company's expected annual profit by the end of 2025.\n\nGive your answer correct to the nearest thousand pounds.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "A company's annual profit at the end of 2021 was \\(\u00c2\u00a3 215,000\\).\n\nThe profit is expected to increase by \\(3 \\%\\) each year.\n\nCalculate the company's expected annual profit by the end of 2025.\n\nGive your answer correct to the nearest thousand pounds."
+            },
+            {
+                "content": "A housing development is being built.\n\nThe price of a house built in 2020 is \\(\u00c2\u00a3 250000\\).\n\nThis price is expected to increase by \\(4 \\%\\) each year.\n\nCalculate the expected price of a house built in 2022.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 1,
+                "paper_number": 2,
+                "raw": "A housing development is being built.\n\nThe price of a house built in 2020 is \\(\u00c2\u00a3 250000\\).\n\nThis price is expected to increase by \\(4 \\%\\) each year.\n\nCalculate the expected price of a house built in 2022."
+            }
+        ],
+        "arc length": [
+            {
+                "content": "The diagram below shows a sector of a circle, centre \\(C\\).\n\nThe radius of the circle is \\(7 \\cdot 4\\) centimetres.\n\nCalculate the length of the major arc \\(A B\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "The diagram below shows a sector of a circle, centre \\(C\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-17.jpg?height=614&width=586&top_left_y=364&top_left_x=678)\n\nThe radius of the circle is \\(7 \\cdot 4\\) centimetres.\n\nCalculate the length of the major arc \\(A B\\)."
+            },
+            {
+                "content": "The diagram below shows a sector of a circle, centre \\(C\\).\n\nThe radius of the circle is 30 centimetres.\n\nCalculate the length of the major arc \\(A B\\).\n\nTake \\(\\pi=3 \\cdot 14\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 4,
+                "paper_number": 1,
+                "raw": "The diagram below shows a sector of a circle, centre \\(C\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-02.jpg?height=437&width=531&top_left_y=1101&top_left_x=654)\n\nThe radius of the circle is 30 centimetres.\n\nCalculate the length of the major arc \\(A B\\).\n\nTake \\(\\pi=3 \\cdot 14\\)."
+            },
+            {
+                "content": "The diagram below shows part of a circle, centre 0 .\n\nThe radius of the circle is \\(6.4\\) centimetres.\n\nMajor arc AB has length \\(31.5\\) centimetres.\n\nCalculate the size of the reflex angle AOB.\n\n[Turn over",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "The diagram below shows part of a circle, centre 0 .\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-23.jpg?height=477&width=489&top_left_y=364&top_left_x=675)\n\nThe radius of the circle is \\(6.4\\) centimetres.\n\nMajor arc AB has length \\(31.5\\) centimetres.\n\nCalculate the size of the reflex angle AOB.\n\n[Turn over"
+            },
+            {
+                "content": "The pendulum of a clock swings along an arc of a circle, centre 0 .\n\nThe pendulum swings through an angle of \\(65^{\\circ}\\), travelling from A to \\(B\\).\n\nThe length of the \\(\\operatorname{arc} A B\\) is \\(28.4\\) centimetres.\n\nCalculate the length of the pendulum.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "The pendulum of a clock swings along an arc of a circle, centre 0 .\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-18.jpg?height=636&width=763&top_left_y=336&top_left_x=538)\n\nThe pendulum swings through an angle of \\(65^{\\circ}\\), travelling from A to \\(B\\).\n\nThe length of the \\(\\operatorname{arc} A B\\) is \\(28.4\\) centimetres.\n\nCalculate the length of the pendulum."
+            },
+            {
+                "content": "An attraction at a theme park has a carriage attached to an arm.\n\nThe arm swings from A to \\(B\\) along the arc of a circle, centre \\(C\\), as shown in the diagram below.\n\n- The length of the arm, CB, is 15 metres.\n\n- The length of the major arc, \\(\\mathrm{AB}\\), is \\(69.4\\) metres.\n\nCalculate the size of the reflex angle ACB.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "An attraction at a theme park has a carriage attached to an arm.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-20.jpg?height=517&width=449&top_left_y=358&top_left_x=792)\n\nThe arm swings from A to \\(B\\) along the arc of a circle, centre \\(C\\), as shown in the diagram below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-20.jpg?height=406&width=494&top_left_y=1079&top_left_x=770)\n\n- The length of the arm, CB, is 15 metres.\n\n- The length of the major arc, \\(\\mathrm{AB}\\), is \\(69.4\\) metres.\n\nCalculate the size of the reflex angle ACB."
+            }
+        ],
+        "solving equations and inequations": [
+            {
+                "content": "Solve, algebraically, the inequation\n\n\\[\n3 x<6(x-1)-12\n\\]",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "Solve, algebraically, the inequation\n\n\\[\n3 x<6(x-1)-12\n\\]"
+            },
+            {
+                "content": "Solve, algebraically, the inequality\n\n\\[\n19+x>15+3(x-2)\n\\]",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Solve, algebraically, the inequality\n\n\\[\n19+x>15+3(x-2)\n\\]"
+            },
+            {
+                "content": "Solve algebraically the inequality\n\n\\[\n11-2(1+3 x)<39\n\\]",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Solve algebraically the inequality\n\n\\[\n11-2(1+3 x)<39\n\\]"
+            },
+            {
+                "content": "Solve, algebraically, the inequation \\(1-(x+4)>2 x\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Solve, algebraically, the inequation \\(1-(x+4)>2 x\\)."
+            }
+        ],
+        "standard deviation": [
+            {
+                "content": "A farmers' market took place one weekend.\n\nStallholders were asked to record the number of customers who visited their stall.\n\nThe number of customers who visited six of the stalls on Saturday were as follows:\n\n\\[\n\\begin{array}{llllll}\n120 & 126 & 125 & 131 & 130 & 124\n\\end{array}\n\\]\n\nCalculate the mean and standard deviation of the number of customers. \n\n\nThe mean number of customers who visited these six stalls on Sunday was 117 and the standard deviation was \\(6 \\cdot 2\\).\n\nMake two valid comments comparing the number of customers who visited these stalls on Saturday and Sunday.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "A farmers' market took place one weekend.\n\nStallholders were asked to record the number of customers who visited their stall.\n\nThe number of customers who visited six of the stalls on Saturday were as follows:\n\n\\[\n\\begin{array}{llllll}\n120 & 126 & 125 & 131 & 130 & 124\n\\end{array}\n\\]\n\n(a) Calculate the mean and standard deviation of the number of customers. \n\n\nThe mean number of customers who visited these six stalls on Sunday was 117 and the standard deviation was \\(6 \\cdot 2\\).\n\n(b) Make two valid comments comparing the number of customers who visited these stalls on Saturday and Sunday."
+            },
+            {
+                "content": "Gym members are asked to fill out a questionnaire to rate the quality of service provided.\n\nThey are asked to give a rating on a scale of 1 to 6.\n\nThe ratings given by five members were as follows:\n\n\\[\n\\begin{array}{lllll}\n1 & 4 & 6 & 3 & 6\n\\end{array}\n\\]\n\nIn its simplest form, the standard deviation of these ratings can be written as \\(\\frac{a \\sqrt{b}}{2}\\).\n\nFind the values of \\(a\\) and \\(b\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "Gym members are asked to fill out a questionnaire to rate the quality of service provided.\n\nThey are asked to give a rating on a scale of 1 to 6.\n\nThe ratings given by five members were as follows:\n\n\\[\n\\begin{array}{lllll}\n1 & 4 & 6 & 3 & 6\n\\end{array}\n\\]\n\nIn its simplest form, the standard deviation of these ratings can be written as \\(\\frac{a \\sqrt{b}}{2}\\).\n\nFind the values of \\(a\\) and \\(b\\)."
+            },
+            {
+                "content": "Jack called his internet provider on six occasions to report connection problems.\n\nOn each occasion he noted the length of time he had to wait before speaking to an adviser.\n\nThe times (in minutes) were as follows:\n\n\\[\n\\begin{array}{llllll}\n13 & 16 & 10 & 22 & 5 & 12\n\\end{array}\n\\]\n\nCalculate the mean and standard deviation of these times.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "Jack called his internet provider on six occasions to report connection problems.\n\nOn each occasion he noted the length of time he had to wait before speaking to an adviser.\n\nThe times (in minutes) were as follows:\n\n\\[\n\\begin{array}{llllll}\n13 & 16 & 10 & 22 & 5 & 12\n\\end{array}\n\\]\n\n(a) Calculate the mean and standard deviation of these times."
+            },
+            {
+                "content": "The standard deviation of \\(1,2,2,2,8\\) is equal to \\(\\sqrt{a}\\).\n\nFind the value of \\(a\\).\n\n[Turn over",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "The standard deviation of \\(1,2,2,2,8\\) is equal to \\(\\sqrt{a}\\).\n\nFind the value of \\(a\\).\n\n[Turn over"
+            },
+            {
+                "content": "A runner has recorded her times, in seconds, for six different laps of a running track.\n\n\\(\\begin{array}{llllll}53 & 57 & 58 & 60 & 55 & 56\\end{array}\\)\n\nCalculate the mean of these lap times.\n\nShow clearly all your working.\n\n(ii) Calculate the standard deviation of these lap times.\n\nShow clearly all your working. \n\n\nShe changes her training routine hoping to improve her consistency. After this change, she records her times for another six laps. The mean is 55 seconds and the standard deviation \\(3 \\cdot 2\\) seconds. Has the new training routine improved her consistency? Give a reason for your answer.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "A runner has recorded her times, in seconds, for six different laps of a running track.\n\n\\(\\begin{array}{llllll}53 & 57 & 58 & 60 & 55 & 56\\end{array}\\)\n\n(a) (i) Calculate the mean of these lap times.\n\nShow clearly all your working.\n\n(ii) Calculate the standard deviation of these lap times.\n\nShow clearly all your working. \n\n\n(b) She changes her training routine hoping to improve her consistency. After this change, she records her times for another six laps. The mean is 55 seconds and the standard deviation \\(3 \\cdot 2\\) seconds. Has the new training routine improved her consistency? Give a reason for your answer."
+            },
+            {
+                "content": "A school netball team recorded the number of sit-ups each player completed in a minute.\n\nThe numbers for the seven players were:\n\n\\[\n\\begin{array}{lllllll}\n29 & 27 & 24 & 31 & 22 & 19 & 30\n\\end{array}\n\\]\n\nCalculate the mean and standard deviation of the numbers of sit-ups. \n\n\nSome players in the school's hockey team also recorded the number of sit-ups they completed in a minute.\n\nTheir numbers gave a mean of 29 and a standard deviation of 3.2.\n\nMake two valid comments comparing the numbers of sit-ups of the players in the netball team and the hockey team.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "A school netball team recorded the number of sit-ups each player completed in a minute.\n\nThe numbers for the seven players were:\n\n\\[\n\\begin{array}{lllllll}\n29 & 27 & 24 & 31 & 22 & 19 & 30\n\\end{array}\n\\]\n\n(a) Calculate the mean and standard deviation of the numbers of sit-ups. \n\n\nSome players in the school's hockey team also recorded the number of sit-ups they completed in a minute.\n\nTheir numbers gave a mean of 29 and a standard deviation of 3.2.\n\n(b) Make two valid comments comparing the numbers of sit-ups of the players in the netball team and the hockey team."
+            },
+            {
+                "content": "A company operates a bus route from the city centre to the airport.\n\nThe number of passengers on six of its buses on a Monday was\n\n\nCalculate the mean and standard deviation of the number of passengers.\n\nThe mean number of passengers the following Saturday was 28 and the standard deviation was \\(3 \\cdot 2\\).\n\nMake two valid comments comparing the number of passengers on each bus on Monday and Saturday.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "A company operates a bus route from the city centre to the airport.\n\nThe number of passengers on six of its buses on a Monday was\n\n\n(a) Calculate the mean and standard deviation of the number of passengers.\n\n(b) The mean number of passengers the following Saturday was 28 and the standard deviation was \\(3 \\cdot 2\\).\n\nMake two valid comments comparing the number of passengers on each bus on Monday and Saturday."
+            }
+        ],
+        "functions": [
+            {
+                "content": "A function is defined as \\(f(x)=5+4 x\\).\n\nGiven that \\(f(a)=73\\), calculate \\(a\\).",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "A function is defined as \\(f(x)=5+4 x\\).\n\nGiven that \\(f(a)=73\\), calculate \\(a\\)."
+            },
+            {
+                "content": "Given that \\(f(x)=5 x^{3}\\), evaluate \\(f(-2)\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Given that \\(f(x)=5 x^{3}\\), evaluate \\(f(-2)\\)."
+            },
+            {
+                "content": "Given that \\(f(x)=x^{2}+3 x\\), evaluate \\(f(-5)\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 1,
+                "paper_number": 1,
+                "raw": "Given that \\(f(x)=x^{2}+3 x\\), evaluate \\(f(-5)\\)."
+            },
+            {
+                "content": "A function is defined as \\(f(x)=3 x+2\\).\n\nGiven that \\(f(a)=23\\), calculate \\(a\\).",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "A function is defined as \\(f(x)=3 x+2\\).\n\nGiven that \\(f(a)=23\\), calculate \\(a\\)."
+            },
+            {
+                "content": "Given that \\(f(x)=x^{3}-2\\), evaluate \\(f(-3)\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "Given that \\(f(x)=x^{3}-2\\), evaluate \\(f(-3)\\)."
+            }
+        ],
+        "sine rule": [
+            {
+                "content": "In this diagram:\n\n- angle \\(\\mathrm{ABD}=75^{\\circ}\\)\n\n- angle \\(\\mathrm{BDC}=37^{\\circ}\\)\n\n- \\(\\mathrm{BC}=20\\) centimetres.\n\nCalculate the length of DC.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "In this diagram:\n\n- angle \\(\\mathrm{ABD}=75^{\\circ}\\)\n\n- angle \\(\\mathrm{BDC}=37^{\\circ}\\)\n\n- \\(\\mathrm{BC}=20\\) centimetres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-23.jpg?height=631&width=580&top_left_y=256&top_left_x=1001)\n\nCalculate the length of DC."
+            },
+            {
+                "content": "Katy and Mona are looking up at a hot-air balloon.\n\nIn the diagram below, K, M and B represent the positions of Katy, Mona and the balloon respectively.\n\n- The angle of elevation of the balloon from Katy is \\(52^{\\circ}\\)\n\n- The angle of elevation of the balloon from Mona is \\(34^{\\circ}\\)\n\n- Katy and Mona are 350 metres apart on level ground\n\nCalculate the height of the hot-air balloon above the ground.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 19,
+                "paper_number": 2,
+                "raw": "Katy and Mona are looking up at a hot-air balloon.\n\nIn the diagram below, K, M and B represent the positions of Katy, Mona and the balloon respectively.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-27.jpg?height=397&width=737&top_left_y=461&top_left_x=548)\n\n- The angle of elevation of the balloon from Katy is \\(52^{\\circ}\\)\n\n- The angle of elevation of the balloon from Mona is \\(34^{\\circ}\\)\n\n- Katy and Mona are 350 metres apart on level ground\n\nCalculate the height of the hot-air balloon above the ground."
+            },
+            {
+                "content": "In triangle DEF:\n\n- \\(\\mathrm{DE}=8\\) centimetres\n\n- \\(\\mathrm{EF}=12\\) centimetres\n\n- \\(\\sin E=\\frac{2}{3}\\)\n\nCalculate the area of triangle DEF.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 7,
+                "paper_number": 1,
+                "raw": "In triangle DEF:\n\n- \\(\\mathrm{DE}=8\\) centimetres\n\n- \\(\\mathrm{EF}=12\\) centimetres\n\n- \\(\\sin E=\\frac{2}{3}\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-05.jpg?height=402&width=737&top_left_y=356&top_left_x=731)\n\nCalculate the area of triangle DEF."
+            },
+            {
+                "content": "A set of stepladders has legs 150 centimetres and 140 centimetres long.\n\nWhen the stepladder is fully open, the angle between the longer leg and the ground is \\(66^{\\circ}\\).\n\nCalculate \\(x^{\\circ}\\), the size of the angle between the shorter leg and the ground.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "A set of stepladders has legs 150 centimetres and 140 centimetres long.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-17.jpg?height=471&width=274&top_left_y=347&top_left_x=777)\n\nWhen the stepladder is fully open, the angle between the longer leg and the ground is \\(66^{\\circ}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-17.jpg?height=520&width=554&top_left_y=1039&top_left_x=640)\n\nCalculate \\(x^{\\circ}\\), the size of the angle between the shorter leg and the ground."
+            },
+            {
+                "content": "In triangle \\(\\mathrm{KLM}\\)\n\n- \\(\\mathrm{KM}=18\\) centimetres\n\n- \\(\\sin K=0.4\\)\n\n- \\(\\sin L=0.9\\)\n\nCalculate the length of LM.\n\n[Turn over",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "In triangle \\(\\mathrm{KLM}\\)\n\n- \\(\\mathrm{KM}=18\\) centimetres\n\n- \\(\\sin K=0.4\\)\n\n- \\(\\sin L=0.9\\)\n\nCalculate the length of LM.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-03.jpg?height=325&width=651&top_left_y=286&top_left_x=931)\n\n[Turn over"
+            },
+            {
+                "content": "The width of a river is represented by \\(\\mathrm{BC}\\) in the diagram below.\n\n\\(A B\\) represents a tree on the river bank.\n\n- From \\(\\mathrm{C}\\), the angle of elevation to \\(\\mathrm{A}\\) is \\(28^{\\circ}\\).\n\n- From \\(D\\), the angle of elevation to \\(A\\) is \\(12^{\\circ}\\).\n\n- The distance from \\(C\\) to \\(D\\) is 15 metres.\n\n- BCD is a straight line.\n\nCalculate \\(B C\\), the width of the river.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 14,
+                "paper_number": 2,
+                "raw": "The width of a river is represented by \\(\\mathrm{BC}\\) in the diagram below.\n\n\\(A B\\) represents a tree on the river bank.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-23.jpg?height=397&width=1419&top_left_y=418&top_left_x=296)\n\n- From \\(\\mathrm{C}\\), the angle of elevation to \\(\\mathrm{A}\\) is \\(28^{\\circ}\\).\n\n- From \\(D\\), the angle of elevation to \\(A\\) is \\(12^{\\circ}\\).\n\n- The distance from \\(C\\) to \\(D\\) is 15 metres.\n\n- BCD is a straight line.\n\nCalculate \\(B C\\), the width of the river."
+            },
+            {
+                "content": "In triangle \\(\\mathrm{PQR}\\)\n\n- \\(\\quad \\mathrm{PR}=11 \\cdot 3\\) metres\n\n- \\(\\quad \\mathrm{QR}=9.8\\) metres\n\n- \\(\\quad\\) angle \\(\\mathrm{QPR}=54^{\\circ}\\).\n\nCalculate the size of acute angle \\(P Q R\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "In triangle \\(\\mathrm{PQR}\\)\n\n- \\(\\quad \\mathrm{PR}=11 \\cdot 3\\) metres\n\n- \\(\\quad \\mathrm{QR}=9.8\\) metres\n\n- \\(\\quad\\) angle \\(\\mathrm{QPR}=54^{\\circ}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-15.jpg?height=462&width=614&top_left_y=1174&top_left_x=858)\n\nCalculate the size of acute angle \\(P Q R\\)."
+            }
+        ],
+        "reverse percentages": [
+            {
+                "content": "Venus and Earth are two planets within our solar system.\n\nVenus\n\nEarth\n\nThe volume of Venus is approximately \\(9 \\cdot 3 \\times 10^{11}\\) cubic kilometres.\n\nThis is \\(85 \\%\\) of the volume of Earth.\n\nCalculate the volume of Earth.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "Venus and Earth are two planets within our solar system.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-25.jpg?height=277&width=280&top_left_y=364&top_left_x=594)\n\nVenus\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-25.jpg?height=328&width=326&top_left_y=344&top_left_x=1022)\n\nEarth\n\nThe volume of Venus is approximately \\(9 \\cdot 3 \\times 10^{11}\\) cubic kilometres.\n\nThis is \\(85 \\%\\) of the volume of Earth.\n\nCalculate the volume of Earth."
+            },
+            {
+                "content": "Georgie had her roof repaired.\n\nShe was charged an extra \\(2.5 \\%\\) for late payment.\n\nShe had to pay a total of \\(\u00c2\u00a3 977 \\cdot 85\\).\n\nCalculate how much she would have saved if she had paid on time.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "Georgie had her roof repaired.\n\nShe was charged an extra \\(2.5 \\%\\) for late payment.\n\nShe had to pay a total of \\(\u00c2\u00a3 977 \\cdot 85\\).\n\nCalculate how much she would have saved if she had paid on time."
+            },
+            {
+                "content": "A theatre group sold 4830 tickets for their show.\n\nThis was \\(15 \\%\\) more than they sold last year.\n\nHow many tickets did they sell last year?",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "A theatre group sold 4830 tickets for their show.\n\nThis was \\(15 \\%\\) more than they sold last year.\n\nHow many tickets did they sell last year?"
+            },
+            {
+                "content": "James paid \\(\u00c2\u00a3 297 \\cdot 50\\) for a laptop in a sale.\n\nThe discount in the sale was \\(15 \\%\\).\n\nCalculate the original price of the laptop.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "James paid \\(\u00c2\u00a3 297 \\cdot 50\\) for a laptop in a sale.\n\nThe discount in the sale was \\(15 \\%\\).\n\nCalculate the original price of the laptop."
+            },
+            {
+                "content": "480000 tickets were sold for a tennis tournament last year.\n\nThis represents \\(80 \\%\\) of all the available tickets.\n\nCalculate the total number of tickets that were available for this tournament.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 9,
+                "paper_number": 1,
+                "raw": "480000 tickets were sold for a tennis tournament last year.\n\nThis represents \\(80 \\%\\) of all the available tickets.\n\nCalculate the total number of tickets that were available for this tournament."
+            },
+            {
+                "content": "Tommy buys flower seeds from a website.\n\nTommy is given a \\(30 \\%\\) discount. He pays \\(\u00c2\u00a3 16.10\\) for the seeds.\n\nCalculate the cost of the flower seeds without the discount.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "Tommy buys flower seeds from a website.\n\nTommy is given a \\(30 \\%\\) discount. He pays \\(\u00c2\u00a3 16.10\\) for the seeds.\n\nCalculate the cost of the flower seeds without the discount."
+            },
+            {
+                "content": "A band sold 2400 tickets for their gig in Edinburgh.\n\nThis was \\(75 \\%\\) of the number of tickets sold for their gig in Glasgow.\n\nCalculate the number of tickets sold for their gig in Glasgow.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "A band sold 2400 tickets for their gig in Edinburgh.\n\nThis was \\(75 \\%\\) of the number of tickets sold for their gig in Glasgow.\n\nCalculate the number of tickets sold for their gig in Glasgow."
+            }
+        ],
+        "shapes inside circles": [
+            {
+                "content": "The shape below is part of a circle, centre 0 .\n\nThe circle has radius 13 centimetres.\n\n\\(A B\\) is a chord of length 20 centimetres.\n\nCalculate the width of the shape.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "The shape below is part of a circle, centre 0 .\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-26.jpg?height=474&width=503&top_left_y=357&top_left_x=708)\n\nThe circle has radius 13 centimetres.\n\n\\(A B\\) is a chord of length 20 centimetres.\n\nCalculate the width of the shape."
+            },
+            {
+                "content": "The picture shows a cartoon snowman.\n\nThe diagram below represents the snowman.\n\n- The head is a small circle, centre S, with diameter 15 centimetres\n\n- The body is part of a larger circle, centre \\(\\mathrm{T}\\)\n\n- The point \\(\\mathrm{T}\\) lies on the circumference of the small circle\n\n- The points \\(A\\) and \\(B\\) lie on the circumferences of both circles\n\nCalculate CD, the height of the snowman.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 18,
+                "paper_number": 2,
+                "raw": "The picture shows a cartoon snowman.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-26.jpg?height=472&width=445&top_left_y=278&top_left_x=1185)\n\nThe diagram below represents the snowman.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-26.jpg?height=629&width=443&top_left_y=862&top_left_x=698)\n\n- The head is a small circle, centre S, with diameter 15 centimetres\n\n- The body is part of a larger circle, centre \\(\\mathrm{T}\\)\n\n- The point \\(\\mathrm{T}\\) lies on the circumference of the small circle\n\n- The points \\(A\\) and \\(B\\) lie on the circumferences of both circles\n\nCalculate CD, the height of the snowman."
+            },
+            {
+                "content": "Two identical shapes are used to form a logo.\n\nEach shape is part of a circle.\n\n- The circles have centres \\(\\mathrm{C}_{1}\\) and \\(\\mathrm{C}_{2}\\).\n\n- The radius of each circle is 14 centimetres.\n\n- The logo has half-turn symmetry about the mid-point of \\(A B\\).\n\n- \\(\\mathrm{AB}\\) is 48 centimetres long.\n\nCalculate the height of the logo.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "Two identical shapes are used to form a logo.\n\nEach shape is part of a circle.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-22.jpg?height=626&width=922&top_left_y=418&top_left_x=430)\n\n- The circles have centres \\(\\mathrm{C}_{1}\\) and \\(\\mathrm{C}_{2}\\).\n\n- The radius of each circle is 14 centimetres.\n\n- The logo has half-turn symmetry about the mid-point of \\(A B\\).\n\n- \\(\\mathrm{AB}\\) is 48 centimetres long.\n\nCalculate the height of the logo."
+            },
+            {
+                "content": "This perfume bottle has a label in the shape of part of a circle.\n\nA diagram of the label is shown below.\n\n- The centre of the circle is 0.\n\n- The chord \\(A B\\) is 9 centimetres.\n\n- The radius \\(O B\\) is \\(6 \\cdot 6\\) centimetres.\n\nFind the height of the label.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 15,
+                "paper_number": 2,
+                "raw": "This perfume bottle has a label in the shape of part of a circle.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-22.jpg?height=322&width=442&top_left_y=353&top_left_x=1161)\n\nA diagram of the label is shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-22.jpg?height=586&width=885&top_left_y=792&top_left_x=471)\n\n- The centre of the circle is 0.\n\n- The chord \\(A B\\) is 9 centimetres.\n\n- The radius \\(O B\\) is \\(6 \\cdot 6\\) centimetres.\n\nFind the height of the label."
+            },
+            {
+                "content": "The diagram below shows the circular cross-section of a milk tank.\n\nThe radius of the circle, centre 0 , is \\(1.2\\) metres.\n\nThe width of the surface of the milk in the tank, represented by \\(M L\\) in the diagram, is \\(1.8\\) metres.\n\nCalculate the depth of the milk in the tank.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "The diagram below shows the circular cross-section of a milk tank.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-20.jpg?height=405&width=760&top_left_y=346&top_left_x=525)\n\nThe radius of the circle, centre 0 , is \\(1.2\\) metres.\n\nThe width of the surface of the milk in the tank, represented by \\(M L\\) in the diagram, is \\(1.8\\) metres.\n\nCalculate the depth of the milk in the tank."
+            },
+            {
+                "content": "The diagram below shows a circle, centre \\(C\\).\n\nThe radius of the circle is 15 centimetres.\n\n\\(A\\) is the mid-point of chord PQ.\n\nThe length of \\(A B\\) is 27 centimetres.\n\nCalculate the length of PQ.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "The diagram below shows a circle, centre \\(C\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-10.jpg?height=414&width=423&top_left_y=330&top_left_x=702)\n\nThe radius of the circle is 15 centimetres.\n\n\\(A\\) is the mid-point of chord PQ.\n\nThe length of \\(A B\\) is 27 centimetres.\n\nCalculate the length of PQ."
+            },
+            {
+                "content": "The picture shows the entrance to a tunnel which is in the shape of part of a circle.\n\nThe diagram below represents the cross-section of the tunnel.\n\n- The centre of the circle is 0 .\n\n- \\(M N\\) is a chord of the circle.\n\n- Angle \\(M O N\\) is \\(50^{\\circ}\\).\n\n- The radius of the circle is 7 metres.\n\nCalculate the area of the cross-section of the tunnel.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "The picture shows the entrance to a tunnel which is in the shape of part of a circle.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-23.jpg?height=266&width=374&top_left_y=375&top_left_x=744)\n\nThe diagram below represents the cross-section of the tunnel.\n\n- The centre of the circle is 0 .\n\n- \\(M N\\) is a chord of the circle.\n\n- Angle \\(M O N\\) is \\(50^{\\circ}\\).\n\n- The radius of the circle is 7 metres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-23.jpg?height=579&width=608&top_left_y=767&top_left_x=1067)\n\nCalculate the area of the cross-section of the tunnel."
+            },
+            {
+                "content": "A train tunnel has a circular cross-section with a horizontal floor.\n\nA diagram of the cross-section is shown below.\n\n- The centre of the circle is 0.\n\n- Chord \\(A B\\) is 4 metres.\n\n- The radius \\(\\mathrm{OA}\\) is \\(2.9\\) metres.\n\nCalculate the height of the tunnel.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "A train tunnel has a circular cross-section with a horizontal floor.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-18.jpg?height=362&width=574&top_left_y=356&top_left_x=730)\n\nA diagram of the cross-section is shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-18.jpg?height=577&width=762&top_left_y=871&top_left_x=630)\n\n- The centre of the circle is 0.\n\n- Chord \\(A B\\) is 4 metres.\n\n- The radius \\(\\mathrm{OA}\\) is \\(2.9\\) metres.\n\nCalculate the height of the tunnel."
+            },
+            {
+                "content": "The diagram below shows a design for a memory stick.\n\nThe design consists of a rectangle, RSTU and part of a circle, centre \\(\\mathrm{C}\\).\n- \\(\\quad \\mathrm{RS}=\\mathrm{UT}=12\\) millimetres\n\n- \\(\\mathrm{RU}=\\mathrm{ST}=30\\) millimetres\n\n- The diameter of the circle is 20 millimetres\n\n- UT is a chord of the circle\n\nCalculate the length of the memory stick.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 18,
+                "paper_number": 1,
+                "raw": "The diagram below shows a design for a memory stick.\n\nThe design consists of a rectangle, RSTU and part of a circle, centre \\(\\mathrm{C}\\).\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-12.jpg?height=1016&width=1196&top_left_y=408&top_left_x=366)\n\n- \\(\\quad \\mathrm{RS}=\\mathrm{UT}=12\\) millimetres\n\n- \\(\\mathrm{RU}=\\mathrm{ST}=30\\) millimetres\n\n- The diameter of the circle is 20 millimetres\n\n- UT is a chord of the circle\n\nCalculate the length of the memory stick."
+            }
+        ],
+        "bearings": [
+            {
+                "content": "A ferry and a trawler receive a request for help from a stranded yacht.\n\nOn the diagram the points \\(F, T\\) and \\(Y\\) show the positions of the ferry, the trawler and the yacht respectively.\n\n- \\(\\mathrm{FY}\\) is \\(7 \\cdot 2\\) kilometres.\n\n- \\(T Y\\) is \\(5.6\\) kilometres.\n\n- \\(\\mathrm{FT}\\) is \\(10 \\cdot 3\\) kilometres.\n\n- \\(\\mathrm{F}\\) is on a bearing of \\(240^{\\circ}\\) from \\(\\mathrm{T}\\).\n\nCalculate the bearing of the yacht from the trawler.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "A ferry and a trawler receive a request for help from a stranded yacht.\n\nOn the diagram the points \\(F, T\\) and \\(Y\\) show the positions of the ferry, the trawler and the yacht respectively.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-27.jpg?height=654&width=777&top_left_y=470&top_left_x=571)\n\n- \\(\\mathrm{FY}\\) is \\(7 \\cdot 2\\) kilometres.\n\n- \\(T Y\\) is \\(5.6\\) kilometres.\n\n- \\(\\mathrm{FT}\\) is \\(10 \\cdot 3\\) kilometres.\n\n- \\(\\mathrm{F}\\) is on a bearing of \\(240^{\\circ}\\) from \\(\\mathrm{T}\\).\n\nCalculate the bearing of the yacht from the trawler."
+            },
+            {
+                "content": "In the diagram below \\(\\mathrm{D}, \\mathrm{E}\\) and \\(\\mathrm{F}\\) represent the positions of Dunbridge, Earlsford and Fairtown respectively.\n\nDunbridge is 15 kilometres west of Earlsford.\n\nFrom Dunbridge, the bearing of Fairtown is \\(126^{\\circ}\\).\n\nFrom Earlsford the bearing of Fairtown is \\(230^{\\circ}\\).\n\nCalculate the distance between Dunbridge and Fairtown.\n\nDo not use a scale drawing.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "In the diagram below \\(\\mathrm{D}, \\mathrm{E}\\) and \\(\\mathrm{F}\\) represent the positions of Dunbridge, Earlsford and Fairtown respectively.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-20.jpg?height=557&width=873&top_left_y=390&top_left_x=480)\n\nDunbridge is 15 kilometres west of Earlsford.\n\nFrom Dunbridge, the bearing of Fairtown is \\(126^{\\circ}\\).\n\nFrom Earlsford the bearing of Fairtown is \\(230^{\\circ}\\).\n\nCalculate the distance between Dunbridge and Fairtown.\n\nDo not use a scale drawing."
+            },
+            {
+                "content": "In the diagram below \\(\\mathrm{P}, \\mathrm{Q}\\) and \\(\\mathrm{R}\\) represent the positions of Portlee, Queenstown and Rushton respectively.\n\nPortlee is 25 kilometres due South of Queenstown.\n\nFrom Portlee, the bearing of Rushton is \\(072^{\\circ}\\).\n\nFrom Queenstown, the bearing of Rushton is \\(128^{\\circ}\\).\n\nCalculate the distance between Portlee and Rushton.\n\nDo not use a scale drawing.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "In the diagram below \\(\\mathrm{P}, \\mathrm{Q}\\) and \\(\\mathrm{R}\\) represent the positions of Portlee, Queenstown and Rushton respectively.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-21.jpg?height=700&width=491&top_left_y=381&top_left_x=631)\n\nPortlee is 25 kilometres due South of Queenstown.\n\nFrom Portlee, the bearing of Rushton is \\(072^{\\circ}\\).\n\nFrom Queenstown, the bearing of Rushton is \\(128^{\\circ}\\).\n\nCalculate the distance between Portlee and Rushton.\n\nDo not use a scale drawing."
+            },
+            {
+                "content": "In a race, boats sail round three buoys represented by \\(A, B\\), and \\(C\\) in the diagram below.\n\n\\(\\mathrm{B}\\) is 8 kilometres from \\(\\mathrm{A}\\) on a bearing of \\(060^{\\circ}\\).\n\n\\(C\\) is 11 kilometres from \\(B\\).\n\n\\(A\\) is 13 kilometres from \\(C\\).\n\nCalculate the size of angle \\(A B C\\).\n\nHence find the size of the shaded angle.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 10,
+                "paper_number": 2,
+                "raw": "In a race, boats sail round three buoys represented by \\(A, B\\), and \\(C\\) in the diagram below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-21.jpg?height=628&width=697&top_left_y=374&top_left_x=568)\n\n\\(\\mathrm{B}\\) is 8 kilometres from \\(\\mathrm{A}\\) on a bearing of \\(060^{\\circ}\\).\n\n\\(C\\) is 11 kilometres from \\(B\\).\n\n\\(A\\) is 13 kilometres from \\(C\\).\n\n(a) Calculate the size of angle \\(A B C\\).\n\n(b) Hence find the size of the shaded angle."
+            },
+            {
+                "content": "A fishing boat and a yacht left a harbour at the point \\(\\mathrm{H}\\).\n\nThe fishing boat travelled \\(3.4\\) kilometres on a bearing of \\(047^{\\circ}\\) to the point \\(F\\).\n\nThe yacht travelled \\(5.7\\) kilometres on a bearing of \\(115^{\\circ}\\) to the point \\(Y\\).\n\nCalculate the distance between the fishing boat at \\(\\mathrm{F}\\) and the yacht at \\(\\mathrm{Y}\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "A fishing boat and a yacht left a harbour at the point \\(\\mathrm{H}\\).\n\nThe fishing boat travelled \\(3.4\\) kilometres on a bearing of \\(047^{\\circ}\\) to the point \\(F\\).\n\nThe yacht travelled \\(5.7\\) kilometres on a bearing of \\(115^{\\circ}\\) to the point \\(Y\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-18.jpg?height=785&width=805&top_left_y=481&top_left_x=563)\n\nCalculate the distance between the fishing boat at \\(\\mathrm{F}\\) and the yacht at \\(\\mathrm{Y}\\)."
+            }
+        ],
+        "algebraic fractions": [
+            {
+                "content": "Express\n\n\\[\n\\frac{n}{n^{2}-4} \\div \\frac{3}{n-2}, \\quad n \\neq-2, n \\neq 2\n\\]\n\nas a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 15,
+                "paper_number": 2,
+                "raw": "Express\n\n\\[\n\\frac{n}{n^{2}-4} \\div \\frac{3}{n-2}, \\quad n \\neq-2, n \\neq 2\n\\]\n\nas a single fraction in its simplest form."
+            },
+            {
+                "content": "Solve the equation \\(\\frac{x}{2}-1=\\frac{3-x}{5}\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 14,
+                "paper_number": 1,
+                "raw": "Solve the equation \\(\\frac{x}{2}-1=\\frac{3-x}{5}\\)."
+            },
+            {
+                "content": "Find an expression for the gradient of the line joining point \\(A(6,9)\\) to point \\(\\mathrm{B}\\left(4 p, 4 p^{2}\\right)\\).\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "Find an expression for the gradient of the line joining point \\(A(6,9)\\) to point \\(\\mathrm{B}\\left(4 p, 4 p^{2}\\right)\\).\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Express\n\n\\[\n\\frac{4}{x-2}-\\frac{3}{x+5}, \\quad x \\neq 2, x \\neq-5\n\\]\n\nas a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 15,
+                "paper_number": 2,
+                "raw": "Express\n\n\\[\n\\frac{4}{x-2}-\\frac{3}{x+5}, \\quad x \\neq 2, x \\neq-5\n\\]\n\nas a single fraction in its simplest form."
+            },
+            {
+                "content": "Express \\(\\frac{3}{a^{2}}-\\frac{2}{a}, a \\neq 0\\), as a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 11,
+                "paper_number": 1,
+                "raw": "Express \\(\\frac{3}{a^{2}}-\\frac{2}{a}, a \\neq 0\\), as a single fraction in its simplest form."
+            },
+            {
+                "content": "Factorise \\(4 x^{2}-25\\).\n\nHence simplify \\(\\frac{4 x^{2}-25}{2 x^{2}-x-10}\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "(a) Factorise \\(4 x^{2}-25\\).\n\n(b) Hence simplify \\(\\frac{4 x^{2}-25}{2 x^{2}-x-10}\\)."
+            },
+            {
+                "content": "Solve the equation\n\n\\[\n\\frac{2 x}{3}-\\frac{5}{6}=2 x\n\\]\n\nGive your answer in its simplest form.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 8,
+                "paper_number": 1,
+                "raw": "Solve the equation\n\n\\[\n\\frac{2 x}{3}-\\frac{5}{6}=2 x\n\\]\n\nGive your answer in its simplest form."
+            },
+            {
+                "content": "Express\n\n\\[\n\\frac{3}{x-2}+\\frac{5}{x+1}, \\quad x \\neq 2, x \\neq-1\n\\]\n\nas a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "Express\n\n\\[\n\\frac{3}{x-2}+\\frac{5}{x+1}, \\quad x \\neq 2, x \\neq-1\n\\]\n\nas a single fraction in its simplest form."
+            },
+            {
+                "content": "Simplify \\(\\frac{x^{2}-4 x}{x^{2}+x-20}\\).\n\n[Turn over for Question 13 on Page twelve",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "Simplify \\(\\frac{x^{2}-4 x}{x^{2}+x-20}\\).\n\n[Turn over for Question 13 on Page twelve"
+            },
+            {
+                "content": "Express \\(\\frac{5 t}{s} \\div \\frac{t}{2 s^{2}}\\) in its simplest form.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "Express \\(\\frac{5 t}{s} \\div \\frac{t}{2 s^{2}}\\) in its simplest form."
+            },
+            {
+                "content": "Express \\(\\frac{7}{x+5}-\\frac{3}{x} \\quad x \\neq-5, x \\neq 0\\) as a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "Express \\(\\frac{7}{x+5}-\\frac{3}{x} \\quad x \\neq-5, x \\neq 0\\) as a single fraction in its simplest form."
+            },
+            {
+                "content": "Express \\(\\frac{4}{x+2} \\div \\frac{5}{(x+2)^{2}}, x \\neq-2\\) as a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 12,
+                "paper_number": 1,
+                "raw": "Express \\(\\frac{4}{x+2} \\div \\frac{5}{(x+2)^{2}}, x \\neq-2\\) as a single fraction in its simplest form."
+            },
+            {
+                "content": "Simplify \\(\\frac{2 a b+6 a}{b^{2}-9}\\).",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "Simplify \\(\\frac{2 a b+6 a}{b^{2}-9}\\)."
+            },
+            {
+                "content": "Express\n\n\\[\n\\frac{6 x}{y} \\div \\frac{2 x^{2}}{y+5}, x \\neq 0, y \\neq 0, y \\neq-5\n\\]\n\nas a single fraction in its simplest form.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "Express\n\n\\[\n\\frac{6 x}{y} \\div \\frac{2 x^{2}}{y+5}, x \\neq 0, y \\neq 0, y \\neq-5\n\\]\n\nas a single fraction in its simplest form."
+            }
+        ],
+        "pythagoras": [
+            {
+                "content": "Chris wants to store his umbrella in a locker.\n\nThe locker is a cuboid with internal dimensions of length 40 centimetres, breadth 40 centimetres and height 70 centimetres.\nThe umbrella is 85 centimetres long.\n\nHe thinks it will fit into the locker from corner \\(P\\) to corner \\(M\\).\n\nIs he correct?\n\nJustify your answer.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 16,
+                "paper_number": 2,
+                "raw": "Chris wants to store his umbrella in a locker.\n\nThe locker is a cuboid with internal dimensions of length 40 centimetres, breadth 40 centimetres and height 70 centimetres.\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-29.jpg?height=548&width=910&top_left_y=474&top_left_x=503)\n\nThe umbrella is 85 centimetres long.\n\nHe thinks it will fit into the locker from corner \\(P\\) to corner \\(M\\).\n\nIs he correct?\n\nJustify your answer."
+            },
+            {
+                "content": "The diagram shows the course for a jet-ski race.\n\nThe course is indicated by markers A, B and C.\n\nThe total length of the course is 1500 metres.\n\n- \\(B\\) is 600 metres from \\(A\\)\n\n- \\(C\\) is 650 metres from \\(A\\)\n\n- \\(C\\) is due north of \\(B\\)\n\nDetermine whether \\(B\\) is due east of \\(A\\).\n\nJustify your answer.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "The diagram shows the course for a jet-ski race.\n\nThe course is indicated by markers A, B and C.\n\nThe total length of the course is 1500 metres.\n\n- \\(B\\) is 600 metres from \\(A\\)\n\n- \\(C\\) is 650 metres from \\(A\\)\n\n- \\(C\\) is due north of \\(B\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-21.jpg?height=406&width=766&top_left_y=405&top_left_x=882)\n\nDetermine whether \\(B\\) is due east of \\(A\\).\n\nJustify your answer."
+            },
+            {
+                "content": "Triangles \\(A\\) and \\(B\\) are shown below.\nThe triangles are placed together to form the larger triangle shown below.\n\nIs this larger triangle right-angled?\n\nJustify your answer.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 7,
+                "paper_number": 2,
+                "raw": "Triangles \\(A\\) and \\(B\\) are shown below.\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-17.jpg?height=270&width=960&top_left_y=356&top_left_x=546)\n\nThe triangles are placed together to form the larger triangle shown below.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-17.jpg?height=223&width=671&top_left_y=791&top_left_x=698)\n\nIs this larger triangle right-angled?\n\nJustify your answer."
+            },
+            {
+                "content": "The diagram below shows the position of three towns.\n\nLowtown is due west of Midtown.\n\nThe distance from\n\n- Lowtown to Midtown is 75 kilometres.\n\n- Midtown to Hightown is 110 kilometres.\n\n- Hightown to Lowtown is 85 kilometres.\n\nIs Hightown directly north of Lowtown?\n\nJustify your answer.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "The diagram below shows the position of three towns.\n\nLowtown is due west of Midtown.\n\nThe distance from\n\n- Lowtown to Midtown is 75 kilometres.\n\n- Midtown to Hightown is 110 kilometres.\n\n- Hightown to Lowtown is 85 kilometres.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-18.jpg?height=565&width=586&top_left_y=657&top_left_x=632)\n\nIs Hightown directly north of Lowtown?\n\nJustify your answer."
+            },
+            {
+                "content": "The diagram shows a cuboid, ABCDEFGH.\n\n- The length of the cuboid, EH, is 24 centimetres.\n\n- The breadth of the cuboid, \\(\\mathrm{HG}\\), is 6 centimetres.\n\n- The height of the cuboid, CG, is 8 centimetres.\n\nCalculate the length of EC, the space diagonal of the cuboid.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "The diagram shows a cuboid, ABCDEFGH.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-21.jpg?height=486&width=983&top_left_y=351&top_left_x=525)\n\n- The length of the cuboid, EH, is 24 centimetres.\n\n- The breadth of the cuboid, \\(\\mathrm{HG}\\), is 6 centimetres.\n\n- The height of the cuboid, CG, is 8 centimetres.\n\nCalculate the length of EC, the space diagonal of the cuboid."
+            }
+        ],
+        "sector area": [
+            {
+                "content": "In the diagram below \\(A O D\\) is a sector of a circle, with centre \\(O\\), and \\(B O C\\) is a triangle.\n\nIn sector AOD:\n\n- \\(\\quad\\) radius \\(=30\\) centimetres\n\n- angle \\(\\mathrm{AOD}=75^{\\circ}\\).\n\nIn triangle OBC:\n\n- \\(\\mathrm{OB}=38\\) centimetres\n\n- \\(\\mathrm{OC}=55\\) centimetres.\n\nCalculate the area of the shaded region, ABCD.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 17,
+                "paper_number": 2,
+                "raw": "In the diagram below \\(A O D\\) is a sector of a circle, with centre \\(O\\), and \\(B O C\\) is a triangle.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-30.jpg?height=494&width=871&top_left_y=404&top_left_x=524)\n\nIn sector AOD:\n\n- \\(\\quad\\) radius \\(=30\\) centimetres\n\n- angle \\(\\mathrm{AOD}=75^{\\circ}\\).\n\nIn triangle OBC:\n\n- \\(\\mathrm{OB}=38\\) centimetres\n\n- \\(\\mathrm{OC}=55\\) centimetres.\n\nCalculate the area of the shaded region, ABCD."
+            },
+            {
+                "content": "In the diagram\n\n- \\(\\mathrm{ABC}\\) is a sector of a circle, centre \\(\\mathrm{C}\\)\n\n- \\(D E F\\) is a sector of a circle, centre \\(F\\).\nThe sectors are mathematically similar.\n\nThe area of the larger sector, \\(A B C\\), is 2750 square centimetres.\n\nCalculate the area of the smaller sector, DEF.\n\nCalculate the size of angle ACB.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 12,
+                "paper_number": 2,
+                "raw": "In the diagram\n\n- \\(\\mathrm{ABC}\\) is a sector of a circle, centre \\(\\mathrm{C}\\)\n\n- \\(D E F\\) is a sector of a circle, centre \\(F\\).\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-22.jpg?height=404&width=1204&top_left_y=480&top_left_x=313)\n\nThe sectors are mathematically similar.\n\nThe area of the larger sector, \\(A B C\\), is 2750 square centimetres.\n\n(a) Calculate the area of the smaller sector, DEF.\n\n(b) Calculate the size of angle ACB."
+            },
+            {
+                "content": "The diagram shows a sector of a circle, centre \\(\\mathrm{C}\\).\n\nThe radius of the circle is 20 centimetres and angle ACB is \\(45^{\\circ}\\).\n\nCalculate the area of the sector.\n\nTake \\(\\pi=3 \\cdot 14\\)",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 3,
+                "paper_number": 1,
+                "raw": "The diagram shows a sector of a circle, centre \\(\\mathrm{C}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-02.jpg?height=505&width=586&top_left_y=347&top_left_x=632)\n\nThe radius of the circle is 20 centimetres and angle ACB is \\(45^{\\circ}\\).\n\nCalculate the area of the sector.\n\nTake \\(\\pi=3 \\cdot 14\\)"
+            },
+            {
+                "content": "The diagram shows a sector of a circle, with centre \\(\\mathrm{C}\\) and radius 14 centimetres.\n\nAngle ACB is \\(110^{\\circ}\\).\n\n\\(A B\\) splits the sector into the shaded segment and triangle \\(A B C\\).\n\nFind the area of the shaded segment.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 8,
+                "paper_number": 2,
+                "raw": "The diagram shows a sector of a circle, with centre \\(\\mathrm{C}\\) and radius 14 centimetres.\n\nAngle ACB is \\(110^{\\circ}\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-19.jpg?height=431&width=694&top_left_y=458&top_left_x=612)\n\n\\(A B\\) splits the sector into the shaded segment and triangle \\(A B C\\).\n\nFind the area of the shaded segment."
+            }
+        ],
+        "area formula": [
+            {
+                "content": "In the diagram below \\(A O D\\) is a sector of a circle, with centre \\(O\\), and \\(B O C\\) is a triangle.\n\nIn sector AOD:\n\n- \\(\\quad\\) radius \\(=30\\) centimetres\n\n- angle \\(\\mathrm{AOD}=75^{\\circ}\\).\n\nIn triangle OBC:\n\n- \\(\\mathrm{OB}=38\\) centimetres\n\n- \\(\\mathrm{OC}=55\\) centimetres.\n\nCalculate the area of the shaded region, ABCD.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 17,
+                "paper_number": 2,
+                "raw": "In the diagram below \\(A O D\\) is a sector of a circle, with centre \\(O\\), and \\(B O C\\) is a triangle.\n\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-30.jpg?height=494&width=871&top_left_y=404&top_left_x=524)\n\nIn sector AOD:\n\n- \\(\\quad\\) radius \\(=30\\) centimetres\n\n- angle \\(\\mathrm{AOD}=75^{\\circ}\\).\n\nIn triangle OBC:\n\n- \\(\\mathrm{OB}=38\\) centimetres\n\n- \\(\\mathrm{OC}=55\\) centimetres.\n\nCalculate the area of the shaded region, ABCD."
+            },
+            {
+                "content": "The diagram shows triangle \\(P Q R\\).\n\n- \\(\\mathrm{PR}=45\\) centimetres\n\n- \\(\\mathrm{PQ}=70\\) centimetres\n\n- Angle \\(\\mathrm{QPR}=129^{\\circ}\\)\n\nCalculate the area of triangle \\(P Q R\\).",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "The diagram shows triangle \\(P Q R\\).\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-15.jpg?height=425&width=922&top_left_y=347&top_left_x=453)\n\n- \\(\\mathrm{PR}=45\\) centimetres\n\n- \\(\\mathrm{PQ}=70\\) centimetres\n\n- Angle \\(\\mathrm{QPR}=129^{\\circ}\\)\n\nCalculate the area of triangle \\(P Q R\\)."
+            },
+            {
+                "content": "The top of a table is in the shape of a regular hexagon.\n\nThe three diagonals of the hexagon which are shown as dotted lines in the diagram below each have length 40 centimetres.\nCalculate the area of the top of the table.\n\n[Turn over",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "The top of a table is in the shape of a regular hexagon.\n\nThe three diagonals of the hexagon which are shown as dotted lines in the diagram below each have length 40 centimetres.\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-19.jpg?height=488&width=1194&top_left_y=447&top_left_x=316)\n\nCalculate the area of the top of the table.\n\n[Turn over"
+            },
+            {
+                "content": "The diagram shows triangle \\(\\mathrm{FGH}\\).\n\n- \\(\\mathrm{FG}=25\\) centimetres\n\n- \\(\\mathrm{FH}=32\\) centimetres\n\n- Angle \\(\\mathrm{GFH}=58^{\\circ}\\)\n\nCalculate the area of triangle FGH.",
+                "paper": "N5_Mathematics_all_2022",
+                "number": 6,
+                "paper_number": 2,
+                "raw": "The diagram shows triangle \\(\\mathrm{FGH}\\).\n\n- \\(\\mathrm{FG}=25\\) centimetres\n\n- \\(\\mathrm{FH}=32\\) centimetres\n\n- Angle \\(\\mathrm{GFH}=58^{\\circ}\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-16.jpg?height=457&width=608&top_left_y=1379&top_left_x=1044)\n\nCalculate the area of triangle FGH."
+            }
+        ],
+        "similar shapes": [
+            {
+                "content": "A cinema sells popcorn in two different sized cartons.\nThe small carton is 16 centimetres deep and has a volume of 576 cubic centimetres.\n\nThe large carton is 24 centimetres deep and has a volume of 1125 cubic centimetres.\n\n\nThe large carton is redesigned so that the two cartons are now mathematically similar.\n\nThe volume of the redesigned large carton is 1500 cubic centimetres.\n\nCalculate the depth of the redesigned large carton.",
+                "paper": "N5_Mathematics_all_2018",
+                "number": 18,
+                "paper_number": 2,
+                "raw": "A cinema sells popcorn in two different sized cartons.\n![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-31.jpg?height=502&width=1242&top_left_y=357&top_left_x=340)\n\nThe small carton is 16 centimetres deep and has a volume of 576 cubic centimetres.\n\nThe large carton is 24 centimetres deep and has a volume of 1125 cubic centimetres.\n\n\nThe large carton is redesigned so that the two cartons are now mathematically similar.\n\nThe volume of the redesigned large carton is 1500 cubic centimetres.\n\n(b) Calculate the depth of the redesigned large carton."
+            },
+            {
+                "content": "In the diagram below:\n\n- TS is parallel to \\(Q R\\)\n\n- \\(\\mathrm{TS}=5\\) centimetres\n\n- \\(\\mathrm{QR}=7\\) centimetres\n\n- \\(\\mathrm{SR}=2.6\\) centimetres\n\nThe length of PS is \\(x\\) centimetres.\n\nCalculate the value of \\(x\\).",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 15,
+                "paper_number": 1,
+                "raw": "In the diagram below:\n\n- TS is parallel to \\(Q R\\)\n\n- \\(\\mathrm{TS}=5\\) centimetres\n\n- \\(\\mathrm{QR}=7\\) centimetres\n\n- \\(\\mathrm{SR}=2.6\\) centimetres\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-12.jpg?height=674&width=836&top_left_y=297&top_left_x=747)\n\nThe length of PS is \\(x\\) centimetres.\n\nCalculate the value of \\(x\\)."
+            },
+            {
+                "content": "Two pictures are mathematically similar in shape.\nThe cost of each picture is proportional to its area.\n\nThe large picture costs \\(\u00c2\u00a3 13 \\cdot 75\\).\n\nFind the cost of the small picture.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 11,
+                "paper_number": 2,
+                "raw": "Two pictures are mathematically similar in shape.\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-19.jpg?height=1002&width=576&top_left_y=356&top_left_x=634)\n\nThe cost of each picture is proportional to its area.\n\nThe large picture costs \\(\u00c2\u00a3 13 \\cdot 75\\).\n\nFind the cost of the small picture."
+            },
+            {
+                "content": "The flag at each hole on a golf course is coloured red and blue. The diagram below represents a flag.\n\nTriangle \\(Q R T\\) represents the red section.\n\nPQTS represents the blue section.\n\nTriangles PRS and QRT are mathematically similar.\n\nThe area of triangle QRT is 400 square centimetres.\n\nCalculate the area of PQTS, the blue section of the flag.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 9,
+                "paper_number": 2,
+                "raw": "The flag at each hole on a golf course is coloured red and blue. The diagram below represents a flag.\n\nTriangle \\(Q R T\\) represents the red section.\n\nPQTS represents the blue section.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_ec7e6559fe639d31397eg-17.jpg?height=603&width=1125&top_left_y=535&top_left_x=297)\n\nTriangles PRS and QRT are mathematically similar.\n\nThe area of triangle QRT is 400 square centimetres.\n\nCalculate the area of PQTS, the blue section of the flag."
+            },
+            {
+                "content": "A supermarket sells cylindrical cookie jars which are mathematically similar.\nThe smaller jar has a height of 15 centimetres and a volume of 750 cubic centimetres.\n\nThe larger jar has a height of 24 centimetres.\n\nCalculate the volume of the larger jar.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 5,
+                "paper_number": 2,
+                "raw": "A supermarket sells cylindrical cookie jars which are mathematically similar.\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-17.jpg?height=708&width=1052&top_left_y=337&top_left_x=386)\n\nThe smaller jar has a height of 15 centimetres and a volume of 750 cubic centimetres.\n\nThe larger jar has a height of 24 centimetres.\n\nCalculate the volume of the larger jar."
+            },
+            {
+                "content": "The two photographs shown are mathematically similar.\n\n\\(12 \\mathrm{~cm}\\)\n\nwidth\n\nThe small photograph has an area of 80 square centimetres, and is 12 centimetres wide.\n\nThe large photograph has an area of 500 square centimetres.\n\nCalculate the width of the large photograph.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 13,
+                "paper_number": 2,
+                "raw": "The two photographs shown are mathematically similar.\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-23.jpg?height=243&width=340&top_left_y=347&top_left_x=344)\n\n\\(12 \\mathrm{~cm}\\)\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_bf75f12b45a31a62152eg-23.jpg?height=551&width=807&top_left_y=344&top_left_x=776)\n\nwidth\n\nThe small photograph has an area of 80 square centimetres, and is 12 centimetres wide.\n\nThe large photograph has an area of 500 square centimetres.\n\nCalculate the width of the large photograph."
+            }
+        ],
+        "interquartile range": [
+            {
+                "content": "The midday temperatures in Grantford were recorded over a nine day period. The temperatures, in \\({ }^{\\circ} \\mathrm{C}\\), were\n\n\\[\n\\begin{array}{lllllllll}\n4 & 7 & 4 & 3 & 6 & 10 & 9 & 5 & 3\n\\end{array}\n\\]\n\nCalculate the median and semi-interquartile range for these temperatures.\n\nOver the same nine day period the midday temperatures in Endoch were also recorded.\n\nThe median temperature was \\(8^{\\circ} \\mathrm{C}\\), and the semi-interquartile range was \\(1.5^{\\circ} \\mathrm{C}\\).\n\nMake two valid comments comparing the midday temperatures of Grantford and Endoch during this period.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "The midday temperatures in Grantford were recorded over a nine day period. The temperatures, in \\({ }^{\\circ} \\mathrm{C}\\), were\n\n\\[\n\\begin{array}{lllllllll}\n4 & 7 & 4 & 3 & 6 & 10 & 9 & 5 & 3\n\\end{array}\n\\]\n\n(a) Calculate the median and semi-interquartile range for these temperatures.\n\nOver the same nine day period the midday temperatures in Endoch were also recorded.\n\nThe median temperature was \\(8^{\\circ} \\mathrm{C}\\), and the semi-interquartile range was \\(1.5^{\\circ} \\mathrm{C}\\).\n\n(b) Make two valid comments comparing the midday temperatures of Grantford and Endoch during this period."
+            },
+            {
+                "content": "The number of calls received by the police was recorded over 10 days. The results are shown below.\n\nFind the semi-interquartile range of this data.",
+                "paper": "N5_Mathematics_all_2017",
+                "number": 2,
+                "paper_number": 1,
+                "raw": "The number of calls received by the police was recorded over 10 days. The results are shown below.\n\nFind the semi-interquartile range of this data."
+            },
+            {
+                "content": "Ten couples took part in a dance competition.\n\nThe couples were given a score in each round.\n\nThe scores in the first round were\n\nCalculate the median and semi-interquartile range of these scores.\n\nIn the second round, the median was 26 and the semi-interquartile range was \\(2 \\cdot 5\\).\n\nMake two valid comparisons between the scores in the first and second rounds.",
+                "paper": "N5_Mathematics_all_2015",
+                "number": 10,
+                "paper_number": 1,
+                "raw": "Ten couples took part in a dance competition.\n\nThe couples were given a score in each round.\n\nThe scores in the first round were\n\n(a) Calculate the median and semi-interquartile range of these scores.\n\n(b) In the second round, the median was 26 and the semi-interquartile range was \\(2 \\cdot 5\\).\n\nMake two valid comparisons between the scores in the first and second rounds."
+            },
+            {
+                "content": "The number of absentees at Applegrove High School was recorded each day over a four-week period.\n\nThe results are shown below.\n\n\\(\\begin{array}{cccccccccc}7 & 8 & 8 & 11 & 12 & 14 & 14 & 15 & 17 & 17 \\\\ 18 & 20 & 20 & 21 & 23 & 24 & 25 & 26 & 27 & 29\\end{array}\\)\n\nFind the semi-interquartile range of this data.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 5,
+                "paper_number": 1,
+                "raw": "The number of absentees at Applegrove High School was recorded each day over a four-week period.\n\nThe results are shown below.\n\n\\(\\begin{array}{cccccccccc}7 & 8 & 8 & 11 & 12 & 14 & 14 & 15 & 17 & 17 \\\\ 18 & 20 & 20 & 21 & 23 & 24 & 25 & 26 & 27 & 29\\end{array}\\)\n\nFind the semi-interquartile range of this data."
+            }
+        ],
+        "scientific notation": [
+            {
+                "content": "A sesame seed weighs \\(3 \\cdot 6 \\times 10^{-6}\\) kilograms.\n\nThe weight of a poppy seed is \\(8 \\%\\) of the weight of a sesame seed.\n\nCalculate the weight of a poppy seed in kilograms.\n\nGive your answer in scientific notation.",
+                "paper": "N5_Mathematics_all_2019",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "A sesame seed weighs \\(3 \\cdot 6 \\times 10^{-6}\\) kilograms.\n\nThe weight of a poppy seed is \\(8 \\%\\) of the weight of a sesame seed.\n\nCalculate the weight of a poppy seed in kilograms.\n\nGive your answer in scientific notation."
+            },
+            {
+                "content": "A pollen sample weighs 12 grams\n\nand contains \\(1.5 \\times 10^{9}\\) pollen grains.\n\nCalculate the weight of one pollen grain in grams.\n\nGive your answer in scientific notation.",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "A pollen sample weighs 12 grams\n\nand contains \\(1.5 \\times 10^{9}\\) pollen grains.\n\n![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-12.jpg?height=342&width=520&top_left_y=1605&top_left_x=1108)\n\nCalculate the weight of one pollen grain in grams.\n\nGive your answer in scientific notation."
+            },
+            {
+                "content": "Light travels at \\(3 \\times 10^{8}\\) metres per second.\n\nA star is \\(4 \\cdot 2 \\times 10^{17}\\) metres away from Earth.\n\nCalculate the number of seconds it takes for light from this star to reach Earth.\n\nGive your answer in scientific notation.",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 2,
+                "paper_number": 2,
+                "raw": "Light travels at \\(3 \\times 10^{8}\\) metres per second.\n\nA star is \\(4 \\cdot 2 \\times 10^{17}\\) metres away from Earth.\n\nCalculate the number of seconds it takes for light from this star to reach Earth.\n\nGive your answer in scientific notation."
+            }
+        ],
+        "factorising": [
+            {
+                "content": "Factorise fully \\(3 x^{2}-48\\).",
+                "paper": "N5_Mathematics_all_2016",
+                "number": 4,
+                "paper_number": 2,
+                "raw": "Factorise fully \\(3 x^{2}-48\\)."
+            },
+            {
+                "content": "The diagram below shows the path of a small rocket which is fired into the air. The height, \\(h\\) metres, of the rocket after \\(t\\) seconds is given by\n\n\\[\nh(t)=16 t-t^{2}\n\\]\n\nAfter how many seconds will the rocket first be at a height of 60 metres?\n\nWill the rocket reach a height of 70 metres?\n\nJustify your answer.",
+                "paper": "N5_Mathematics_all_2014",
+                "number": 13,
+                "paper_number": 1,
+                "raw": "The diagram below shows the path of a small rocket which is fired into the air. The height, \\(h\\) metres, of the rocket after \\(t\\) seconds is given by\n\n\\[\nh(t)=16 t-t^{2}\n\\]\n\n![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-11.jpg?height=359&width=486&top_left_y=443&top_left_x=662)\n\n(a) After how many seconds will the rocket first be at a height of 60 metres?\n\n(b) Will the rocket reach a height of 70 metres?\n\nJustify your answer."
+            },
+            {
+                "content": "Factorise fully \\(3 a^{2}-75\\).",
+                "paper": "N5_Mathematics_all_2021",
+                "number": 3,
+                "paper_number": 2,
+                "raw": "Factorise fully \\(3 a^{2}-75\\)."
+            }
+        ]
+    }
+}

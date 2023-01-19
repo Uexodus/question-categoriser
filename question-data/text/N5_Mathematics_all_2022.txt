@@ -1,0 +1,194 @@
+Total marks - 40
+
+Attempt ALL questions
+
+1. Evaluate
+
+\[
+\frac{2}{3}\left(\frac{1}{5}+\frac{3}{4}\right) .
+\]
+
+Give your answer in its simplest form.
+
+2. Given that \(f(x)=x^{3}-2\), evaluate \(f(-3)\). 3. The diagram below shows a cone with diameter 20 centimetres and height 60 centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-02.jpg?height=1054&width=511&top_left_y=404&top_left_x=750)
+
+Calculate the volume of the cone.
+
+Take \(\pi=3.14\) 4. The diagram below shows a circle with centre 0 .
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-03.jpg?height=1059&width=1105&top_left_y=350&top_left_x=453)
+
+\(A B\) is a tangent to the circle at the point \(C\).
+
+\(C D\) is a diameter of the circle.
+
+Angle EOD is \(68^{\circ}\).
+
+Calculate the size of angle ACE. 5. (a) Express \(x^{2}+8 x+15\) in the form \((x+a)^{2}+b\).
+
+(b) Hence, or otherwise, state the coordinates of the turning point of the graph of \(f(x)=x^{2}+8 x+15\)
+
+6. Find the equation of the line passing through the points \((-3,-1)\) and \((-5,7)\). Give the equation in its simplest form. 7. Change the subject of the formula \(D=\frac{B+4}{C^{2}}\) to \(B\).
+
+8. Part of the graph of \(y=a \sin b x^{\circ}\) is shown in the diagram.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-05.jpg?height=557&width=731&top_left_y=1423&top_left_x=640)
+
+(a) State the value of \(a\).
+
+(b) State the value of \(b\). 9. The diagram shows triangle \(A B C\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-06.jpg?height=531&width=628&top_left_y=354&top_left_x=700)
+
+- \(\mathrm{AB}=7\) centimetres
+
+- \(\quad \mathrm{BC}=3\) centimetres
+
+- \(\quad \mathrm{AC}=5\) centimetres
+
+Calculate the value of \(\cos B\).
+
+Give your answer in its simplest form. 10. Tommy buys flower seeds from a website.
+
+Tommy is given a \(30 \%\) discount. He pays \(£ 16.10\) for the seeds.
+
+Calculate the cost of the flower seeds without the discount.
+
+11. Simplify \(\left(m^{-2}\right)^{4} \times m^{-5}\).
+
+Give your answer with a positive power. 12. Express \(\frac{4}{x+2} \div \frac{5}{(x+2)^{2}}, x \neq-2\) as a single fraction in its simplest form.
+
+13. Expand and simplify \(\sqrt{10}(\sqrt{10}-\sqrt{2})+8 \sqrt{5}\). 14. Sketch the graph of \(y=(x+1)(x-3)\) using the axes provided below.
+
+On your sketch, show clearly the points of intersection with the \(x\)-axis and the \(y\)-axis, and the coordinates of the turning point.
+
+(Additional axes, if required, can be found on page 14.)
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-09.jpg?height=1022&width=1017&top_left_y=994&top_left_x=491)
+
+15. A triangle and rectangle are shown in the diagram.
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-10.jpg?height=864&width=942&top_left_y=356&top_left_x=541)
+
+(a) Find an expression for the area of the triangle. 15. (continued)
+
+(b) Given that the area of the triangle is equal to the area of the rectangle, find algebraically the value of \(x\). Total marks - 50
+
+Attempt ALL questions
+
+1. Expand and simplify \((3 x-2)\left(2 x^{2}+5 x-1\right)\).
+
+2. A company's annual profit at the end of 2021 was \(£ 215,000\).
+
+The profit is expected to increase by \(3 \%\) each year.
+
+Calculate the company's expected annual profit by the end of 2025.
+
+Give your answer correct to the nearest thousand pounds. 3. A concrete gatepost is made in the shape of a cuboid with a sphere on top.
+
+The sphere has diameter \(0.4\) metres.
+
+The cuboid has a square base of length \(0.48\) metres.
+
+The total height of the gatepost is \(2.4\) metres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-13.jpg?height=899&width=546&top_left_y=356&top_left_x=1189)
+
+Calculate the volume of concrete needed to make a gatepost. 4. Moira buys 4 mangoes and 3 apples at a fruit shop.
+
+The total cost is \(£ 4.25\).
+
+(a) Write down an equation to illustrate this information.
+
+Sami buys 5 mangoes and 2 apples in the same fruit shop.
+
+The total cost is \(£ 4.70\).
+
+(b) Write down an equation to illustrate this information.
+
+(c) Calculate, algebraically, the cost of a mango and the cost of an apple. 5. A school netball team recorded the number of sit-ups each player completed in a minute.
+
+The numbers for the seven players were:
+
+\[
+\begin{array}{lllllll}
+29 & 27 & 24 & 31 & 22 & 19 & 30
+\end{array}
+\]
+
+(a) Calculate the mean and standard deviation of the numbers of sit-ups. 
+
+\section{5. (continued)}
+
+Some players in the school's hockey team also recorded the number of sit-ups they completed in a minute.
+
+Their numbers gave a mean of 29 and a standard deviation of 3.2.
+
+(b) Make two valid comments comparing the numbers of sit-ups of the players in the netball team and the hockey team.
+
+6. The diagram shows triangle \(\mathrm{FGH}\).
+
+- \(\mathrm{FG}=25\) centimetres
+
+- \(\mathrm{FH}=32\) centimetres
+
+- Angle \(\mathrm{GFH}=58^{\circ}\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-16.jpg?height=457&width=608&top_left_y=1379&top_left_x=1044)
+
+Calculate the area of triangle FGH. 7. Solve the equation \(4 x^{2}+2 x-7=0\).
+
+Give your answers correct to 2 significant figures. 8. A train tunnel has a circular cross-section with a horizontal floor.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-18.jpg?height=362&width=574&top_left_y=356&top_left_x=730)
+
+A diagram of the cross-section is shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-18.jpg?height=577&width=762&top_left_y=871&top_left_x=630)
+
+- The centre of the circle is 0.
+
+- Chord \(A B\) is 4 metres.
+
+- The radius \(\mathrm{OA}\) is \(2.9\) metres.
+
+Calculate the height of the tunnel. 9. Solve the equation \(3 \sin x^{\circ}+4=6\), for \(0 \leq x \leq 360\). 10. An attraction at a theme park has a carriage attached to an arm.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-20.jpg?height=517&width=449&top_left_y=358&top_left_x=792)
+
+The arm swings from A to \(B\) along the arc of a circle, centre \(C\), as shown in the diagram below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-20.jpg?height=406&width=494&top_left_y=1079&top_left_x=770)
+
+- The length of the arm, CB, is 15 metres.
+
+- The length of the major arc, \(\mathrm{AB}\), is \(69.4\) metres.
+
+Calculate the size of the reflex angle ACB. 11. The diagram shows a cuboid, ABCDEFGH.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-21.jpg?height=486&width=983&top_left_y=351&top_left_x=525)
+
+- The length of the cuboid, EH, is 24 centimetres.
+
+- The breadth of the cuboid, \(\mathrm{HG}\), is 6 centimetres.
+
+- The height of the cuboid, CG, is 8 centimetres.
+
+Calculate the length of EC, the space diagonal of the cuboid. 12. Simplify \(\frac{2 a b+6 a}{b^{2}-9}\).
+
+13. Simplify \(\frac{\sin x^{\circ}+2 \cos x^{\circ}}{\cos x^{\circ}}\). 14. The width of a river is represented by \(\mathrm{BC}\) in the diagram below.
+
+\(A B\) represents a tree on the river bank.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_8dcce9b8835f0d21dce1g-23.jpg?height=397&width=1419&top_left_y=418&top_left_x=296)
+
+- From \(\mathrm{C}\), the angle of elevation to \(\mathrm{A}\) is \(28^{\circ}\).
+
+- From \(D\), the angle of elevation to \(A\) is \(12^{\circ}\).
+
+- The distance from \(C\) to \(D\) is 15 metres.
+
+- BCD is a straight line.
+
+Calculate \(B C\), the width of the river.

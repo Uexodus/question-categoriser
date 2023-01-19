@@ -1,0 +1,225 @@
+\title{
+Total marks - 40 \\ Attempt ALL questions
+}
+
+1. Given that \(f(x)=x^{2}+3 x\), evaluate \(f(-5)\).
+
+2. The number of calls received by the police was recorded over 10 days. The results are shown below.
+
+Find the semi-interquartile range of this data. 3. Evaluate \(1 \frac{5}{6} \div \frac{3}{4}\).
+
+Give your answer in its simplest form.
+
+4. Expand and simplify \((2 x+3)\left(x^{2}-4 x+1\right)\). 5. The diagram shows a square-based pyramid placed on top of a cube, relative to the coordinate axes.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-03.jpg?height=899&width=831&top_left_y=387&top_left_x=501)
+
+The height of the pyramid is half of the height of the cube.
+
+\(A\) is the point \((6,0,0)\).
+
+The point \(\mathrm{C}\) is directly above the centre of the base.
+
+Write down the coordinates of \(B\) and \(C\). 6. The diagram below shows the straight line joining points \(A\) and \(B\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-04.jpg?height=474&width=557&top_left_y=357&top_left_x=641)
+
+Find the equation of the line \(A B\).
+
+Give the equation in its simplest form. 7. In triangle DEF:
+
+- \(\mathrm{DE}=8\) centimetres
+
+- \(\mathrm{EF}=12\) centimetres
+
+- \(\sin E=\frac{2}{3}\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-05.jpg?height=402&width=737&top_left_y=356&top_left_x=731)
+
+Calculate the area of triangle DEF. 8. Solve, algebraically, the inequality
+
+\[
+19+x>15+3(x-2)
+\]
+
+9. In the diagram shown below:
+
+- \(\quad \mathrm{ABE}\) is a tangent to the circle centre 0
+
+- Angle DBE is \(58^{\circ}\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-07.jpg?height=1008&width=1083&top_left_y=495&top_left_x=378)
+
+Calculate the size of angle CAB. 10. Change the subject of the formula \(F=\frac{t^{2}+4 b}{c}\) to \(b\).
+
+11. Express \(\frac{3}{a^{2}}-\frac{2}{a}, a \neq 0\), as a single fraction in its simplest form. 12. Gym members are asked to fill out a questionnaire to rate the quality of service provided.
+
+They are asked to give a rating on a scale of 1 to 6.
+
+The ratings given by five members were as follows:
+
+\[
+\begin{array}{lllll}
+1 & 4 & 6 & 3 & 6
+\end{array}
+\]
+
+In its simplest form, the standard deviation of these ratings can be written as \(\frac{a \sqrt{b}}{2}\).
+
+Find the values of \(a\) and \(b\). 13. The graph below shows two straight lines with the equations:
+
+- \(3 x-y=2\)
+
+- \(x+3 y=19\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-10.jpg?height=529&width=1105&top_left_y=495&top_left_x=361)
+
+The lines intersect at the point \(P\).
+
+Find, algebraically, the coordinates of \(P\). 14. The graph below shows a parabola with equation of the form \(y=(x+a)^{2}+b\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-11.jpg?height=822&width=968&top_left_y=377&top_left_x=433)
+
+The equation of the axis of symmetry of the parabola is \(x=-5\).
+
+(a) State the value of \(a\).
+
+The point \((-3,8)\) lies on the parabola.
+
+(b) Calculate the value of \(b\). 15. In the diagram below:
+
+- TS is parallel to \(Q R\)
+
+- \(\mathrm{TS}=5\) centimetres
+
+- \(\mathrm{QR}=7\) centimetres
+
+- \(\mathrm{SR}=2.6\) centimetres
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-12.jpg?height=674&width=836&top_left_y=297&top_left_x=747)
+
+The length of PS is \(x\) centimetres.
+
+Calculate the value of \(x\). 
+
+\section{Total marks - 50 \\ Attempt ALL questions}
+
+1. Find \(|\mathbf{v}|\), the magnitude of vector \(\mathbf{v}=\left(\begin{array}{r}18 \\ -14 \\ 3\end{array}\right)\).
+
+2. A necklace is valued at \(£ 1200\).
+
+Its value is expected to increase by \(4 \cdot 5 \%\) per year over the next 3 years.
+
+Calculate the expected value of the necklace after this time.
+
+Give your answer to the nearest pound. 3. A piece of land is in the shape of a triangle as shown.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-14.jpg?height=369&width=922&top_left_y=358&top_left_x=453)
+
+- \(\mathrm{PQ}=250\) metres
+
+- \(\mathrm{PR}=180\) metres
+
+- angle \(\mathrm{QPR}=147^{\circ}\)
+
+The owner wishes to build a fence along the side QR.
+
+Calculate the length of the fence. 4. Solve the equation \(2 x^{2}+5 x-4=0\).
+
+Give your answers correct to one decimal place.
+
+5. A theatre group sold 4830 tickets for their show.
+
+This was \(15 \%\) more than they sold last year.
+
+How many tickets did they sell last year? 6. A spherical sweet is made by coating a caramel sphere evenly with chocolate. A cross-section of the sweet is shown below.
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-16.jpg?height=460&width=918&top_left_y=418&top_left_x=470)
+
+The diameter of the sweet is 24 millimetres and the thickness of the chocolate coating is 3 millimetres.
+
+Calculate the volume of the chocolate coating.
+
+Give your answer correct to 3 significant figures. 7. Triangles \(A\) and \(B\) are shown below.
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-17.jpg?height=270&width=960&top_left_y=356&top_left_x=546)
+
+The triangles are placed together to form the larger triangle shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-17.jpg?height=223&width=671&top_left_y=791&top_left_x=698)
+
+Is this larger triangle right-angled?
+
+Justify your answer. 8. In the diagram below, \(\overrightarrow{R Q}\) and \(\overrightarrow{P Q}\) represent the vectors \(\mathbf{c}\) and \(\mathbf{d}\) respectively.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-18.jpg?height=326&width=688&top_left_y=391&top_left_x=570)
+
+(a) Express \(\overrightarrow{\mathrm{PR}}\) in terms of \(\mathbf{c}\) and \(\mathbf{d}\).
+
+The line \(Q P\) is extended to \(T\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-18.jpg?height=314&width=1148&top_left_y=1428&top_left_x=343)
+
+- \(\mathrm{TP}=\mathrm{PQ}\)
+
+- \(V\) is the midpoint of \(P R\)
+
+(b) Express \(\overrightarrow{T V}\) in terms of \(\mathbf{c}\) and \(\mathbf{d}\).
+
+Give your answer in simplest form. 9. (a) Factorise \(4 x^{2}-25\).
+
+(b) Hence simplify \(\frac{4 x^{2}-25}{2 x^{2}-x-10}\). 10. In the diagram below \(\mathrm{D}, \mathrm{E}\) and \(\mathrm{F}\) represent the positions of Dunbridge, Earlsford and Fairtown respectively.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-20.jpg?height=557&width=873&top_left_y=390&top_left_x=480)
+
+Dunbridge is 15 kilometres west of Earlsford.
+
+From Dunbridge, the bearing of Fairtown is \(126^{\circ}\).
+
+From Earlsford the bearing of Fairtown is \(230^{\circ}\).
+
+Calculate the distance between Dunbridge and Fairtown.
+
+Do not use a scale drawing. 11. A straight line has equation \(3 x-5 y-10=0\).
+
+Find the gradient of this line.
+
+12. Express \(\frac{1}{\sqrt[3]{x}}\) in the form \(x^{n}\). 13. Two identical shapes are used to form a logo.
+
+Each shape is part of a circle.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-22.jpg?height=626&width=922&top_left_y=418&top_left_x=430)
+
+- The circles have centres \(\mathrm{C}_{1}\) and \(\mathrm{C}_{2}\).
+
+- The radius of each circle is 14 centimetres.
+
+- The logo has half-turn symmetry about the mid-point of \(A B\).
+
+- \(\mathrm{AB}\) is 48 centimetres long.
+
+Calculate the height of the logo. 14. The diagram below shows part of a circle, centre 0 .
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-23.jpg?height=477&width=489&top_left_y=364&top_left_x=675)
+
+The radius of the circle is \(6.4\) centimetres.
+
+Major arc AB has length \(31.5\) centimetres.
+
+Calculate the size of the reflex angle AOB.
+
+[Turn over 15. A wind turbine has three blades as shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_05965d9b7c10118dd4cdg-24.jpg?height=1036&width=679&top_left_y=356&top_left_x=583)
+
+The height, \(h\) metres, of the tip of blade A above the ground in each rotation is given by
+
+\[
+h=40+23 \cos x^{\circ}, \quad 0 \leq x<360
+\]
+
+where \(x\) is the angle blade A has turned clockwise from its vertical position.
+
+(a) Calculate the height of the tip of blade \(A\) after it has turned through an angle of \(60^{\circ}\). 15. (continued)
+
+(b) Find the minimum height of the tip of blade \(\mathrm{A}\) above the ground.
+
+(c) Calculate the values of \(x\) for which the tip of blade \(\mathrm{A}\) is 61 metres above the ground.

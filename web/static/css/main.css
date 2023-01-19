@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: rgb(58, 58, 58);
+    font-family: Arial, Helvetica, sans-serif;
+}           
+
+
+#topnav {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(53, 52, 52);
+    color: white;
+    padding: 20px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+#center {
+    text-align: center;
+    color: white;
+    background-color: rgb(54, 54, 54);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+#center select {
+    display: inline-block;  
+    background-color: rgb(58, 58, 58) ;
+    color: white;
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+#center input {
+    display: inline-table   ;  
+
+}

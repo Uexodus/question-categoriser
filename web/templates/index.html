@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet", href="{{url_for('static', filename='css/main.css')}}">  
+    <title>SQA trainer</title>
+
+
+</head>
+<body>
+    <div id="topnav">
+        <h1> SQA Trainer </h1>
+    </div>
+
+    <div id="center">
+        <h1>Find past paper questions</h1>
+        <select name="subject" id="subject">
+            <option value="" disabled selected>Subject</option>
+            <option value="mathematics">Maths</option>
+        </select>
+        <select name="year" id="year">
+            <option value="" disabled selected>Year</option>
+            <option value="2022">2022</option>
+        </select>
+        <select name="question-number" id="question-number">
+            <option value="" disabled selected>Question number</option>
+            <option value="12">12.</option>
+        </select>
+        <select name="paper-number" id="paper-number">
+            <option value="" disabled selected>Paper number</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+        </select>
+
+        <input type="submit" value="Submit">
+
+
+        
+    </div>
+</body>
+</html>

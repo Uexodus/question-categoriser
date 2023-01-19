@@ -1,0 +1,209 @@
+\title{
+Total marks - 40 \\ Attempt ALL questions
+}
+
+1. Given \(\mathbf{p}=\left(\begin{array}{r}4 \\ -6\end{array}\right)\) and \(\mathbf{q}=\left(\begin{array}{r}-5 \\ -1\end{array}\right)\).
+
+Find the resultant vector \(\frac{1}{2} \mathbf{p}+\mathbf{q}\).
+
+Express your answer in component form.
+
+2. Evaluate \(\frac{3}{4}\left(\frac{1}{3}+\frac{2}{7}\right)\).
+
+Give your answer in its simplest form. 3. The diagram shows a sector of a circle, centre \(\mathrm{C}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-02.jpg?height=505&width=586&top_left_y=347&top_left_x=632)
+
+The radius of the circle is 20 centimetres and angle ACB is \(45^{\circ}\).
+
+Calculate the area of the sector.
+
+Take \(\pi=3 \cdot 14\) 4. Charlie is making costumes for a school show.
+
+One day he made 2 cloaks and 3 dresses.
+
+The total amount of material he used was \(9.6\) square metres.
+
+(a) Write down an equation to illustrate this information.
+
+(b) The following day Charlie made 3 cloaks and 4 dresses.
+
+The total amount of material he used was \(13 \cdot 3\) square metres.
+
+Write down an equation to illustrate this information.
+
+(c) Calculate the amount of material required to make one cloak and the amount of material required to make one dress. 5. A cattle farmer records the weight of some of his calves.
+
+The scattergraph shows the relationship between the age, \(A\) months, and the weight, \(W\) kilograms, of the calves.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-04.jpg?height=669&width=831&top_left_y=505&top_left_x=493)
+
+A line of best fit is drawn.
+
+Point D represents a 3 month old calf which weighs 100 kilograms.
+
+Point E represents a 15 month old calf which weighs 340 kilograms.
+
+(a) Find the equation of the line of best fit in terms of \(A\) and \(W\).
+
+Give the equation in its simplest form. 
+
+\section{5. (continued)}
+
+(b) Use your equation from part (a) to estimate the weight of a one year old calf.
+
+Show your working.
+
+6. Determine the nature of the roots of the function \(f(x)=7 x^{2}+5 x-1\). 7. The diagram shows a rectangular based pyramid, relative to the coordinate axes.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-06.jpg?height=762&width=854&top_left_y=390&top_left_x=475)
+
+- \(\mathrm{A}\) is the point \((2,0,0)\).
+
+- \(\quad \vee\) is the point \((5,2,6)\).
+
+(a) Write down the coordinates of \(\mathrm{B}\).
+
+(b) Calculate the length of edge \(\mathrm{AV}\) of the pyramid. 8. Solve the equation
+
+\[
+\frac{2 x}{3}-\frac{5}{6}=2 x
+\]
+
+Give your answer in its simplest form.
+
+9. The function \(f(x)\) is defined by \(f(x)=\frac{2}{\sqrt{x}}, \quad x>0\).
+
+Express \(f(5)\) as a fraction with a rational denominator. 10. Sketch the graph of \(y=(x-3)^{2}+1\).
+
+On your sketch, show clearly the coordinates of the turning point and the point of intersection with the \(y\)-axis. 11. Simplify
+
+\[
+\tan ^{2} x^{\circ} \cos ^{2} x^{\circ} .
+\]
+
+Show your working. 12. The diagrams below show a rectangle and a triangle.
+
+All measurements are in centimetres.
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-10.jpg?height=408&width=1286&top_left_y=418&top_left_x=317)
+
+(a) Find an expression for the area of the rectangle.
+
+(b) Given that the area of the rectangle is equal to the area of the triangle, show that \(x^{2}-2 x-8=0\). 12. (continued)
+
+(c) Hence find, algebraically, the length and breadth of the rectangle. 
+
+\section{Total marks - 50 \\ Attempt ALL questions}
+
+1. A drinks manufacturer is reducing the sugar content of one of their fizzy drinks by \(8 \%\) per year over the next 3 years.
+
+The sugar content of a standard can is currently 35 grams.
+
+Calculate the sugar content of a standard can after 3 years.
+
+2. A pollen sample weighs 12 grams
+
+and contains \(1.5 \times 10^{9}\) pollen grains.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-12.jpg?height=342&width=520&top_left_y=1605&top_left_x=1108)
+
+Calculate the weight of one pollen grain in grams.
+
+Give your answer in scientific notation. 3. The diagram below shows parallelogram \(A B C D\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-13.jpg?height=372&width=690&top_left_y=348&top_left_x=569)
+
+\(\overrightarrow{A B}\) represents vector \(\mathbf{u}\) and \(\overrightarrow{B C}\) represents vector \(\mathbf{v}\).
+
+Express \(\overrightarrow{B D}\) in terms of \(\mathbf{u}\) and \(\mathbf{v}\).
+
+4. Factorise fully \(3 x^{2}-48\). 5. The diagram below shows a circle, centre 0 .
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-14.jpg?height=934&width=1079&top_left_y=390&top_left_x=366)
+
+- \(\quad \mathrm{AB}\) and \(\mathrm{CB}\) are tangents to the circle.
+
+- \(\quad \mathrm{AC}\) and ED are parallel.
+
+- Angle AOD is \(143^{\circ}\).
+
+Calculate the size of angle \(\mathrm{ABC}\). 6. Jack called his internet provider on six occasions to report connection problems.
+
+On each occasion he noted the length of time he had to wait before speaking to an adviser.
+
+The times (in minutes) were as follows:
+
+\[
+\begin{array}{llllll}
+13 & 16 & 10 & 22 & 5 & 12
+\end{array}
+\]
+
+(a) Calculate the mean and standard deviation of these times. 7. A carton is in the shape of a large cone with a small cone removed.
+
+The large cone has diameter of \(32 \mathrm{~cm}\) and height \(24 \mathrm{~cm}\).
+
+The small cone has diameter of \(18 \mathrm{~cm}\) and height \(13.5 \mathrm{~cm}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-16.jpg?height=486&width=783&top_left_y=485&top_left_x=525)
+
+Calculate the volume of the carton.
+
+Give your answer correct to 2 significant figures. 8. A set of stepladders has legs 150 centimetres and 140 centimetres long.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-17.jpg?height=471&width=274&top_left_y=347&top_left_x=777)
+
+When the stepladder is fully open, the angle between the longer leg and the ground is \(66^{\circ}\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-17.jpg?height=520&width=554&top_left_y=1039&top_left_x=640)
+
+Calculate \(x^{\circ}\), the size of the angle between the shorter leg and the ground. 9. Express \(x^{2}+8 x-7\) in the form \((x+a)^{2}+b\).
+
+10. Simplify \(\left(n^{2}\right)^{3} \times n^{-10}\).
+
+Give your answer with a positive power. 11. Two pictures are mathematically similar in shape.
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-19.jpg?height=1002&width=576&top_left_y=356&top_left_x=634)
+
+The cost of each picture is proportional to its area.
+
+The large picture costs \(£ 13 \cdot 75\).
+
+Find the cost of the small picture. 12. Change the subject of the formula \(L=\sqrt{4 k t-p}\) to \(k\).
+
+13. Express
+
+\[
+\frac{3}{x-2}+\frac{5}{x+1}, \quad x \neq 2, x \neq-1
+\]
+
+as a single fraction in its simplest form. 14. Solve the equation \(2 \tan x^{\circ}+5=-4\), for \(0 \leq x \leq 360\).
+
+[Turn over 15. This perfume bottle has a label in the shape of part of a circle.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-22.jpg?height=322&width=442&top_left_y=353&top_left_x=1161)
+
+A diagram of the label is shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-22.jpg?height=586&width=885&top_left_y=792&top_left_x=471)
+
+- The centre of the circle is 0.
+
+- The chord \(A B\) is 9 centimetres.
+
+- The radius \(O B\) is \(6 \cdot 6\) centimetres.
+
+Find the height of the label. 16. In the diagram below:
+
+- DE is perpendicular to AC.
+
+- \(\quad A D=4\) centimetres.
+
+- \(\mathrm{DB}=6\) centimetres.
+
+- \(\mathrm{AE}=\mathrm{EC}=3\) centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_269f015701e7cd895170g-23.jpg?height=494&width=739&top_left_y=638&top_left_x=547)
+
+Calculate the length of BC.
+
+Give your answer correct to one decimal place.

@@ -1,0 +1,256 @@
+\title{
+Total marks - 50 \\ Attempt ALL questions
+}
+
+1. Evaluate \(2 \frac{1}{3}+\frac{4}{5}\).
+
+2. Expand and simplify \((3 x+1)(x-1)+2\left(x^{2}-5\right)\). 3. Solve, algebraically, the system of equations
+
+\[
+\begin{aligned}
+& 4 x+5 y=-3 \\
+& 6 x-2 y=5
+\end{aligned}
+\]
+
+4. Two vectors are given by \(\mathbf{u}=\left(\begin{array}{l}1 \\ 5 \\ 1\end{array}\right)\) and \(\mathbf{u}+\mathbf{v}=\left(\begin{array}{r}6 \\ -4 \\ 3\end{array}\right)\).
+
+Find vector \(\mathbf{v}\).
+
+Express your answer in component form. 5. Solve
+
+\[
+x^{2}-11 x+24=0 .
+\]
+
+6. Part of the graph of \(y=a \cos b x^{\circ}\) is shown in the diagram.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-03.jpg?height=551&width=760&top_left_y=1249&top_left_x=571)
+
+State the values of \(a\) and \(b\). 7. The cost of a journey with Tom's Taxis depends on the distance travelled.
+
+The graph below shows the cost, \(P\) pounds, of a journey with Tom's Taxis against the distance travelled, \(d\) miles.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-04.jpg?height=500&width=674&top_left_y=481&top_left_x=614)
+
+Point A represents a journey of 8 miles which costs \(£ 14\).
+
+Point \(B\) represents a journey of 12 miles which costs \(£ 20\).
+
+(a) Find the equation of the line in terms of \(P\) and \(d\).
+
+Give the equation in its simplest form. 
+
+\section{7. (continued)}
+
+(b) Calculate the cost of a journey of 5 miles.
+
+8. Determine the nature of the roots of the function \(f(x)=2 x^{2}+4 x+5\). 9. In the diagram shown below, ABCDEFGHJK is a regular decagon.
+
+- Angle \(\mathrm{KLJ}\) is \(17^{\circ}\).
+
+- AKL is a straight line.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-06.jpg?height=817&width=1356&top_left_y=491&top_left_x=287)
+
+Calculate the size of shaded angle KJL. 10. In triangle \(X Y Z\) :
+
+- \(\mathrm{XZ}=10\) centimetres
+
+- \(\mathrm{YZ}=8\) centimetres
+
+- \(\quad \cos Z=\frac{1}{8}\).
+
+Calculate the length of \(X Y\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-07.jpg?height=451&width=713&top_left_y=251&top_left_x=800)
+
+11. Express \(\frac{9}{\sqrt{6}}\) with a rational denominator.
+
+Give your answer in its simplest form.
+
+12. Given that \(\cos 60^{\circ}=0 \cdot 5\), state the value of \(\cos 240^{\circ}\). 13. The diagram shows a triangular prism, \(A B C D E F\), relative to the coordinate axes.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-09.jpg?height=871&width=1356&top_left_y=401&top_left_x=287)
+
+- \(\mathrm{AD}=\mathrm{AE}\).
+
+- \(\quad \mathrm{DC}=8\) units.
+
+- Edges \(\mathrm{EF}, \mathrm{DC}\) and \(\mathrm{AB}\) are parallel to the \(y\)-axis.
+
+Write down the coordinates of \(B\) and \(C\). 14. Change the subject of the formula \(y=g \sqrt{x}+h\) to \(x\).
+
+15. Remove the brackets and simplify \(\left(\frac{2}{3} p^{4}\right)^{2}\). 16. Sketch the graph of \(y=(x-6)(x+4)\).
+
+On your sketch, show clearly the points of intersection with the \(x\)-axis and the \(y\)-axis, and the coordinates of the turning point. 17. A square based pyramid is shown in the diagram below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-12.jpg?height=545&width=528&top_left_y=356&top_left_x=707)
+
+The square base has length 6 centimetres.
+
+The volume is 138 cubic centimetres.
+
+Calculate the height of the pyramid. 18. Express \(\sin x^{\circ} \cos x^{\circ} \tan x^{\circ}\) in its simplest form.
+
+Show your working. 19. (a) (i) Express \(x^{2}-6 x-81\) in the form \((x-p)^{2}+q\).
+
+(ii) Hence state the equation of the axis of symmetry of the graph of \(y=x^{2}-6 x-81\) 19. (continued)
+
+(b) The roots of the equation \(x^{2}-6 x-81=0\) can be expressed in the form \(x=d \pm d \sqrt{e}\)
+
+Find, algebraically, the values of \(d\) and \(e\). 
+
+\section{Total marks - 60 \\ Attempt ALL questions}
+
+1. Households in a city produced a total of 125000 tonnes of waste in 2017. The total amount of waste is expected to fall by \(2 \%\) each year.
+
+Calculate the total amount of waste these households are expected to produce in 2020. 2. The diagram below shows a sector of a circle, centre \(C\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-17.jpg?height=614&width=586&top_left_y=364&top_left_x=678)
+
+The radius of the circle is \(7 \cdot 4\) centimetres.
+
+Calculate the length of the major arc \(A B\). 3. Find \(|\mathbf{r}|\), the magnitude of vector \(\mathbf{r}=\left(\begin{array}{c}24 \\ -12 \\ 8\end{array}\right)\).
+
+4. Solve, algebraically, the inequation
+
+\[
+3 x<6(x-1)-12
+\]
+
+5. A farmers' market took place one weekend.
+
+Stallholders were asked to record the number of customers who visited their stall.
+
+The number of customers who visited six of the stalls on Saturday were as follows:
+
+\[
+\begin{array}{llllll}
+120 & 126 & 125 & 131 & 130 & 124
+\end{array}
+\]
+
+(a) Calculate the mean and standard deviation of the number of customers. 
+
+\section{5. (continued)}
+
+The mean number of customers who visited these six stalls on Sunday was 117 and the standard deviation was \(6 \cdot 2\).
+
+(b) Make two valid comments comparing the number of customers who visited these stalls on Saturday and Sunday.
+
+6. A function is defined as \(f(x)=5+4 x\).
+
+Given that \(f(a)=73\), calculate \(a\). 7. A toy company makes juggling balls in the shape of a sphere with a diameter of \(6.4\) centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-21.jpg?height=685&width=580&top_left_y=397&top_left_x=675)
+
+Calculate the volume of one juggling ball.
+
+Give your answer correct to 2 significant figures. 8. Solve the equation \(7 \sin x^{\circ}+2=3\), for \(0 \leq x<360\). 9. In this diagram:
+
+- angle \(\mathrm{ABD}=75^{\circ}\)
+
+- angle \(\mathrm{BDC}=37^{\circ}\)
+
+- \(\mathrm{BC}=20\) centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-23.jpg?height=631&width=580&top_left_y=256&top_left_x=1001)
+
+Calculate the length of DC. 10. In the diagram below, \(\overrightarrow{A B}\) and \(\overrightarrow{E A}\) represent the vectors \(\mathbf{u}\) and \(\mathbf{w}\) respectively.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-24.jpg?height=288&width=854&top_left_y=393&top_left_x=541)
+
+- \(\overrightarrow{\mathrm{ED}}=2 \overrightarrow{\mathrm{AB}}\)
+
+- \(\overrightarrow{E A}=2 \overrightarrow{D C}\)
+
+Express \(\overrightarrow{B C}\) in terms of \(\mathbf{u}\) and \(\mathbf{w}\).
+
+Give your answer in its simplest form. 11. Venus and Earth are two planets within our solar system.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-25.jpg?height=277&width=280&top_left_y=364&top_left_x=594)
+
+Venus
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-25.jpg?height=328&width=326&top_left_y=344&top_left_x=1022)
+
+Earth
+
+The volume of Venus is approximately \(9 \cdot 3 \times 10^{11}\) cubic kilometres.
+
+This is \(85 \%\) of the volume of Earth.
+
+Calculate the volume of Earth. 12. The shape below is part of a circle, centre 0 .
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-26.jpg?height=474&width=503&top_left_y=357&top_left_x=708)
+
+The circle has radius 13 centimetres.
+
+\(A B\) is a chord of length 20 centimetres.
+
+Calculate the width of the shape. 13. A ferry and a trawler receive a request for help from a stranded yacht.
+
+On the diagram the points \(F, T\) and \(Y\) show the positions of the ferry, the trawler and the yacht respectively.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-27.jpg?height=654&width=777&top_left_y=470&top_left_x=571)
+
+- \(\mathrm{FY}\) is \(7 \cdot 2\) kilometres.
+
+- \(T Y\) is \(5.6\) kilometres.
+
+- \(\mathrm{FT}\) is \(10 \cdot 3\) kilometres.
+
+- \(\mathrm{F}\) is on a bearing of \(240^{\circ}\) from \(\mathrm{T}\).
+
+Calculate the bearing of the yacht from the trawler. 14. A straight line has equation \(2 x-5 y=20\).
+
+Find the coordinates of the point where this line crosses the \(y\)-axis.
+
+15. Express
+
+\[
+\frac{n}{n^{2}-4} \div \frac{3}{n-2}, \quad n \neq-2, n \neq 2
+\]
+
+as a single fraction in its simplest form. 16. Chris wants to store his umbrella in a locker.
+
+The locker is a cuboid with internal dimensions of length 40 centimetres, breadth 40 centimetres and height 70 centimetres.
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-29.jpg?height=548&width=910&top_left_y=474&top_left_x=503)
+
+The umbrella is 85 centimetres long.
+
+He thinks it will fit into the locker from corner \(P\) to corner \(M\).
+
+Is he correct?
+
+Justify your answer. 17. In the diagram below \(A O D\) is a sector of a circle, with centre \(O\), and \(B O C\) is a triangle.
+
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-30.jpg?height=494&width=871&top_left_y=404&top_left_x=524)
+
+In sector AOD:
+
+- \(\quad\) radius \(=30\) centimetres
+
+- angle \(\mathrm{AOD}=75^{\circ}\).
+
+In triangle OBC:
+
+- \(\mathrm{OB}=38\) centimetres
+
+- \(\mathrm{OC}=55\) centimetres.
+
+Calculate the area of the shaded region, ABCD. 18. A cinema sells popcorn in two different sized cartons.
+![](https://cdn.mathpix.com/cropped/2023_01_08_75f9935c8c21c0b9441dg-31.jpg?height=502&width=1242&top_left_y=357&top_left_x=340)
+
+The small carton is 16 centimetres deep and has a volume of 576 cubic centimetres.
+
+The large carton is 24 centimetres deep and has a volume of 1125 cubic centimetres.
+
+(a) Show that the two cartons are not mathematically similar. 18. (continued)
+
+The large carton is redesigned so that the two cartons are now mathematically similar.
+
+The volume of the redesigned large carton is 1500 cubic centimetres.
+
+(b) Calculate the depth of the redesigned large carton.

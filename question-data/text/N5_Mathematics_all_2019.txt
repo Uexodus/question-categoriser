@@ -1,0 +1,266 @@
+\title{
+Total marks - 50 \\ Attempt ALL questions
+}
+
+1. Given that \(f(x)=5 x^{3}\), evaluate \(f(-2)\).
+
+2. Evaluate \(\frac{3}{8} \times 1 \frac{5}{7}\).
+
+Give your answer in its simplest form. 3. Expand and simplify \((x+5)\left(2 x^{2}-7 x-3\right)\).
+
+4. The diagram below shows a sector of a circle, centre \(C\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-02.jpg?height=437&width=531&top_left_y=1101&top_left_x=654)
+
+The radius of the circle is 30 centimetres.
+
+Calculate the length of the major arc \(A B\).
+
+Take \(\pi=3 \cdot 14\). 5. The midday temperatures in Grantford were recorded over a nine day period. The temperatures, in \({ }^{\circ} \mathrm{C}\), were
+
+\[
+\begin{array}{lllllllll}
+4 & 7 & 4 & 3 & 6 & 10 & 9 & 5 & 3
+\end{array}
+\]
+
+(a) Calculate the median and semi-interquartile range for these temperatures.
+
+Over the same nine day period the midday temperatures in Endoch were also recorded.
+
+The median temperature was \(8^{\circ} \mathrm{C}\), and the semi-interquartile range was \(1.5^{\circ} \mathrm{C}\).
+
+(b) Make two valid comments comparing the midday temperatures of Grantford and Endoch during this period. 6. The fuel consumption of a group of cars is recorded.
+
+The scattergraph shows the relationship between the fuel consumption, \(F\) kilometres per litre, and the engine size, \(E\) litres, of the cars.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-04.jpg?height=831&width=1037&top_left_y=455&top_left_x=404)
+
+A line of best fit has been drawn.
+
+(a) Find the equation of the line of best fit in terms of \(F\) and \(E\). Give the equation in its simplest form. 
+
+\section{6. (continued)}
+
+Amaar's car has an engine size of \(1 \cdot 1\) litres.
+
+(b) Use your equation from part (a) to estimate how many kilometres per litre he should expect to get.
+
+7. The area of a trapezium is given by the formula
+
+\[
+A=\frac{1}{2} h(x+y) .
+\]
+
+Make \(x\) the subject of the formula. 8. John bought 7 bags of cement and 3 bags of gravel.
+
+The total weight of these bags was 215 kilograms.
+
+(a) Write down an equation to illustrate this information.
+
+Shona bought 5 bags of cement and 4 bags of gravel.
+
+The total weight of her bags was 200 kilograms.
+
+(b) Write down an equation to illustrate this information.
+
+(c) Calculate the weight of one bag of cement and the weight of one bag of gravel. 9. The graph shows a parabola.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-07.jpg?height=497&width=557&top_left_y=343&top_left_x=635)
+
+The maximum turning point has coordinates \((4,20)\) as shown in the diagram.
+
+(a) Write down the equation of the axis of symmetry of the graph.
+
+The equation of the parabola is of the form \(y=b-(x+a)^{2}\).
+
+(b) State the values of
+
+(i) \(a\)
+
+(ii) \(b\). 10. In triangle \(\mathrm{PQR}, \overrightarrow{\mathrm{PR}}=\left(\begin{array}{r}6 \\ -4\end{array}\right)\) and \(\overrightarrow{R Q}=\left(\begin{array}{r}-1 \\ 8\end{array}\right)\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-08.jpg?height=454&width=386&top_left_y=367&top_left_x=938)
+
+(a) Express \(\overrightarrow{P Q}\) in component form.
+
+\(M\) is the midpoint of \(P R\).
+
+(b) Express \(\overrightarrow{M Q}\) in component form. 11. Pam is designing a company logo.
+
+She starts by drawing a regular pentagon \(A B C D E\).
+
+The vertices of the pentagon lie on the circumference of a circle with centre 0 .
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-09.jpg?height=651&width=648&top_left_y=477&top_left_x=590)
+
+She then adds to the design as shown in the diagram below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-09.jpg?height=794&width=740&top_left_y=1282&top_left_x=544)
+
+AF is a diameter of the circle.
+
+Calculate the size of angle OFB. 12. Express \(\frac{\sqrt{2}}{\sqrt{40}}\) as a fraction with a rational denominator.
+
+Give your answer in its simplest form.
+
+13. Part of the graph of \(y=3 \cos (x+45)^{\circ}\) is shown in the diagram.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-10.jpg?height=531&width=809&top_left_y=1465&top_left_x=515)
+
+The graph has a minimum turning point at \(A\).
+
+State the coordinates of \(A\). 14. Solve the equation \(\frac{x}{2}-1=\frac{3-x}{5}\). 15. A ball is kicked from a clifftop.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-12.jpg?height=551&width=694&top_left_y=347&top_left_x=567)
+
+The height, \(h\) metres, of the ball relative to the clifftop after \(t\) seconds is given by \(h=12 t-5 t^{2}\).
+
+(a) Calculate the height of the ball above the clifftop after 2 seconds. 15. (continued)
+
+The graph below represents the height, \(h\) metres, of the ball relative to the clifftop after \(t\) seconds.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-13.jpg?height=688&width=548&top_left_y=501&top_left_x=640)
+
+The sea is 17 metres below the clifftop.
+
+(b) After how many seconds will the ball hit the sea? 
+
+\section{Total marks - 60 \\ Attempt ALL questions}
+
+1. A charity distributed 80000 emergency packages during 2018.
+
+This number is expected to increase by \(15 \%\) each year.
+
+Calculate how many emergency packages the charity expects to distribute in 2021.
+
+2. Find \(|\mathbf{p}|\), the magnitude of vector \(\mathbf{p}=\left(\begin{array}{r}6 \\ 27 \\ -18\end{array}\right)\). 3. The diagram shows triangle \(P Q R\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-15.jpg?height=425&width=922&top_left_y=347&top_left_x=453)
+
+- \(\mathrm{PR}=45\) centimetres
+
+- \(\mathrm{PQ}=70\) centimetres
+
+- Angle \(\mathrm{QPR}=129^{\circ}\)
+
+Calculate the area of triangle \(P Q R\).
+
+4. A sesame seed weighs \(3 \cdot 6 \times 10^{-6}\) kilograms.
+
+The weight of a poppy seed is \(8 \%\) of the weight of a sesame seed.
+
+Calculate the weight of a poppy seed in kilograms.
+
+Give your answer in scientific notation. 5. The diagram shows a cone with diameter 6 units and height 8 units.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-16.jpg?height=808&width=691&top_left_y=353&top_left_x=585)
+
+- The \(x\)-axis and the \(y\)-axis are tangents to the base
+
+- \(\mathrm{A}\) is the point of contact between the base and the \(x\)-axis
+
+- \(\quad \mathrm{B}\) is directly above the centre of the base
+
+Write down the coordinates of \(A\) and \(B\). 6. Solve the equation \(3 x^{2}+9 x-2=0\).
+
+Give your answers correct to 1 decimal place. 7. Triangle \(X Y Z\) is shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-18.jpg?height=514&width=828&top_left_y=343&top_left_x=500)
+
+Calculate the size of the smallest angle in triangle \(X Y Z\). 8. A traffic bollard is in the shape of a cylinder with a hemisphere on top.
+
+The bollard has
+
+- diameter 24 centimetres
+
+- height 70 centimetres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-19.jpg?height=753&width=411&top_left_y=326&top_left_x=1234)
+
+Calculate the volume of the bollard.
+
+Give your answer correct to 3 significant figures. 9. Georgie had her roof repaired.
+
+She was charged an extra \(2.5 \%\) for late payment.
+
+She had to pay a total of \(£ 977 \cdot 85\).
+
+Calculate how much she would have saved if she had paid on time.
+
+10. Express \(x^{2}+10 x-15\) in the form \((x+p)^{2}+q\). 11. The diagram shows the course for a jet-ski race.
+
+The course is indicated by markers A, B and C.
+
+The total length of the course is 1500 metres.
+
+- \(B\) is 600 metres from \(A\)
+
+- \(C\) is 650 metres from \(A\)
+
+- \(C\) is due north of \(B\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-21.jpg?height=406&width=766&top_left_y=405&top_left_x=882)
+
+Determine whether \(B\) is due east of \(A\).
+
+Justify your answer. 12. In the diagram
+
+- \(\mathrm{ABC}\) is a sector of a circle, centre \(\mathrm{C}\)
+
+- \(D E F\) is a sector of a circle, centre \(F\).
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-22.jpg?height=404&width=1204&top_left_y=480&top_left_x=313)
+
+The sectors are mathematically similar.
+
+The area of the larger sector, \(A B C\), is 2750 square centimetres.
+
+(a) Calculate the area of the smaller sector, DEF.
+
+(b) Calculate the size of angle ACB. 13. Find an expression for the gradient of the line joining point \(A(6,9)\) to point \(\mathrm{B}\left(4 p, 4 p^{2}\right)\).
+
+Give your answer in its simplest form.
+
+14. Solve the equation \(5 \cos x^{\circ}+2=1, \quad 0 \leq x<360\). 15. Express
+
+\[
+\frac{4}{x-2}-\frac{3}{x+5}, \quad x \neq 2, x \neq-5
+\]
+
+as a single fraction in its simplest form.
+
+16. Simplify \(\frac{a^{4} \times 3 a}{\sqrt{a}}\). 17. Expand and simplify
+
+\[
+\left(\sin x^{\circ}+\cos x^{\circ}\right)^{2}
+\]
+
+Show your working. 18. The picture shows a cartoon snowman.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-26.jpg?height=472&width=445&top_left_y=278&top_left_x=1185)
+
+The diagram below represents the snowman.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-26.jpg?height=629&width=443&top_left_y=862&top_left_x=698)
+
+- The head is a small circle, centre S, with diameter 15 centimetres
+
+- The body is part of a larger circle, centre \(\mathrm{T}\)
+
+- The point \(\mathrm{T}\) lies on the circumference of the small circle
+
+- The points \(A\) and \(B\) lie on the circumferences of both circles
+
+Calculate CD, the height of the snowman. 19. Katy and Mona are looking up at a hot-air balloon.
+
+In the diagram below, K, M and B represent the positions of Katy, Mona and the balloon respectively.
+
+![](https://cdn.mathpix.com/cropped/2023_01_10_bae77a2857400ba6d6feg-27.jpg?height=397&width=737&top_left_y=461&top_left_x=548)
+
+- The angle of elevation of the balloon from Katy is \(52^{\circ}\)
+
+- The angle of elevation of the balloon from Mona is \(34^{\circ}\)
+
+- Katy and Mona are 350 metres apart on level ground
+
+Calculate the height of the hot-air balloon above the ground.

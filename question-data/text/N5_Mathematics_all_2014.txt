@@ -1,0 +1,184 @@
+1. Evaluate \(\frac{5}{12} \times 2 \frac{2}{9}\).
+
+Give the answer in simplest form.
+
+2. Multiply out the brackets and collect like terms: \((2 x-5)(3 x+1)\) 3. Express \(x^{2}-14 x+44\) in the form \((x-a)^{2}+b\).
+
+4. Find the resultant vector \(2 u-v\) when \(\boldsymbol{u}=\left(\begin{array}{r}-2 \\ 3 \\ 5\end{array}\right)\) and \(\boldsymbol{v}=\left(\begin{array}{r}0 \\ -4 \\ 7\end{array}\right)\).
+
+Express your answer in component form. 5. In triangle \(\mathrm{KLM}\)
+
+- \(\mathrm{KM}=18\) centimetres
+
+- \(\sin K=0.4\)
+
+- \(\sin L=0.9\)
+
+Calculate the length of LM.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-03.jpg?height=325&width=651&top_left_y=286&top_left_x=931)
+
+[Turn over 6. McGregor's Burgers sells fast food.
+
+The graph shows the relationship between the amount of fat, \(F\) grams, and the number of calories, \(C\), in some of their sandwiches.
+
+\section{Calories}
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-04.jpg?height=1034&width=713&top_left_y=445&top_left_x=503)
+
+A line of best fit has been drawn.
+
+Point A represents a sandwich which has 5 grams of fat and 200 calories.
+
+Point \(B\) represents a sandwich which has 25 grams of fat and 500 calories. 
+
+\section{6. (continued)}
+
+(a) Find the equation of the line of best fit in terms of \(F\) and \(C\).
+
+(b) A Super Deluxe sandwich contains 40 grams of fat.
+
+Use your answer to part (a) to estimate the number of calories this sandwich contains.
+
+Show your working. 7. The diagram below shows part of the graph of \(y=a x^{2}\)
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-06.jpg?height=746&width=850&top_left_y=358&top_left_x=503)
+
+Find the value of \(a\). 8. Express \(\sqrt{40}+4 \sqrt{10}+\sqrt{90}\) as a surd in its simplest form.
+
+9. 480000 tickets were sold for a tennis tournament last year.
+
+This represents \(80 \%\) of all the available tickets.
+
+Calculate the total number of tickets that were available for this tournament. 10. The graph of \(y=a \sin (x+b)^{\circ}, 0 \leq x \leq 360\), is shown below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-08.jpg?height=1177&width=1236&top_left_y=351&top_left_x=296)
+
+Write down the values of \(a\) and \(b\). 11. (a) A straight line has equation \(4 x+3 y=12\).
+
+Find the gradient of this line.
+
+(b) Find the coordinates of the point where this line crosses the \(x\)-axis. 12. The diagram below shows a circle, centre \(C\).
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-10.jpg?height=414&width=423&top_left_y=330&top_left_x=702)
+
+The radius of the circle is 15 centimetres.
+
+\(A\) is the mid-point of chord PQ.
+
+The length of \(A B\) is 27 centimetres.
+
+Calculate the length of PQ. 13. The diagram below shows the path of a small rocket which is fired into the air. The height, \(h\) metres, of the rocket after \(t\) seconds is given by
+
+\[
+h(t)=16 t-t^{2}
+\]
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-11.jpg?height=359&width=486&top_left_y=443&top_left_x=662)
+
+(a) After how many seconds will the rocket first be at a height of 60 metres?
+
+(b) Will the rocket reach a height of 70 metres?
+
+Justify your answer. 1. There are 964 pupils on the roll of Aberleven High School. It is forecast that the roll will decrease by \(15 \%\) per year.
+
+What will be the expected roll after 3 years?
+
+Give your answer to the nearest ten. 2. The diagram shows a cube placed on top of a cuboid, relative to the coordinate axes.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-13.jpg?height=685&width=828&top_left_y=374&top_left_x=548)
+
+\(A\) is the point \((8,4,6)\).
+
+Write down the coordinates of \(B\) and \(C\). 3. Two groups of people go to a theatre.
+
+Bill buys tickets for 5 adults and 3 children.
+
+The total cost of his tickets is \(£ 158 \cdot 25\).
+
+(a) Write down an equation to illustrate this information.
+
+(b) Ben buys tickets for 3 adults and 2 children.
+
+The total cost of his tickets is \(£ 98\).
+
+Write down an equation to illustrate this information.
+
+(c) Calculate the cost of a ticket for an adult and the cost of a ticket for a child. 4. A runner has recorded her times, in seconds, for six different laps of a running track.
+
+\(\begin{array}{llllll}53 & 57 & 58 & 60 & 55 & 56\end{array}\)
+
+(a) (i) Calculate the mean of these lap times.
+
+Show clearly all your working.
+
+(ii) Calculate the standard deviation of these lap times.
+
+Show clearly all your working. 
+
+\section{4. (continued)}
+
+(b) She changes her training routine hoping to improve her consistency. After this change, she records her times for another six laps. The mean is 55 seconds and the standard deviation \(3 \cdot 2\) seconds. Has the new training routine improved her consistency? Give a reason for your answer. 5. A supermarket sells cylindrical cookie jars which are mathematically similar.
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-17.jpg?height=708&width=1052&top_left_y=337&top_left_x=386)
+
+The smaller jar has a height of 15 centimetres and a volume of 750 cubic centimetres.
+
+The larger jar has a height of 24 centimetres.
+
+Calculate the volume of the larger jar. 6. The diagram below shows the position of three towns.
+
+Lowtown is due west of Midtown.
+
+The distance from
+
+- Lowtown to Midtown is 75 kilometres.
+
+- Midtown to Hightown is 110 kilometres.
+
+- Hightown to Lowtown is 85 kilometres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-18.jpg?height=565&width=586&top_left_y=657&top_left_x=632)
+
+Is Hightown directly north of Lowtown?
+
+Justify your answer. 7. An ornament is in the shape of a cone with diameter 8 centimetres and height 15 centimetres.
+
+The bottom contains a hemisphere made of copper with diameter \(7 \cdot 4\) centimetres. The rest is made of glass, as shown in the diagram below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-19.jpg?height=819&width=600&top_left_y=493&top_left_x=631)
+
+Calculate the volume of the glass part of the ornament.
+
+Give your answer correct to 2 significant figures. 8. Simplify \(\frac{n^{5} \times 10 n}{2 n^{2}}\).
+
+9. Express \(\frac{7}{x+5}-\frac{3}{x} \quad x \neq-5, x \neq 0\) as a single fraction in its simplest form. 10. In a race, boats sail round three buoys represented by \(A, B\), and \(C\) in the diagram below.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-21.jpg?height=628&width=697&top_left_y=374&top_left_x=568)
+
+\(\mathrm{B}\) is 8 kilometres from \(\mathrm{A}\) on a bearing of \(060^{\circ}\).
+
+\(C\) is 11 kilometres from \(B\).
+
+\(A\) is 13 kilometres from \(C\).
+
+(a) Calculate the size of angle \(A B C\).
+
+(b) Hence find the size of the shaded angle. 11. Change the subject of the formula \(s=u t+\frac{1}{2} a t^{2}\) to \(a\).
+
+12. Solve the equation \(11 \cos x^{\circ}-2=3\), for \(0 \leq x \leq 360\). 13. The picture shows the entrance to a tunnel which is in the shape of part of a circle.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-23.jpg?height=266&width=374&top_left_y=375&top_left_x=744)
+
+The diagram below represents the cross-section of the tunnel.
+
+- The centre of the circle is 0 .
+
+- \(M N\) is a chord of the circle.
+
+- Angle \(M O N\) is \(50^{\circ}\).
+
+- The radius of the circle is 7 metres.
+
+![](https://cdn.mathpix.com/cropped/2023_01_11_5bbd3e5be6ec1dbf54e8g-23.jpg?height=579&width=608&top_left_y=767&top_left_x=1067)
+
+Calculate the area of the cross-section of the tunnel.
